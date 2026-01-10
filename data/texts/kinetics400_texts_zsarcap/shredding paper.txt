@@ -1,0 +1,218 @@
+How to Shred Paper in a Shredding Machine
+Download Article
+STEPS
+Steps
+OTHER SECTIONS
+Questions & Answers
+Tips and Warnings
+Related Articles
+Author Info
+Last Updated: October 5, 2020
+
+If you want to shred paper in a shredding machine, read this simple article to learn how to do it!
+
+StepsDownload Article
+Image titled Shred Paper in a Shredding Machine Step 1
+1
+Check the shredder blades. Unplug then open the shredder. If the blades are too chipped, then you may need a new shredder.
+Image titled Shred Paper in a Shredding Machine Step 2
+2
+Know the limitations of your shredder. For example, your shredder may not be able to shred banking cards or may get jammed if you try to shred paper clips or staples. Knowing the limitations of your shredder can help you avoid breaking your shredder.
+Image titled Shred Paper in a Shredding Machine Step 3
+3
+Insert the documents or cards into the shredder. This will fragment the documents into hundreds of pieces. You will not be able to piece the documents back together after doing this.
+Cards go into the slot labeled "Insert card here". Your card could be oriented in any way.
+Image titled Shred Paper in a Shredding Machine Step 4
+4
+Turn the shredder on. Press and hold the shredder button or turn the switch. This will allow the shredding of the documents.
+If the shredder gets jammed, then press the "Reverse" button or turn the switch to "Reverse".
+Image titled Shred Paper in a Shredding Machine Step 5
+5
+Recycle the fragments. The resulting paper/plastic can be recycled. Save trees and the environment by recycling the fragments! Open the shredder and dispose of the contents in the recycling bin.
+
+Paper shredder
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Paper shredder" – news · newspapers · books · scholar · JSTOR (May 2021) (Learn how and when to remove this template message)
+
+Paper shredder with built-in wastebasket
+
+Inner view of a paper shredder with motor
+
+Detail of a cross-cut paper shredder
+A paper shredder is a mechanical device used to cut paper into either strips or fine particles. Government organizations, businesses, and private individuals use shredders to destroy private, confidential, or otherwise sensitive documents.
+
+
+Contents
+1	Invention
+2	History of use
+3	Types
+3.1	Mobile shredding truck
+3.2	Kiosks
+3.3	Services
+4	Shredding method, and output
+4.1	Security levels
+4.1.1	Deutsches Institut für Normung (DIN)
+4.1.2	NSA/CSS
+4.1.3	ISO/IEC
+5	Destruction of evidence
+6	Unshredding and forensics
+6.1	Reconstruction examples
+6.2	Forensic identification
+7	Recycling of waste
+8	See also
+9	References
+Invention
+The first paper shredder is credited to prolific inventor Abbot Augustus Low, whose patent was filed on February 2, 1909.[1] His invention was however never manufactured because the inventor died prematurely soon after filing the patent.[2]
+
+Adolf Ehinger's paper shredder, based on a hand-crank pasta maker, was the first to be manufactured in 1935 in Germany. Supposedly he created a shredding machine to shred his anti-Nazi leaflets to avoid the inquiries of the authorities.[3] Ehinger later marketed and began selling his patented shredders to government agencies and financial institutions converting from hand-crank to electric motor.[2] Ehinger's company, EBA Maschinenfabrik, manufactured the first cross-cut paper shredders in 1959 and continues to do so to this day as EBA Krug & Priester GmbH & Co. in Balingen.
+
+Right before the fall of the Berlin Wall, a “wet shredder” was invented in the former German Democratic Republic. To prevent paper shredders in the Ministry for State Security (Stasi) from glutting, this device mashed paper snippets with water.[2]
+
+With a shift from paper to digital document production, modern industrial shredders can process non-paper media, such as credit cards and CDs, and destroy thousands of documents in under one minute.[2]
+
+History of use
+Until the mid-1980s, it was rare for paper shredders to be used by non-government entities.
+
+A high-profile example of their use was when the U.S. embassy in Iran used shredders to reduce paper pages to strips before the embassy was taken over in 1979, but some documents were reconstructed from the strips, as detailed below.
+
+After Colonel Oliver North told Congress that he used a Schleicher cross-cut model to shred Iran-Contra documents, sales for that company increased nearly 20 percent in 1987.[4]
+
+Paper shredders became more popular among U.S. citizens with privacy concerns after the 1988 Supreme Court decision in California v. Greenwood; in which the Supreme Court of the United States held that the Fourth Amendment does not prohibit the warrantless search and seizure of garbage left for collection outside of a home. Anti-burning laws also resulted in increased demand for paper shredding.
+
+More recently, concerns about identity theft have driven increased personal use,[5] with the US Federal Trade Commission recommending that individuals shred financial documents before disposal.[6]
+
+Information privacy laws such as FACTA, HIPAA, and the Gramm–Leach–Bliley Act are driving shredder usage, as businesses and individuals take steps to securely dispose of confidential information.
+
+Types
+
+Multi-cut scissors used to shred paper
+Shredders range in size and price from small and inexpensive units designed for a certain amount of pages, to large expensive units used by commercial shredding services and can shred millions of documents per hour. While the very smallest shredders may be hand-cranked, most shredders are electrically powered.
+
+Shredders over time have added features to improve the shredder user's experience. Many now reject paper that is fed over capacity to avoid jams; others have safety features to reduce risks.[7][8] Some shredders designed for use in shared workspaces or department copy rooms have noise reduction.[citation needed]
+
+Mobile shredding truck
+Larger organisation or shredding services sometimes use "mobile shredding trucks", typically constructed as a box truck with an industrial-size paper shredder mounted inside and space for storage of the shredded materials. Such a unit may also offer the shredding of CDs, DVDs, hard drives, credit cards, and uniforms, among other things.[citation needed]
+
+Kiosks
+A 'shredding kiosk' is an automated retail machine (or kiosk) that allows public access to a commercial or industrial-capacity paper shredder. This is an alternative solution to the use of a personal or business paper shredder, where the public can use a faster and more powerful shredder, paying for each shredding event rather than purchasing shredding equipment.[citation needed]
+
+Services
+Some companies outsource their shredding to 'shredding services'. These companies either shred on-site, with mobile shredder trucks or have off-site shredding facilities. Documents that need to be destroyed are often placed in locked bins that are emptied periodically.
+
+
+Shredding console
+Shredding method, and output
+As well as size and capacity, shredders are classified according to the method they use; and the size and shape of the shreds they produce.
+
+Strip-cut shredders use rotating knives to cut narrow strips as long as the original sheet of paper.
+Cross-cut or confetti-cut shredders use two contra-rotating drums to cut rectangular, parallelogram, or lozenge (diamond-shaped) shreds.
+Particle-cut shredders create tiny square or circular pieces.
+Cardboard shredders are designed specifically to shred corrugated material into either strips or a mesh pallet.
+Disintegrators and granulators repeatedly cut the paper at random with rotating knives in a drum until the particles are small enough to pass through a fine mesh.
+Hammermills pound the paper through a screen.
+Pierce-and-tear shredders have rotating blades that pierce the paper and then tear it apart.
+Grinders have a rotating shaft with cutting blades that grind the paper until it is small enough to fall through a screen.
+
+The shredded remains of a National Lottery play slip.
+Security levels
+There is a number of standards covering the security levels of paper shredders, including:
+
+Deutsches Institut für Normung (DIN)
+The previous DIN 32757 standard has now been replaced with DIN 66399. This is complex,[9] but can be summarized as below:
+
+Level P-1 = ≤ 2000 mm² particles or ≤ 12 mm wide strips of any length (For shredding general internal documents such as instructions, forms, expired notices)
+Level P-2 = ≤ 800 mm² particles or ≤ 6 mm wide strips of any length
+Level P-3 = ≤ 320 mm² particles or ≤ 2 mm wide strips of any length (For highly sensitive documents and personal data subject to high protection requirements, purchase order, order confirmations or delivery notes with address data)
+Level P-4 = ≤ 160 mm² particles with width ≤ 6 mm (Particularly sensitive and confidential data, working documents, customer/client data, invoices, private tax and financial documents)
+Level P-5 = ≤ 30 mm² particles with width ≤ 2 mm (Data that must be kept secret, balance sheets and profit-and-loss, strategy papers, design and engineering documents, personal data)
+Level P-6 = ≤ 10 mm² particles with width ≤ 1 mm (Secret high-security data, patents, research and development documents, essential information that is important for your existence)
+Level P-7 = ≤ 5 mm² particles with width ≤ 1 mm (Top secret, highly classified data for the military, embassies, intelligence services)
+NSA/CSS
+The United States National Security Agency and Central Security Service produce "NSA/CSS Specification 02-01 for High Security Crosscut Paper Shredders". They provide a list of evaluated shredders.[10]
+
+ISO/IEC
+The International Organization for Standardization and the International Electrotechnical Commission produce "ISO/IEC 21964 Information technology — Destruction of data carriers".[11][12][13] The General Data Protection Regulation (GDPR), which came into force in May, 2018, regulates the handling and processing of personal data. ISO/IEC 21964 and DIN 66399 support data protection in business processes.[citation needed]
+
+Destruction of evidence
+There have been many instances where it is alleged that documents have been improperly or illegally destroyed by shredding, including:
+
+Oliver North shredded documents relating to the Iran–Contra affair between November 21 and November 25, 1986.[14] During the trial, North testified that on November 21, 22, or 24, he witnessed John Poindexter destroy what may have been the only signed copy of a presidential covert action finding that sought to authorize CIA participation in the November 1985 Hawk missile shipment to Iran.[14]
+According to the report of the Paul Volcker Committee, between April and December 2004, Kofi Annan's Chef de Cabinet, Iqbal Riza, authorized thousands of United Nations documents shredded, including the entire chronological files of the Oil-for-Food Programme during the years 1997 through 1999.[15]
+The Union Bank of Switzerland used paper shredders to destroy evidence that their company owned property stolen from Jews during the Holocaust by the Nazi government. The shredding was disclosed to the public through the work of Christoph Meili, a security guard working at the bank who happened to wander by a room where the shredding was taking place. Also in the shredding room were books from the German Reichsbank.[16] They listed stock accounts for companies involved in the holocaust, including BASF, Degussa, and Degesch.[17] They also listed real-estate records for Berlin properties that had been forcibly taken by the Nazis, placed in Swiss accounts, and then claimed to be owned by UBS.[18] Destruction of such documents was a violation of Swiss laws.[19]
+Unshredding and forensics
+
+An example of a shredded and reassembled document during Iran hostage crisis
+To achieve their purpose, it should not be possible to reassemble and read shredded documents. In practice the feasibility of this depends on
+
+how well the shredding has been done, and
+the resources put into reconstruction.
+The resources put into reconstruction should depend on the importance of the document, e.g. whether it is
+
+a simple personal matter,
+corporate espionage,
+a criminal matter,
+a matter of national security.
+How easy reconstruction is will depend on:
+
+the size and legibility of the text
+whether the document is single- or double-sided
+the size and shape of the shredded pieces
+the orientation of the material when fed
+how effectively the shredded material is further randomized afterwards
+whether other processes such as pulping and chemical decomposition are used
+Even without a full reconstruction, in some cases useful information can be obtained by forensic analysis of the paper, ink, and cutting method.
+
+Reconstruction examples
+	Wikisource has original text related to this article:
+Portal:Documents seized from the U.S. Embassy in Tehran/Shredded Documents
+After the Iranian Revolution and the takeover of the U.S. embassy in Tehran in 1979, Iranians enlisted local carpet weavers who reconstructed the pieces by hand. The recovered documents would be later released by the Iranian government in a series of books called "Documents from the US espionage Den".[20] The US government subsequently improved its shredding techniques by adding pulverizing, pulping, and chemical decomposition protocols.
+Modern computer technology considerably speeds up the process of reassembling shredded documents. The strips are scanned on both sides, and then a computer determines how the strips should be put together. Robert Johnson of the National Association for Information Destruction[21] has stated that there is a huge demand for document reconstruction. Several companies offer commercial document reconstruction services. For maximum security, documents should be shredded so that the words of the document go through the shredder horizontally (i.e. perpendicular to the blades). Many of the documents in the Enron Accounting scandals were fed through the shredder the wrong way, making them easier to reassemble.
+In 2003, there was an effort underway to recover the shredded archives of the Stasi, the East German secret police.[22] There are "millions of shreds of paper that panicked Stasi officials threw into garbage bags during the regime's final days in the fall of 1989". As it took three dozen people six years to reconstruct 300 of the 16,000 bags, the Fraunhofer-IPK institute has developed the Stasi-Schnipselmaschine ('Stasi snippet machine') for computerized reconstruction and is testing it in a pilot project.
+The DARPA Shredder Challenge 2011 called upon computer scientists, puzzle enthusiasts, and anyone else with an interest in solving complex problems, to compete for up to $50,000 by piecing together a series of shredded documents. The Shredder Challenge consisted of five separate puzzles in which the number of documents, the document subject matter and the method of shredding were varied to present challenges of increasing difficulty. To complete each problem, participants were required to provide the answer to a puzzle embedded in the content of the reconstructed document. The overall prizewinner and prize awarded was dependent on the number and difficulty of the problems solved. DARPA declared a winner on December 2, 2011 (the winning entry was submitted 33 days after the challenge began) – the winner was "All Your Shreds Are Belong To U.S." using a combination system that used automated sorting to pick the best fragment combinations to be reviewed by humans.[23]
+Forensic identification
+The individual shredder that was used to destroy a given document may be sometimes be of forensic interest. Shredders display certain device-specific characteristics, "fingerprints", like the exact spacing of the blades, the degree and pattern of their wear. By closely examining the shredded material, the minute variations of size of the paper strips and the microscopic marks on their edges may be able to be linked to a specific machine.[24] (c.f. the forensic identification of typewriters.)
+
+Recycling of waste
+The resulting shredded paper can be recycled in a number of ways, including:
+
+Animal bedding — To produce a warm and comfortable bed for animals[25]
+Void fill and packaging — Void fill for the transportation of goods
+Briquettes — an alternative to non-renewable fuels
+Insulation — Shredded newsprint mixed with flame-retardant chemicals and glue to create a sprayable insulation material for wall interiors and the underside of roofing[citation needed]
+See also
+	Wikimedia Commons has media related to Paper shredders.
+Baler
+Industrial shredder
+Paper recycling
+Used note
+References
+ Abbot Augustus Low Waste-paper receptacle February 2, 1909 Patent filing
+ Beyes, Timon; Holt, Robin; Pias, Claus (2019-12-17). The Oxford Handbook of Media, Technology, and Organization Studies. Oxford University Press. ISBN 978-0-19-253795-9.
+ Woestendiek, John (February 10, 2002). "The Compleat History of SHREDDING". The Baltimore Sun. Archived from the original on 22 August 2016. Retrieved 22 February 2017.
+ "Business notes office equipment". Time. 1988-02-29. Archived from the original on 2007-09-30. Retrieved 2009-07-27.
+ "About Identity Theft". US FTC website. Archived from the original on 2009-05-20.
+ "Fighting Back Against Identity Theft". US FTC website. Archived from the original on 2009-05-28.
+ "Paper Shredder Safety Alert" (PDF) (Press release). U.S. Consumer Product Safety Commission. 11 June 2007. Archived (PDF) from the original on 22 November 2008.
+ "Paper Shredder Danger". Snopes.com. Retrieved 2009-07-27.
+ "New times, new storage media, new standards". HSM. Archived from the original on 23 February 2017. Retrieved 22 February 2017.
+ "NSA/CSS EVALUATED PRODUCTS LIST for HIGH SECURITY CROSSCUT PAPER SHREDDERS" (PDF). Archived (PDF) from the original on 2017-02-23.
+ "ISO/IEC 21964-1:2018: Information technology — Destruction of data carriers — Part 1: Principles and definitions". Geneva: International Organization for Standardization. May 2018. Retrieved 2020-07-28.
+ "ISO/IEC 21964-2:2018: Information technology — Destruction of data carriers — Part 2: Requirements for equipment for destruction of data carriers". Geneva: International Organization for Standardization. August 2018. Retrieved 2020-07-28.
+ "ISO/IEC 21964-3:2018: Information technology — Destruction of data carriers — Part 3: Process of destruction of data carriers". Geneva: International Organization for Standardization. August 2018. Retrieved 2020-07-28.
+ Walsh, Lawrence (August 4, 1993). "Vol. I: Investigations and prosecutions". Final report of the independent counsel for Iran/Contra matters. Independent Council for Iran/Contra Matters. Archived from the original on 17 April 2009. Retrieved 15 May 2009.
+ "Interim Report March 2005" (PDF). Archived from the original (PDF) on 2009-08-05. Retrieved 2009-07-27.
+ Eizenstat, Stuart (2003). Imperfect Justice. New York: PublicAffairs. ISBN 1-58648-110-X. Page 94
+ Eizenstat p 94, 95
+ Eizenstat p 95
+ Swiss parliament: Parliamentary Initiative 96.434: Bundesbeschluss betreffend die historische und rechtliche Untersuchung des Schicksals der infolge der nationalsozialistischen Herrschaft in die Schweiz gelangten Vermögenswerte Archived 2008-02-26 at the Wayback Machine; in German. Entry in force December 14, 1996. This edict was the legal foundation of the Bergier commission, constituted on December 19, 1996. Articles 4, 5, and 7 made the willful destruction or withholding of documents relating to orphaned assets illegal. On the dates given, see Chronology: Switzerland in World War II — Detailed Overview of the years 1994-1996 Archived 2006-07-18 at the Wayback Machine. URLs last accessed 2006-10-30.
+ Dānishjūyān-i Musalmān-i Payraw-i Khaṭṭ-i Imām, Dānishjūyan-i Musalmān-i Payraw-i Khaṭṭ-i Imām (1980). Documents from the U.S. Espionage Den. Published by Muslim Students Following the Line of the Iman. Archived from the original on 2013-10-18.
+ "National Association for Information Destruction". naidonline.org. Archived from the original on 2009-08-05.
+ Heingartner, Douglas (2003-07-17). "Back Together Again". New York Times. Archived from the original on 2008-03-05. Retrieved 2007-01-03.
+ "Darpa Shredder Challenge". Darpa.mil. U S. Department of Defense. Archived from the original on 25 August 2016. Retrieved 27 September 2016.
+ Jack Brassil (2002-08-02). "Tracing the Source of a Shredded Document" (PDF). Hewlett-Packard. Archived (PDF) from the original on 2006-10-29. Retrieved 2007-01-03.
+ bOnline LTD. "Wilki Engineering manufactures bespoke shredding machines & balers". wilkiengineering.co.uk.
+vte
+Paper

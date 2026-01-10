@@ -1,0 +1,1039 @@
+Long jump
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For the World War II plot, see Operation Long Jump. For the programming function, see longjmp.
+Not to be confused with Standing long jump.
+Athletics
+Long jump
+2007 Military World Games long jump.jpg
+A long jumper at the 2007 Military World Games
+World records
+Men	United States Mike Powell 8.95 m (29 ft 4+1⁄4 in) (1991)
+Women	Soviet Union Galina Chistyakova 7.52 m (24 ft 8 in) (1988)
+Olympic records
+Men	United States Bob Beamon 8.90 m (29 ft 2+1⁄4 in) (1968)
+Women	United States Jackie Joyner-Kersee 7.40 m (24 ft 3+1⁄4 in) (1988)
+World Championship records
+Men	United States Mike Powell 8.95 m (29 ft 4+1⁄4 in) (1991)
+Women	United States Jackie Joyner-Kersee 7.36 m (24 ft 1+3⁄4 in) (1987)
+File:Women's Long Jump Final - 28th Summer Universiade 2015.webm
+Women's Long Jump Final – 28th Summer Universiade 2015
+The long jump is a track and field event in which athletes combine speed, strength and agility in an attempt to leap as far as possible from a takeoff point. Along with the triple jump, the two events that measure jumping for distance as a group are referred to as the "horizontal jumps". This event has a history in the ancient Olympic Games and has been a modern Olympic event for men since the first Olympics in 1896 and for women since 1948.
+
+
+Contents
+1	Rules
+2	History
+3	Technique
+3.1	Approach
+3.2	Last two strides
+3.3	Takeoff
+3.3.1	Kick
+3.3.2	Double-arm
+3.3.3	Sprint
+3.3.4	Power sprint or bounding
+3.4	Action in the air and landing
+4	Culture
+5	Records
+6	Continental records
+6.1	Outdoor
+6.1.1	Notes
+6.2	Indoor
+7	All-time top 25
+7.1	Men (outdoor)
+7.1.1	Assisted marks
+7.2	Women (outdoor)
+7.2.1	Assisted marks
+8	Olympic medalists
+8.1	Men
+8.2	Women
+9	World Championships medalists
+9.1	Men
+9.2	Women
+10	World Indoor Championships medalists
+10.1	Men
+10.2	Women
+11	Season's bests
+11.1	Men
+11.2	Women
+12	National records
+12.1	Men (outdoor)
+12.2	Women (outdoor)
+13	Notes and references
+14	Cited sources
+15	Further reading
+16	External links
+Rules
+
+An indicator of wind direction and a device for measuring wind speed (here +2.6 m/s) along a run-up track
+At the elite level, competitors run down a runway (usually coated with the same rubberized surface as running tracks, crumb rubber also vulcanized rubber—known generally as an all-weather track) and jump as far as they can from a wooden board 20 cm or 8 inches wide that is built flush with the runway into a pit filled with finely ground gravel or sand. If the competitor starts the leap with any part of the foot past the foul line, the jump is declared a foul and no distance is recorded. A layer of plasticine is placed immediately after the board to detect this occurrence. An official (similar to a referee) will also watch the jump and make the determination. The competitor can initiate the jump from any point behind the foul line; however, the distance measured will always be perpendicular to the foul line to the nearest break in the sand caused by any part of the body or uniform. Therefore, it is in the best interest of the competitor to get as close to the foul line as possible. Competitors are allowed to place two marks along the side of the runway in order to assist them to jump accurately. At a lesser meet and facilities, the plasticine will likely not exist, the runway might be a different surface or jumpers may initiate their jump from a painted or taped mark on the runway. At a smaller meet, the number of attempts might also be limited to four or three.
+
+Each competitor has a set number of attempts. That would normally be three trials, with three additional jumps being awarded to the best 8 or 9 (depending on the number of lanes on the track at that facility, so the event is equatable to track events) competitors. All legal marks will be recorded but only the longest legal jump counts towards the results. The competitor with the longest legal jump (from either the trial or final rounds) at the end of competition is declared the winner. In the event of an exact tie, then comparing the next best jumps of the tied competitors will be used to determine place. In a large, multi-day elite competition (like the Olympics or World Championships), a set number of competitors will advance to the final round, determined in advance by the meet management. A set of 3 trial round jumps will be held in order to select those finalists. It is standard practice to allow at a minimum, one more competitor than the number of scoring positions to return to the final round, though 12 plus ties and automatic qualifying distances are also potential factors. (For specific rules and regulations in United States Track & Field see Rule 185).[1]
+
+For record purposes, the maximum accepted wind assistance is two metres per second (m/s) (4.5 mph).
+
+History
+See also: History of physical training and fitness
+
+The jumper on the left performs a distinctive isometric press, primarily by applying downward pressure onto his bent rear leg. This acts as a means of preloading the muscles prior to engaging in a jump from standing. The jumper to the right of him is mid-flight.
+
+An ancient long jumper comes in to land
+The long jump is the only known jumping event of ancient Greece's original Olympics' pentathlon events. All events that occurred at the Olympic Games were initially supposed to act as a form of training for warfare. The long jump emerged probably because it mirrored the crossing of obstacles such as streams and ravines.[2] After investigating the surviving depictions of the ancient event it is believed that unlike the modern event, athletes were only allowed a short running start.[2] The athletes carried a weight in each hand, which were called halteres (between 1 and 4.5 kg). These weights were swung forward as the athlete jumped in order to increase momentum. It was commonly believed that the jumper would throw the weights behind him in midair to increase his forward momentum; however, halteres were held throughout the duration of the jump. Swinging them down and back at the end of the jump would change the athlete's center of gravity and allow the athlete to stretch his legs outward, increasing his distance. The jump itself was made from the bater ("that which is trod upon"). It was most likely a simple board placed on the stadium track which was removed after the event. The jumpers would land in what was called a skamma ("dug-up" area). The idea that this was a pit full of sand is wrong. Sand in the jumping pit is a modern invention.[3] The skamma was simply a temporary area dug up for that occasion and not something that remained over time.
+
+The long jump was considered one of the most difficult of the events held at the Games since a great deal of skill was required. Music was often played during the jump and Philostratus says that pipes at times would accompany the jump so as to provide a rhythm for the complex movements of the halteres by the athlete.[2] Philostratus is quoted as saying, "The rules regard jumping as the most difficult of the competitions, and they allow the jumper to be given advantages in rhythm by the use of the flute, and in weight by the use of the halter."[4] Most notable in the ancient sport was a man called Chionis, who in the 656 BC Olympics staged a jump of 7.05 m (23 ft 1+1⁄2 in).[5]
+
+There has been some argument by modern scholars over the long jump. Some have attempted to recreate it as a triple jump. The images provide the only evidence for the action so it is more well received that it was much like today's long jump. The main reason some want to call it a triple jump is the presence of a source that claims there once was a fifty-five ancient foot jump done by a man named Phayllos.[6]
+
+The long jump has been part of modern Olympic competition since the inception of the Games in 1896. In 1914, Dr. Harry Eaton Stewart recommended the "running broad jump" as a standardized track and field event for women.[7] However, it was not until 1948 that the women's long jump was added to the Olympic athletics programme.
+
+Technique
+
+An athlete during the women's heptathlon long jump at the 2013 French Athletics Championships in Stade Charléty, Paris
+There are five main components of the long jump: the approach run, the last two strides, takeoff, action in the air, and landing. Speed in the run-up, or approach, and a high leap off the board are the fundamentals of success. Because speed is such an important factor of the approach, it is not surprising that many long jumpers also compete successfully in sprints. A classic example of this long jump / sprint doubling are performances by Carl Lewis.
+
+Approach
+The objective of the approach is to gradually accelerate to a maximum controlled speed at takeoff. The most important factor for the distance travelled by an object is its velocity at takeoff – both the speed and angle. Elite jumpers usually leave the ground at an angle of twenty[citation needed] degrees or less; therefore, it is more beneficial for a jumper to focus on the speed component of the jump. The greater the speed at takeoff, the longer the trajectory of the center of mass will be. The importance of a takeoff speed is a factor in the success of sprinters in this event.
+
+The length of the approach is usually consistent distance for an athlete. Approaches can vary between 12 and 19 strides on the novice and intermediate levels, while at the elite level they are closer to between 20 and 22 strides. The exact distance and number of strides in an approach depends on the jumper's experience, sprinting technique, and conditioning level. Consistency in the approach is important as it is the competitor's objective to get as close to the front of the takeoff board as possible without crossing the line with any part of the foot.
+
+Last two strides
+The objective of the last two strides is to prepare the body for takeoff while conserving as much speed as possible.
+
+The penultimate stride is longer than the last stride. The competitor begins to lower his or her center of gravity to prepare the body for the vertical impulse. The final stride is shorter because the body is beginning to raise the center of gravity in preparation for takeoff.
+
+The last two strides are extremely important because they determine the velocity with which the competitor will enter the jump.
+
+Takeoff
+
+Takeoff board
+The objective of the takeoff is to create a vertical impulse through the athlete's center of gravity while maintaining balance and control.
+
+This phase is one of the most technical parts of the long jump. Jumpers must be conscious to place the foot flat on the ground, because jumping off either the heels or the toes negatively affects the jump. Taking off from the board heel-first has a braking effect, which decreases velocity and strains the joints. Jumping off the toes decreases stability, putting the leg at risk of buckling or collapsing from underneath the jumper. While concentrating on foot placement, the athlete must also work to maintain proper body position, keeping the torso upright and moving the hips forward and up to achieve the maximum distance from board contact to foot release.
+
+There are four main styles of takeoff: the kick style, double-arm style, sprint takeoff, and the power sprint or bounding takeoff.
+
+Kick
+The kick style takeoff is where the athlete actively cycles the leg before a full impulse has been directed into the board then landing into the pit. This requires great strength in the hamstrings. This causes the jumper to jump to large distances.
+
+Double-arm
+The double-arm style of takeoff works by moving both arms in a vertical direction as the competitor takes off. This produces a high hip height and a large vertical impulse.
+
+Sprint
+The sprint takeoff is the style most widely instructed by coaching staff. This is a classic single-arm action that resembles a jumper in full stride. It is an efficient takeoff style for maintaining velocity through takeoff.
+
+Power sprint or bounding
+The power sprint takeoff, or bounding takeoff, is one of the more common elite styles. Very similar to the sprint style, the body resembles a sprinter in full stride. However, there is one major difference. The arm that pushes back on takeoff (the arm on the side of the takeoff leg) fully extends backward, rather than remaining at a bent position. This additional extension increases the impulse at takeoff.
+
+The "correct" style of takeoff will vary from athlete to athlete.
+
+Action in the air and landing
+
+Multi-eventer Jessica Ennis during a long jump, preparing to land
+There are three major flight techniques for the long jump: the hang, the sail, and the hitch-kick. Each technique is to combat the forward rotation experienced from take-off but is basically down to preference from the athlete. It is important to note that once the body is airborne, there is nothing that the athlete can do to change the direction they are traveling and consequently where they are going to land in the pit. However, it can be argued that certain techniques influence an athlete's landing, which can affect the distance measured. For example, if an athlete lands feet first but falls back because they are not correctly balanced, a lower distance will be measured.
+
+In the 1970s, some jumpers used a forward somersault, including Tuariki Delamere who used it at the 1974 NCAA Championships, and who matched the jump of the then Olympic champion Randy Williams. The somersault jump has potential to produce longer jumps than other techniques because in the flip, no power is lost countering forward momentum, and it reduces wind resistance in the air.[8] The front flip jump was subsequently banned due to fear of it being unsafe.
+
+Culture
+
+Long Jump commemorative coin
+Track and field events have been selected as a main motif in numerous collectors' coins. One of the recent samples is the €10 Greek Long Jump commemorative coin, minted in 2003 to commemorate the 2004 Summer Olympics in Athens. The obverse of the coin portrays a modern athlete at the moment he is touching the ground, while the ancient athlete in the background is shown while starting off his jump, as he is seen on a black-figure vase of the 5th century BC.[9]
+
+Records
+See also: Men's long jump world record progression and Women's long jump world record progression
+
+Sand pit in which Bob Beamon set the 8.90 m record in Mexico City
+The men's long jump world record has been held by just four individuals for the majority of time since the IAAF started to ratify records. The first mark recognized by the IAAF in 1912, the 1901 performance by Peter O'Connor, stood just short of 20 years (nine years as an IAAF record). After it was broken in 1921, the record changed hands five times until Jesse Owens set the record of 8.13 m (26 ft 8 in) at the 1935 Big Ten track meet in Ann Arbor, Michigan, a record that was not broken for over 25 years, until 1960, by Ralph Boston. Boston improved upon it and exchanged records with Igor Ter-Ovanesyan three times over the next seven years. At the 1968 Summer Olympics Bob Beamon jumped 8.90 m (29 ft 2+1⁄4 in), a jump not exceeded for almost 23 years, which remains the second longest legal jump of all time; it has stood as the Olympic record for over 52 years. On 30 August 1991, Mike Powell of the United States set the current men's world record at the World Championships in Tokyo. It was in a dramatic showdown against Carl Lewis who also surpassed Beamon's record that day, but his jump was wind-assisted (and thus not legal for record purposes). Powell's record of 8.95 m (29 ft 4+1⁄4 in) has now stood for over 30 years.
+
+Some jumps over 8.95 m (29 ft 4+1⁄4 in) have been officially recorded. 8.99 m (29 ft 5+3⁄4 in) was recorded by Powell (wind-assisted +4.4) set at high altitude in Sestriere in 1992. A potential world record of 8.96 m (29 ft 4+3⁄4 in) was recorded by Iván Pedroso,[10] with a "legal" wind reading also in Sestriere, but the jump was not validated because videotape revealed a person stood in front of the wind gauge, invalidating the reading (and costing Pedroso a Ferrari valued at $130,000—the prize for breaking the record at that meet).[11] As mentioned above, Lewis jumped 8.91 m (29 ft 2+3⁄4 in) moments before Powell's record-breaking jump with the wind exceeding the maximum allowed. This jump remains the longest ever not to win an Olympic or World Championship gold medal, or any competition in general.
+
+The women's world record has seen more consistent improvement, though the current record has stood longer than any other long jump record by men or women. The longest to hold the record prior was by Fanny Blankers-Koen during World War II. who held it for over 10 years. There have been four occasions when the record was tied and three when it was improved upon twice in the same competition. The current women's world record is held by Galina Chistyakova of the former Soviet Union who leapt 7.52 m (24 ft 8 in) in Leningrad on 11 June 1988, a mark that has now stood for over 33 years.
+
+Continental records
+Outdoor
+Updated 30 May 2021[12][13]
+Area	Men	Women
+Mark (m)	Wind (m/s)	Athlete	Nation	Mark (m)	Wind (m/s)	Athlete	Nation
+Africa (records)	8.65[A]	+1.3	Luvo Manyonga	 South Africa	7.17	+1.1	Ese Brume	 Nigeria
+Asia (records)	8.48	+0.6	Mohammed Al-Khuwalidi	 Saudi Arabia	7.01	+1.4	Weili Yao	 China
+Europe (records)	8.86[A]	+1.9	Robert Emmiyan	 Soviet Union	7.52 WR	+1.4	Galina Chistyakova	 Soviet Union
+North, Central America
+and Caribbean (records)	8.95 WR	+0.3	Mike Powell	 United States	7.49	+1.3	Jackie Joyner-Kersee	 United States
+Oceania (records)	8.54	+1.7	Mitchell Watt	 Australia	7.05	+2.0	Brooke Stratton	 Australia
+South America (records)	8.73	+1.2	Irving Saladino	 Panama	7.26[A]	+1.8	Maurren Maggi	 Brazil
+Notes
+A Represents a mark set at a high altitude.
+Indoor
+Updated 17 September 2020[14][15]
+Area	Men	Women
+Mark (m)	Athlete	Nation	Mark (m)	Athlete	Nation
+Africa (records)	8.44	Luvo Manyonga	 South Africa	6.97	Chioma Ajunwa	 Nigeria
+Asia (records)	8.27	Su Xiongfeng	 China	6.82	Yang Juan	 China
+Europe (records)	8.71	Sebastian Bayer	 Germany	7.37 WR	Heike Drechsler	 East Germany
+North, Central America
+and Caribbean (records)	8.79 WR	Carl Lewis	 United States	7.23	Brittney Reese	 United States
+Oceania (records)	8.25	Fabrice Lapierre	 Australia	6.81	Nicole Boegman	 Australia
+South America (records)	8.42	Irving Saladino	 Panama	6.89	Maurren Maggi	 Brazil
+All-time top 25
+Men (outdoor)
+As of July 2021[16]
+Ath.#	Perf.#	Mark	Wind (m/s)	Athlete	Nation	Date	Place	Ref
+1	1	8.95 m (29 ft 4+1⁄4 in)	+0.3	Mike Powell	 United States	30 AUG 1991	Tokyo	
+2	2	8.90 m (29 ft 2+1⁄4 in) A	+2.0	Bob Beamon	 United States	18 OCT 1968	Mexico City	
+3	3	8.87 m (29 ft 1 in)	−0.2	Carl Lewis	 United States	30 AUG 1991	Tokyo	
+4	4	8.86 m (29 ft 3⁄4 in) A	+1.9	Robert Emmiyan	 Soviet Union	22 MAY 1987	Tsakhkadzor	
+5	8.84 m (29 ft 0 in)	+1.7	Lewis #2		30 AUG 1991	Tokyo	
+6	8.79 m (28 ft 10 in)	+1.9	Lewis #3	19 JUN 1983	Indianapolis	
+7	8.76 m (28 ft 8+3⁄4 in)	+1.0	Lewis #4	24 JUL 1982	Indianapolis	
++0.8	Lewis #5	18 JUL 1988	Indianapolis	
+5	9	8.74 m (28 ft 8 in)	+1.4	Larry Myricks	 United States	18 JUL 1988	Indianapolis	
+8.74 m (28 ft 8 in) A	+2.0	Erick Walder	 United States	02 APR 1994	El Paso	
+8.74 m (28 ft 8 in)	−1.2	Dwight Phillips	 United States	07 JUN 2009	Eugene	
+8	12	8.73 m (28 ft 7+1⁄2 in)	+1.2	Irving Saladino	 Panama	24 MAY 2008	Hengelo	
+13	8.72 m (28 ft 7+1⁄4 in)	−0.2	Lewis #6		26 SEP 1988	Seoul	
+14	8.71 m (28 ft 6+3⁄4 in)	−0.4	Lewis #7	13 MAY 1984	Westwood	
++0.1	Lewis #8	19 JUN 1984	Los Angeles	
+9	14	8.71 m (28 ft 6+3⁄4 in)	+1.9	Iván Pedroso	 Cuba	18 JUL 1995	Salamanca	
+17	8.70 m (28 ft 6+1⁄2 in)	+0.9	Myricks #2		17 JUN 1989	Houston	
++0.7	Powell #2	27 JUL 1993	Salamanca	
++1.6	Pedroso #2	12 AUG 1995	Gothenburg	
+10	20	8.69 m (28 ft 6 in)	+0.5	Tajay Gayle	 Jamaica	28 SEP 2019	Doha	
+21	8.68 m (28 ft 5+1⁄2 in)	+1.0	Lewis #9		05 AUG 1992	Barcelona	
++1.6	Pedroso #3	17 JUN 1995	Lisbon	
+11	21	8.68 m (28 ft 5+1⁄2 in)	+1.7	Juan Miguel Echevarría	 Cuba	30 JUN 2018	Bad Langensalza	[17]
+24	8.67 m (28 ft 5+1⁄4 in)	+0.4	Lewis #10		05 SEP 1987	Rome	
+−0.7	Lewis #11	06 AUG 1992	Barcelona	
+12		8.66 m (28 ft 4+3⁄4 in)	+1.6	Louis Tsatoumas	 Greece	02 JUN 2007	Kalamata	
+13	8.65 m (28 ft 4+1⁄2 in) A	+1.3	Luvo Manyonga	 South Africa	22 APR 2017	Potchefstroom	[18]
+14	8.63 m (28 ft 3+3⁄4 in)	+0.5	Kareem Streete-Thompson	 United States	04 JUL 1994	Linz	
+15	8.62 m (28 ft 3+1⁄4 in)	+0.7	James Beckford	 Jamaica	05 APR 1997	Orlando	
+16	8.60 m (28 ft 2+1⁄2 in)	+0.7	Miltiadis Tentoglou	 Greece	26 MAY 2021	Kallithea	[19]
+17	8.58 m (28 ft 1+3⁄4 in)	+1.8	Jarrion Lawson	 United States	03 JUL 2016	Eugene	[20]
+18	8.56 m (28 ft 1 in)	+1.3	Yago Lamela	 Spain	24 JUN 1999	Turin	
++0.2	Aleksandr Menkov	 Russia	16 AUG 2013	Moscow	
+20	8.54 m (28 ft 0 in)	+0.9	Lutz Dombrowski	 East Germany	28 JUL 1980	Moscow	
++1.7	Mitchell Watt	 Australia	29 JUL 2011	Stockholm	
+22	8.53 m (27 ft 11+3⁄4 in)	+1.2	Jaime Jefferson	 Cuba	12 MAY 1990	Havana	
+23	8.52 m (27 ft 11+1⁄4 in)	+0.7	Savanté Stringfellow	 United States	21 JUN 2002	Palo Alto	
++1.8	Jeff Henderson	 United States	22 JUL 2015	Toronto	
+25	8.51 m (27 ft 11 in)	+1.7	Roland McGhee	 United States	14 MAY 1995	São Paulo	
++1.7	Greg Rutherford	 United Kingdom	24 APR 2014	Chula Vista	
+Assisted marks
+Any performance with a following wind of more than 2.0 metres per second is not counted for record purposes. Below is a list of the best wind-assisted jumps (equal or superior to 8.51 m). Only best assisted mark that is superior to legal best is shown:
+
+Mike Powell jumped 8.99 (+4.4) at high altitude in Sestriere, Italy on 21 July 1992.
+Juan Miguel Echevarría jumped 8.92 (+3.3) in Havana, Cuba on 10 March 2019.
+Carl Lewis jumped 8.91 (+3.0) in Tokyo, Japan on 30 August 1991.
+Fabrice Lapierre jumped 8.78 (+3.1) in Perth, Australia on 18 April 2010.
+James Beckford jumped 8.68 (+4.9) in Odessa, Ukraine on 20 May 1995.
+Joe Greene jumped 8.68 (+4.0) at high altitude in Sestriere, Italy on 21 July 1995.
+Marquis Dendy jumped 8.68 (+3.7) in Eugene, Oregon on 25 June 2015.
+Kareem Streete-Thompson jumped 8.64 (+3.5) in Knoxville, Tennessee on 18 June 1995.
+Mike Conley jumped 8.63 (+3.9) in Eugene, Oregon on 20 June 1986.
+Jeff Henderson jumped 8.59 (+2.9) in Eugene, Oregon on 3 July 2016.
+Jason Grimes jumped 8.57 (+5.2) in Durham, North Carolina on 27 June 1982.
+Kevin Dilworth jumped 8.53 (+4.9) in Fort-de-France, Martinique on 27 April 2002.
+Ignisious Gaisah jumped 8.51 (+3.7) in Bambous, Mauritius on 9 August 2006.
+Women (outdoor)
+As of July 2021[21]
+Ath.#	Perf.#	Mark	Wind (m/s)	Athlete	Nation	Date	Place	Ref
+1	1	7.52 m (24 ft 8 in)	+1.4	Galina Chistyakova	 Soviet Union	11 JUN 1988	Leningrad	
+2	2	7.49 m (24 ft 6+3⁄4 in)	+1.3	Jackie Joyner-Kersee	 United States	22 MAY 1994	New York City	
+2	7.49 m (24 ft 6+3⁄4 in) A	+1.7	Joyner-Kersee #2		31 JUL 1994	Sestriere	
+3	4	7.48 m (24 ft 6+1⁄4 in)	+1.2	Heike Drechsler	 East Germany	09 JUL 1988	Neubrandenburg	
+4	7.48 m (24 ft 6+1⁄4 in)	+0.4	Drechsler #2		08 JUL 1992	Lausanne	
+6	7.45 m (24 ft 5+1⁄4 in)	+0.9	Drechsler #3	21 JUN 1986	Tallinn	
++1.1	Drechsler #4	03 JUL 1986	Dresden	
++0.6	Joyner-Kersee #3	13 AUG 1987	Indianapolis	
++1.0	Chistyakova #2	11 JUN 1988	Leningrad	
++1.6	Chistyakova #3	12 AUG 1988	Budapest	
+11	7.44 m (24 ft 4+3⁄4 in)	+2.0	Drechsler #5	22 SEP 1985	Berlin	
+4	12	7.43 m (24 ft 4+1⁄2 in)	+1.4	Anişoara Cuşmir	 Romania	04 JUN 1983	Bucharest	
+5	13	7.42 m (24 ft 4 in)	+2.0	Tatyana Kotova	 Russia	23 JUN 2002	Annecy	
+14	7.40 m (24 ft 3+1⁄4 in)	+1.8	Drechsler #6		26 JUL 1984	Dresden	
++0.7	Drechsler #7	21 AUG 1987	Potsdam	
++0.9	Joyner-Kersee #4	29 SEP 1988	Seoul	
+17	7.39 m (24 ft 2+3⁄4 in)	+0.3	Drechsler #8	21 AUG 1985	Zürich	
+6	17	7.39 m (24 ft 2+3⁄4 in)	+0.5	Yelena Belevskaya	 Soviet Union	18 JUL 1987	Bryansk	
+17	7.39 m (24 ft 2+3⁄4 in)		Joyner-Kersee #5		25 JUN 1988	San Diego	
+20	7.37 m (24 ft 2 in) A	+1.8	Drechsler #9	31 JUL 1991	Sestriere	
+7	20	7.37 m (24 ft 2 in)		Inessa Kravets	 Ukraine	13 JUN 1992	Kyiv	
+22	7.36 m (24 ft 1+3⁄4 in)	+0.4	Joyner-Kersee #6		04 SEP 1987	Rome	
++1.8	Belevskaya #2	11 JUN 1988	Leningrad	
++1.8	Drechsler #10	28 MAY 1992	Jena	
+25	7.35 m (24 ft 1+1⁄4 in)	+1.9	Chistyakova #4	20 JUN 1990	Bratislava	
+8		7.33 m (24 ft 1⁄2 in)	+0.4	Tatyana Lebedeva	 Russia	31 JUL 2004	Tula	
+9	7.31 m (23 ft 11+3⁄4 in)	+1.5	Olena Khlopotnova	 Soviet Union	12 SEP 1985	Alma Ata	
++1.9	Marion Jones	 United States	31 MAY 1998	Eugene	
++1.7	Brittney Reese	 United States	02 JUL 2016	Eugene	[22]
+12	7.30 m (23 ft 11+1⁄4 in)	−0.8	Malaika Mihambo	 Germany	06 OCT 2019	Doha	[23]
+13	7.27 m (23 ft 10 in)	−0.4	Irina Simagina	 Russia	31 JUL 2004	Tula	
+14	7.26 m (23 ft 9+3⁄4 in) A	+1.8	Maurren Maggi	 Brazil	25 JUN 1999	Bogotá	
+15	7.24 m (23 ft 9 in)	+1.0	Larysa Berezhna	 Soviet Union	25 MAY 1991	Granada	
+16	7.21 m (23 ft 7+3⁄4 in)	+1.6	Helga Radtke	 East Germany	26 JUL 1984	Dresden	
++1.9	Lyudmila Kolchanova	 Russia	27 MAY 2007	Sochi	
+18	7.20 m (23 ft 7+1⁄4 in)	−0.3	Vali Ionescu	 Romania	01 AUG 1982	Bucharest	
++2.0	Irena Ozenko	 Soviet Union	12 SEP 1986	Budapest	
++0.8	Yelena Sinchukova	 Soviet Union	20 JUN 1991	Budapest	
++0.7	Irina Mushailova	 Russia	14 JUL 1994	Saint Petersburg	
+22	7.17 m (23 ft 6+1⁄4 in)	+1.8	Irina Valyukevich	 Soviet Union	18 JUL 1987	Bryansk	
++0.6	Tianna Bartoletta	 United States	17 AUG 2016	Rio de Janeiro	[24]
++1.1	Ese Brume	 Nigeria	29 MAY 2021	Chula Vista	[25]
+25	7.16 m (23 ft 5+3⁄4 in)		Yolanda Chen	 Soviet Union	30 JUL 1988	Moscow	
+−0.1	Elva Goulbourne	 Jamaica	22 MAY 2004	Mexico City	
++1.6	Sosthene Moguenara	 Germany	29 MAY 2016	Weinheim	
+Assisted marks
+Any performance with a following wind of more than 2.0 metres per second is not counted for record purposes. Below is a list of the best wind-assisted jumps (equal or superior to 7.16 m). Only best assisted mark that is superior to legal best is shown:
+
+Heike Drechsler jumped 7.63 (+2.1) at high altitude in Sestriere, Italy on 21 July 1992.
+Yulimar Rojas jumped 7.27 (+2.7) in La Nucia, Spain on 13 June 2021.
+Fiona May jumped 7.23 (+4.3) at high altitude in Sestriere, Italy on 29 July 1995.
+Susen Tiedtke jumped 7.22 (+3.7) at high altitude in Sestriere, Italy on 28 July 1993.
+Anastassia Mirochuk-Ivanova jumped 7.22 (+4.3) in Grodno, Belarus on 6 July 2012.
+Eva Murková jumped 7.17 (+3.6) in Nitra, Czechoslovakia on 26 August 1984.
+Olympic medalists
+Men
+Games	Gold	Silver	Bronze
+edit
+1896 Athens
+details	Ellery Clark
+ United States	Robert Garrett
+ United States	James Connolly
+ United States
+1900 Paris
+details	Alvin Kraenzlein
+ United States	Myer Prinstein
+ United States	Patrick Leahy
+ Great Britain
+1904 St. Louis
+details	Myer Prinstein
+ United States	Daniel Frank
+ United States	Robert Stangland
+ United States
+1908 London
+details	Frank Irons
+ United States	Daniel Kelly
+ United States	Calvin Bricker
+ Canada
+1912 Stockholm
+details	Albert Gutterson
+ United States	Calvin Bricker
+ Canada	Georg Åberg
+ Sweden
+1920 Antwerp
+details	William Petersson
+ Sweden	Carl Johnson
+ United States	Erik Abrahamsson
+ Sweden
+1924 Paris
+details	DeHart Hubbard
+ United States	Edward Gourdin
+ United States	Sverre Hansen
+ Norway
+1928 Amsterdam
+details	Ed Hamm
+ United States	Silvio Cator
+ Haiti	Al Bates
+ United States
+1932 Los Angeles
+details	Ed Gordon
+ United States	Lambert Redd
+ United States	Chūhei Nambu
+ Japan
+1936 Berlin
+details	Jesse Owens
+ United States	Luz Long
+ Germany	Naoto Tajima
+ Japan
+1948 London
+details	Willie Steele
+ United States	Bill Bruce
+ Australia	Herb Douglas
+ United States
+1952 Helsinki
+details	Jerome Biffle
+ United States	Meredith Gourdine
+ United States	Ödön Földessy
+ Hungary
+1956 Melbourne
+details	Gregory Bell
+ United States	John Bennett
+ United States	Jorma Valkama
+ Finland
+1960 Rome
+details	Ralph Boston
+ United States	Bo Roberson
+ United States	Igor Ter-Ovanesyan
+ Soviet Union
+1964 Tokyo
+details	Lynn Davies
+ Great Britain	Ralph Boston
+ United States	Igor Ter-Ovanesyan
+ Soviet Union
+1968 Mexico City
+details	Bob Beamon
+ United States	Klaus Beer
+ East Germany	Ralph Boston
+ United States
+1972 Munich
+details	Randy Williams
+ United States	Hans Baumgartner
+ West Germany	Arnie Robinson
+ United States
+1976 Montreal
+details	Arnie Robinson
+ United States	Randy Williams
+ United States	Frank Wartenberg
+ East Germany
+1980 Moscow
+details	Lutz Dombrowski
+ East Germany	Frank Paschek
+ East Germany	Valeriy Pidluzhnyy
+ Soviet Union
+1984 Los Angeles
+details	Carl Lewis
+ United States	Gary Honey
+ Australia	Giovanni Evangelisti
+ Italy
+1988 Seoul
+details	Carl Lewis
+ United States	Mike Powell
+ United States	Larry Myricks
+ United States
+1992 Barcelona
+details	Carl Lewis
+ United States	Mike Powell
+ United States	Joe Greene
+ United States
+1996 Atlanta
+details	Carl Lewis
+ United States	James Beckford
+ Jamaica	Joe Greene
+ United States
+2000 Sydney
+details	Iván Pedroso
+ Cuba	Jai Taurima
+ Australia	Roman Shchurenko
+ Ukraine
+2004 Athens
+details	Dwight Phillips
+ United States	John Moffitt
+ United States	Joan Lino Martínez
+ Spain
+2008 Beijing
+details	Irving Saladino
+ Panama	Godfrey Khotso Mokoena
+ South Africa	Ibrahim Camejo
+ Cuba
+2012 London
+details	Greg Rutherford
+ Great Britain	Mitchell Watt
+ Australia	Will Claye
+ United States
+2016 Rio de Janeiro
+details	Jeff Henderson
+ United States	Luvo Manyonga
+ South Africa	Greg Rutherford
+ Great Britain
+2020 Tokyo
+details	Miltiadis Tentoglou
+ Greece	Juan Miguel Echevarría
+ Cuba	Maykel Massó
+ Cuba
+Women
+Games	Gold	Silver	Bronze
+edit
+1948 London
+details	Olga Gyarmati
+ Hungary	Noemí Simonetto
+ Argentina	Ann-Britt Leyman
+ Sweden
+1952 Helsinki
+details	Yvette Williams
+ New Zealand	Aleksandra Chudina
+ Soviet Union	Shirley Cawley
+ Great Britain
+1956 Melbourne
+details	Elżbieta Krzesińska
+ Poland	Willye White
+ United States	Nadezhda Khnykina-Dvalishvili
+ Soviet Union
+1960 Rome
+details	Vera Krepkina
+ Soviet Union	Elżbieta Krzesińska
+ Poland	Hildrun Claus
+ United Team of Germany
+1964 Tokyo
+details	Mary Rand
+ Great Britain	Irena Kirszenstein
+ Poland	Tatyana Shchelkanova
+ Soviet Union
+1968 Mexico City
+details	Viorica Viscopoleanu
+ Romania	Sheila Sherwood
+ Great Britain	Tatyana Talysheva
+ Soviet Union
+1972 Munich
+details	Heide Rosendahl
+ West Germany	Diana Yorgova
+ Bulgaria	Eva Šuranová
+ Czechoslovakia
+1976 Montreal
+details	Angela Voigt
+ East Germany	Kathy McMillan
+ United States	Lidiya Alfeyeva
+ Soviet Union
+1980 Moscow
+details	Tatyana Kolpakova
+ Soviet Union	Brigitte Wujak
+ East Germany	Tatyana Skachko
+ Soviet Union
+1984 Los Angeles
+details	Anișoara Cușmir-Stanciu
+ Romania	Valy Ionescu
+ Romania	Sue Hearnshaw
+ Great Britain
+1988 Seoul
+details	Jackie Joyner-Kersee
+ United States	Heike Drechsler
+ East Germany	Galina Chistyakova
+ Soviet Union
+1992 Barcelona
+details	Heike Drechsler
+ Germany	Inessa Kravets
+ Unified Team	Jackie Joyner-Kersee
+ United States
+1996 Atlanta
+details	Chioma Ajunwa
+ Nigeria	Fiona May
+ Italy	Jackie Joyner-Kersee
+ United States
+2000 Sydney
+details	Heike Drechsler
+ Germany	Fiona May
+ Italy	Tatyana Kotova
+ Russia
+2004 Athens
+details	Tatyana Lebedeva
+ Russia	Irina Simagina
+ Russia	Tatyana Kotova
+ Russia
+2008 Beijing
+details	Maurren Maggi
+ Brazil	Blessing Okagbare
+ Nigeria	Chelsea Hammond
+ Jamaica
+2012 London
+details	Brittney Reese
+ United States	Elena Sokolova
+ Russia	Janay DeLoach
+ United States
+2016 Rio de Janeiro
+details	Tianna Bartoletta
+ United States	Britney Reese
+ United States	Ivana Španović
+ Serbia
+2020 Tokyo
+details	Malaika Mihambo
+ Germany	Britney Reese
+ United States	Ese Brume
+ Nigeria
+World Championships medalists
+Men
+Championships	Gold	Silver	Bronze
+1983 Helsinki
+details	 Carl Lewis (USA)	 Jason Grimes (USA)	 Mike Conley (USA)
+1987 Rome
+details	 Carl Lewis (USA)	 Robert Emmiyan (URS)	 Larry Myricks (USA)
+1991 Tokyo
+details	 Mike Powell (USA)	 Carl Lewis (USA)	 Larry Myricks (USA)
+1993 Stuttgart
+details	 Mike Powell (USA)	 Stanislav Tarasenko (RUS)	 Vitaliy Kyrylenko (UKR)
+1995 Gothenburg
+details	 Iván Pedroso (CUB)	 James Beckford (JAM)	 Mike Powell (USA)
+1997 Athens
+details	 Iván Pedroso (CUB)	 Erick Walder (USA)	 Kirill Sosunov (RUS)
+1999 Seville
+details	 Iván Pedroso (CUB)	 Yago Lamela (ESP)	 Gregor Cankar (SLO)
+2001 Edmonton
+details	 Iván Pedroso (CUB)	 Savanté Stringfellow (USA)	 Carlos Calado (POR)
+2003 Saint-Denis
+details	 Dwight Phillips (USA)	 James Beckford (JAM)	 Yago Lamela (ESP)
+2005 Helsinki
+details	 Dwight Phillips (USA)	 Ignisious Gaisah (GHA)	 Tommi Evilä (FIN)
+2007 Osaka
+details	 Irving Saladino (PAN)	 Andrew Howe (ITA)	 Dwight Phillips (USA)
+2009 Berlin
+details	 Dwight Phillips (USA)	 Godfrey Khotso Mokoena (RSA)	 Mitchell Watt (AUS)
+2011 Daegu
+details	 Dwight Phillips (USA)	 Mitchell Watt (AUS)	 Ngonidzashe Makusha (ZIM)
+2013 Moscow
+details	 Aleksandr Menkov (RUS)	 Ignisious Gaisah (NED)	 Luis Rivera (MEX)
+2015 Beijing
+details	 Greg Rutherford (GBR)	 Fabrice Lapierre (AUS)	 Wang Jianan (CHN)
+2017 London
+details	 Luvo Manyonga (RSA)	 Jarrion Lawson (USA)	 Ruswahl Samaai (RSA)
+2019 Doha
+details	 Tajay Gayle (JAM)	 Jeff Henderson (USA)	 Juan Miguel Echevarría (CUB)
+Women
+Championships	Gold	Silver	Bronze
+1983 Helsinki
+details	 Heike Daute (GDR)	 Anișoara Cușmir (ROM)	 Carol Lewis (USA)
+1987 Rome
+details	 Jackie Joyner-Kersee (USA)	 Yelena Belevskaya (URS)	 Heike Drechsler (GDR)
+1991 Tokyo
+details	 Jackie Joyner-Kersee (USA)	 Heike Drechsler (GER)	 Larysa Berezhna (URS)
+1993 Stuttgart
+details	 Heike Drechsler (GER)	 Larysa Berezhna (UKR)	 Renata Nielsen (DEN)
+1995 Gothenburg
+details	 Fiona May (ITA)	 Niurka Montalvo (CUB)	 Irina Mushailova (RUS)
+1997 Athens
+details	 Lyudmila Galkina (RUS)	 Niki Xanthou (GRE)	 Fiona May (ITA)
+1999 Seville
+details	 Niurka Montalvo (ESP)	 Fiona May (ITA)	 Marion Jones (USA)
+2001 Edmonton
+details	 Fiona May (ITA)	 Tatyana Kotova (RUS)	 Niurka Montalvo (ESP)
+2003 Saint-Denis
+details	 Eunice Barber (FRA)	 Tatyana Kotova (RUS)	 Anju Bobby George (IND)
+2005 Helsinki
+details	 Tianna Madison (USA)	 Eunice Barber (FRA)	 Yargelis Savigne (CUB)
+2007 Osaka
+details	 Tatyana Lebedeva (RUS)	 Lyudmila Kolchanova (RUS)	 Tatyana Kotova (RUS)
+2009 Berlin
+details	 Brittney Reese (USA)	 Tatyana Lebedeva (RUS)	 Karin Melis Mey (TUR)
+2011 Daegu
+details	 Brittney Reese (USA)	 Olga Kucherenko (RUS)	 Ineta Radēviča (LAT)
+2013 Moscow
+details	 Brittney Reese (USA)	 Blessing Okagbare (NGA)	 Ivana Španović (SRB)
+2015 Beijing
+details	 Tianna Bartoletta (USA)	 Shara Proctor (GBR)	 Ivana Španović (SRB)
+2017 London
+details	 Brittney Reese (USA)	 Darya Klishina (ANA)	 Tianna Bartoletta (USA)
+2019 Doha
+details	 Malaika Mihambo (GER)	 Maryna Bekh-Romanchuk (UKR)	 Ese Brume (NGR)
+World Indoor Championships medalists
+Men
+Games	Gold	Silver	Bronze
+1985 Paris[A]	 Jan Leitner (TCH)	 Gyula Pálóczi (HUN)	 Giovanni Evangelisti (ITA)
+1987 Indianapolis
+details	 Larry Myricks (USA)	 Paul Emordi (NGR)	 Giovanni Evangelisti (ITA)
+1989 Budapest
+details	 Larry Myricks (USA)	 Dietmar Haaf (FRG)	 Mike Conley (USA)
+1991 Seville
+details	 Dietmar Haaf (GER)	 Jaime Jefferson (CUB)	 Giovanni Evangelisti (ITA)
+1993 Toronto
+details	 Iván Pedroso (CUB)	 Joe Greene (USA)	 Jaime Jefferson (CUB)
+1995 Barcelona
+details	 Iván Pedroso (CUB)	 Mattias Sunneborn (SWE)	 Erick Walder (USA)
+1997 Paris
+details	 Iván Pedroso (CUB)	 Kirill Sosunov (RUS)	 Joe Greene (USA)
+1999 Maebashi
+details	 Iván Pedroso (CUB)	 Yago Lamela (ESP)	 Erick Walder (USA)
+2001 Lisbon
+details	 Iván Pedroso (CUB)	 Kareem Streete-Thompson (CAY)	 Carlos Calado (POR)
+2003 Birmingham
+details	 Dwight Phillips (USA)	 Yago Lamela (ESP)	 Miguel Pate (USA)
+2004 Budapest
+details	 Savanté Stringfellow (USA)	 James Beckford (JAM)	 Vitaliy Shkurlatov (RUS)
+2006 Moscow
+details	 Ignisious Gaisah (GHA)	 Irving Saladino (PAN)	 Andrew Howe (ITA)
+2008 Valencia
+details	 Godfrey Khotso Mokoena (RSA)	 Chris Tomlinson (GBR)	 Mohammed Al-Khuwalidi (KSA)
+2010 Doha
+details	 Fabrice Lapierre (AUS)	 Godfrey Khotso Mokoena (RSA)	 Mitchell Watt (AUS)
+2012 Istanbul
+details	 Mauro Vinícius da Silva (BRA)	 Henry Frayne (AUS)	 Aleksandr Menkov (RUS)
+2014 Sopot
+details	 Mauro Vinícius da Silva (BRA)	 Li Jinzhe (CHN)	 Michel Tornéus (SWE)
+2016 Portland
+details	 Marquis Dendy (USA)	 Fabrice Lapierre (AUS)	 Huang Changzhou (CHN)
+2018 Birmingham
+details	 Juan Miguel Echevarría (CUB)	 Luvo Manyonga (RSA)	 Marquis Dendy (USA)
+Women
+Games	Gold	Silver	Bronze
+1985 Paris[A]	 Helga Radtke (GDR)	 Tatyana Rodionova (URS)	 Nijolė Medvedeva (URS)
+1987 Indianapolis
+details	 Heike Drechsler (GDR)	 Helga Radtke (GDR)	 Yelena Belevskaya (URS)
+1989 Budapest
+details	 Galina Chistyakova (URS)	 Marieta Ilcu (ROU)	 Larysa Berezhna (URS)
+1991 Seville
+details	 Larysa Berezhna (URS)	 Heike Drechsler (GER)	 Marieta Ilcu (ROU)
+1993 Toronto
+details	 Marieta Ilcu (ROU)	 Susen Tiedtke (GER)	 Inessa Kravets (UKR)
+1995 Barcelona
+details	 Lyudmila Galkina (RUS)	 Irina Mushailova (RUS)	 Susen Tiedtke-Greene (GER)
+1997 Paris
+details	 Fiona May (ITA)	 Chioma Ajunwa (NGR)	 Agata Karczmarek (POL)
+1999 Maebashi
+details	 Tatyana Kotova (RUS)	 Shana Williams (USA)	 Iva Prandzheva (BUL)
+2001 Lisbon
+details	 Dawn Burrell (USA)	 Tatyana Kotova (RUS)	 Niurka Montalvo (ESP)
+2003 Birmingham
+details	 Tatyana Kotova (RUS)	 Inessa Kravets (UKR)	 Maurren Maggi (BRA)
+2004 Budapest
+details	 Tatyana Lebedeva (RUS)	 Tatyana Kotova (RUS)	 Carolina Klüft (SWE)
+2006 Moscow
+details	 Tatyana Kotova (RUS)	 Tianna Madison (USA)	 Naide Gomes (POR)
+2008 Valencia
+details	 Naide Gomes (POR)	 Maurren Maggi (BRA)	 Irina Simagina (RUS)
+2010 Doha
+details	 Brittney Reese (USA)	 Naide Gomes (POR)	 Keila Costa (BRA)
+2012 Istanbul
+details	 Brittney Reese (USA)	 Janay DeLoach (USA)	 Shara Proctor (GBR)
+2014 Sopot
+details	 Éloyse Lesueur (FRA)	 Katarina Johnson-Thompson (GBR)	 Ivana Španović (SRB)
+2016 Portland
+details	 Brittney Reese (USA)	 Ivana Španović (SRB)	 Lorraine Ugen (GBR)
+2018 Birmingham
+details	 Ivana Španović (SRB)	 Brittney Reese (USA)	 Sosthene Moguenara (GER)
+A Known as the World Indoor Games
+Season's bests
+Men
+Year	Mark	Athlete	Place
+1960	8.21 m (26 ft 11 in)	 Ralph Boston (USA)	Walnut
+1961	8.28 m (27 ft 1+3⁄4 in)	 Ralph Boston (USA)	Moscow
+1962	8.31 m (27 ft 3 in) A	 Igor Ter-Ovanesyan (URS)	Yerevan
+1963	8.33 m (27 ft 4 in)[26]	 Phil Shinnick (USA)	Modesto
+1964	8.34 m (27 ft 4+1⁄4 in)[27]	 Ralph Boston (USA)	Los Angeles
+1965	8.35 m (27 ft 5 in)[28]	 Ralph Boston (USA)	Modesto
+1966	8.23 m (27 ft 0 in)	 Igor Ter-Ovanesyan (URS)	Leselidze
+1967	8.35 m (27 ft 4+1⁄2 in) A	 Igor Ter-Ovanesyan (URS)	Mexico City
+1968	8.90 m (29 ft 2+1⁄4 in) A	 Bob Beamon (USA)	Mexico City
+1969	8.21 m (26 ft 11 in)	 Igor Ter-Ovanesyan (URS)	Odessa
+ Waldemar Stępień (POL)	Chorzów
+1970	8.35 m (27 ft 4+1⁄2 in)	 Josef Schwarz (FRG)	Stuttgart
+1971	8.12 m (26 ft 7+1⁄2 in)	 Jan Kobuszewski (POL)	Warsaw
+1972	8.34 m (27 ft 4+1⁄4 in)	 Randy Williams (USA)	Munich
+1973	8.24 m (27 ft 0+1⁄2 in)	 James McAlister (USA)	Westwood
+1974	8.30 m (27 ft 2+3⁄4 in)	 Arnie Robinson (USA)	Modesto
+1975	8.45 m (27 ft 8+1⁄2 in)	 Nenad Stekić (YUG)	Montreal
+1976	8.35 m (27 ft 4+1⁄2 in)	 Arnie Robinson (USA)	Montreal
+1977	8.27 m (27 ft 1+1⁄2 in)	 Nenad Stekić (YUG)	Nova Gorica
+1978	8.32 m (27 ft 3+1⁄2 in)	 Nenad Stekić (YUG)	Rovereto
+1979	8.52 m (27 ft 11+1⁄4 in)	 Larry Myricks (USA)	Montreal
+1980	8.54 m (28 ft 0 in)	 Lutz Dombrowski (GDR)	Moscow
+1981	8.62 m (28 ft 3+1⁄4 in)	 Carl Lewis (USA)	Sacramento
+1982	8.76 m (28 ft 8+3⁄4 in)	 Carl Lewis (USA)	Indianapolis
+1983	8.79 m (28 ft 10 in)	 Carl Lewis (USA)	Indianapolis
+1984	8.79 m (28 ft 10 in) i	 Carl Lewis (USA)	New York City
+1985	8.62 m (28 ft 3+1⁄4 in)	 Carl Lewis (USA)	Brussels
+1986	8.61 m (28 ft 2+3⁄4 in)	 Robert Emmiyan (URS)	Moscow
+1987	8.86 m (29 ft 3⁄4 in) A	 Robert Emmiyan (URS)	Tsakhkadzor
+1988	8.76 m (28 ft 8+3⁄4 in)	 Carl Lewis (USA)	Indianapolis
+1989	8.70 m (28 ft 6+1⁄2 in)	 Larry Myricks (USA)	Houston
+1990	8.66 m (28 ft 4+3⁄4 in)	 Mike Powell (USA)	Villeneuve d'Ascq
+1991	8.95 m (29 ft 4+1⁄4 in)	 Mike Powell (USA)	Tokyo
+1992	8.68 m (28 ft 5+1⁄2 in)	 Carl Lewis (USA)	Barcelona
+1993	8.70 m (28 ft 6+1⁄2 in)	 Mike Powell (USA)	Salamanca
+1994	8.74 m (28 ft 8 in)	 Erick Walder (USA)	El Paso
+1995	8.71 m (28 ft 6+3⁄4 in)	 Iván Pedroso (CUB)	Salamanca
+1996	8.58 m (28 ft 1+3⁄4 in)	 Erick Walder (USA)	Springfield
+1997	8.63 m (28 ft 3+3⁄4 in)	 Iván Pedroso (CUB)	Padua
+1998	8.60 m (28 ft 2+1⁄2 in)	 James Beckford (JAM)	Bad Langensalza
+1999	8.62 m (28 ft 3+1⁄4 in) i	 Iván Pedroso (CUB)	Maebashi
+2000	8.65 m (28 ft 4+1⁄2 in)	 Iván Pedroso (CUB)	Jena
+2001	8.43 m (27 ft 7+3⁄4 in) i	 Iván Pedroso (CUB)	Lisbon
+2002	8.59 m (28 ft 2 in) i	 Miguel Pate (USA)	New York City
+2003	8.53 m (27 ft 11+3⁄4 in)	 Yago Lamela (ESP)	Castellón de la Plana
+2004	8.60 m (28 ft 2+1⁄2 in)	 Dwight Phillips (USA)	Linz
+2005	8.60 m (28 ft 2+1⁄2 in)	 Dwight Phillips (USA)	Helsinki
+2006	8.56 m (28 ft 1 in)	 Irving Saladino (PAN)	Rio de Janeiro
+2007	8.66 m (28 ft 4+3⁄4 in)	 Louis Tsatoumas (GRE)	Kalamáta
+2008	8.73 m (28 ft 7+1⁄2 in)	 Irving Saladino (PAN)	Hengelo
+2009	8.74 m (28 ft 8 in)	 Dwight Phillips (USA)	Eugene
+2010	8.47 m (27 ft 9+1⁄4 in)	 Christian Reif (GER)	Barcelona
+2011	8.54 m (28 ft 0 in)	 Mitchell Watt (AUS)	Stockholm
+2012	8.35 m (27 ft 4+1⁄2 in)	 Greg Rutherford (GBR)	Chula Vista
+ Sergey Morgunov (RUS)	Cheboksary
+2013	8.56 m (28 ft 1 in)	 Aleksandr Menkov (RUS)	Moscow
+2014	8.51 m (27 ft 11 in)	 Greg Rutherford (GBR)	Chula Vista
+2015	8.52 m (27 ft 11+1⁄4 in)	 Jeff Henderson (USA)	Toronto
+2016	8.58 m (28 ft 1+3⁄4 in)	 Jarrion Lawson (USA)	Eugene
+2017	8.65 m (28 ft 4+1⁄2 in) A	 Luvo Manyonga (RSA)	Potchefstroom
+2018	8.68 m (28 ft 5+1⁄2 in)	 Juan Miguel Echevarría (CUB)	Bad Langensalza
+2019	8.69 m (28 ft 6 in)	 Tajay Gayle (JAM)	Doha
+2020	8.41 m (27 ft 7 in) i	 Juan Miguel Echevarría (CUB)	Madrid
+2021	8.60 m (28 ft 2+1⁄2 in)	 Miltiadis Tentoglou (GRE)	Kallithea
+Women
+Year	Mark	Athlete	Place
+1960	6.40 m (20 ft 11+3⁄4 in)	 Hildrun Claus (GDR)	Erfurt
+1961	6.48 m (21 ft 3 in)	 Tatyana Shchelkanova (URS)	Moscow
+1962	6.62 m (21 ft 8+1⁄2 in)	 Tatyana Shchelkanova (URS)	Brussels
+1963	6.60 m (21 ft 7+3⁄4 in)	 Tatyana Shchelkanova (URS)	Kurayoshi
+1964	6.76 m (22 ft 2 in)	 Mary Rand (GBR)	Tokyo
+1965	6.71 m (22 ft 0 in)	 Tatyana Shchelkanova (URS)	Kyiv
+1966	6.79 m (22 ft 3+1⁄4 in)	 Tatyana Shchelkanova (URS)	London
+1967	6.63 m (21 ft 9 in)	 Ingrid Becker (FRG)	Kyiv
+1968	6.82 m (22 ft 4+1⁄2 in) A	 Viorica Viscopoleanu (ROU)	Mexico City
+1969	6.64 m (21 ft 9+1⁄4 in)	 Heide Rosendahl (FRG)	Leverkusen
+1970	6.84 m (22 ft 5+1⁄4 in)	 Heide Rosendahl (FRG)	Turin
+1971	6.81 m (22 ft 4 in)	 Margrit Herbst (GDR)	Leipzig
+1972	6.83 m (22 ft 4+3⁄4 in)	 Heide Rosendahl (FRG)	Munich
+1973	6.76 m (22 ft 2 in)	 Angela Schmalfeld (GDR)	Dresden
+1974	6.77 m (22 ft 2+1⁄2 in)	 Angela Schmalfeld (GDR)	East Berlin
+1975	6.76 m (22 ft 2 in)	 Lidiya Alfeyeva (URS)	Nice
+1976	6.99 m (22 ft 11 in)	 Siegrun Siegl (GDR)	Dresden
+1977	6.82 m (22 ft 4+1⁄2 in)	 Vilma Bardauskienė (URS)	Krasnodar
+1978	7.09 m (23 ft 3 in)	 Vilma Bardauskienė (URS)	Prague
+1979	6.90 m (22 ft 7+1⁄2 in)	 Brigitte Wujak (GDR)	Potsdam
+1980	7.06 m (23 ft 1+3⁄4 in)	 Tatyana Kolpakova (URS)	Moscow
+1981	6.96 m (22 ft 10 in) A	 Jodi Anderson (USA)	Colorado Springs
+1982	7.20 m (23 ft 7+1⁄4 in)	 Valy Ionescu (ROU)	Bucharest
+1983	7.43 m (24 ft 4+1⁄2 in)	 Anișoara Cușmir (ROU)	Bucharest
+1984	7.40 m (24 ft 3+1⁄4 in)	 Heike Drechsler (GDR)	Dresden
+1985	7.44 m (24 ft 4+3⁄4 in)	 Heike Drechsler (GDR)	East Berlin
+1986	7.45 m (24 ft 5+1⁄4 in)	 Heike Drechsler (GDR)	Tallinn
+1987	7.45 m (24 ft 5+1⁄4 in)	 Jackie Joyner-Kersee (USA)	Indianapolis
+1988	7.52 m (24 ft 8 in)	 Galina Chistyakova (URS)	Leningrad
+1989	7.30 m (23 ft 11+1⁄4 in) i	 Galina Chistyakova (URS)	Lipetsk
+1990	7.35 m (24 ft 1+1⁄4 in)	 Galina Chistyakova (URS)	Bratislava
+1991	7.37 m (24 ft 2 in) A	 Heike Drechsler (GER)	Sestriere
+1992	7.48 m (24 ft 6+1⁄4 in)	 Heike Drechsler (GER)	Lausanne
+1993	7.21 m (23 ft 7+3⁄4 in)	 Heike Drechsler (GER)	Zürich
+1994	7.49 m (24 ft 6+3⁄4 in)	 Jackie Joyner-Kersee (USA)	New York City
+1995	7.09 m (23 ft 3 in) i	 Heike Drechsler (GER)	Liévin
+Sindelfingen
+1996	7.12 m (23 ft 4+1⁄4 in)	 Chioma Ajunwa (NGR)	Atlanta
+1997	7.05 m (23 ft 1+1⁄2 in)	 Lyudmila Galkina (RUS)	Athens
+1998	7.31 m (23 ft 11+3⁄4 in)	 Marion Jones (USA)	Eugene
+1999	7.26 m (23 ft 9+3⁄4 in) A	 Maurren Maggi (BRA)	Bogotá
+2000	7.09 m (23 ft 3 in)	 Fiona May (ITA)	Rio de Janeiro
+2001	7.12 m (23 ft 4+1⁄4 in)	 Tatyana Kotova (RUS)	Turin
+2002	7.42 m (24 ft 4 in)	 Tatyana Kotova (RUS)	Annecy
+2003	7.06 m (23 ft 1+3⁄4 in)	 Maurren Maggi (BRA)	Milan
+2004	7.33 m (24 ft 1⁄2 in)	 Tatyana Lebedeva (RUS)	Tula
+2005	7.04 m (23 ft 1 in)	 Irina Simagina (RUS)	Sochi
+2006	7.12 m (23 ft 4+1⁄4 in)	 Tatyana Kotova (RUS)	Novosibirsk
+2007	7.21 m (23 ft 7+3⁄4 in)	 Lyudmila Kolchanova (RUS)	Sochi
+2008	7.12 m (23 ft 4+1⁄4 in)	 Naide Gomes (POR)	Monaco
+2009	7.10 m (23 ft 3+1⁄2 in)	 Brittney Reese (USA)	Berlin
+2010	7.13 m (23 ft 4+1⁄2 in)	 Olga Kucherenko (RUS)	Sochi
+2011	7.19 m (23 ft 7 in)	 Brittney Reese (USA)	Eugene
+2012	7.23 m (23 ft 8+1⁄2 in) i	 Brittney Reese (USA)	Istanbul
+2013	7.25 m (23 ft 9+1⁄4 in)	 Brittney Reese (USA)	Doha
+2014	7.02 m (23 ft 1⁄4 in)	 Tianna Bartoletta (USA)	Oslo
+2015	7.14 m (23 ft 5 in)	 Tianna Bartoletta (USA)	Beijing
+2016	7.31 m (23 ft 11+3⁄4 in)	 Brittney Reese (USA)	Eugene
+2017	7.24 m (23 ft 9 in) i	 Ivana Španović (SRB)	Belgrade
+2018	7.05 m (23 ft 1+1⁄2 in)	 Lorraine Ugen (GBR)	Birmingham
+2019	7.30 m (23 ft 11+1⁄4 in)	 Malaika Mihambo (GER)	Doha
+2020	7.07 m (23 ft 2+1⁄4 in) i	 Malaika Mihambo (GER)	Berlin
+2021	7.17 m (23 ft 6+1⁄4 in)	 Ese Brume (NGR)	Chula Vista
+National records
+Updated 16 August 2021[16][21]
+Men (outdoor)
+NR's equal or superior to 8.00 m:
+
+Nation	Mark	Athlete	Date	Place
+ United States	8.95 m (29 ft 4+1⁄4 in)	Mike Powell	30 August 1991	Tokyo
+ Soviet Union/
+ Armenia	8.86 m (29 ft 3⁄4 in) A	Robert Emmiyan	22 May 1987	Tsakhkadzor
+ Panama	8.73 m (28 ft 7+1⁄2 in)	Irving Saladino	24 May 2008	Hengelo
+ Cuba	8.71 m (28 ft 6+3⁄4 in)	Iván Pedroso	18 July 1995	Salamanca
+ Jamaica	8.69 m (28 ft 6 in)	Tajay Gayle	28 September 2019	Doha
+ Greece	8.66 m (28 ft 4+3⁄4 in)	Louis Tsatoumas	2 June 2007	Kalamata
+ South Africa	8.65 m (28 ft 4+1⁄2 in) A	Luvo Manyonga	22 April 2017	Potchefstroom
+ Spain	8.56 m (28 ft 1 in)	Yago Lamela	24 June 1999	Turin
+ Russia	8.56 m (28 ft 1 in)	Aleksandr Menkov	16 August 2013	Moscow
+ East Germany/
+ Germany	8.54 m (28 ft 0 in)	Lutz Dombrowski	28 July 1980	Moscow
+ Australia	8.54 m (28 ft 0 in)	Mitchell Watt	29 July 2011	Stockholm
+ United Kingdom	8.51 m (27 ft 11 in)	Greg Rutherford	24 April 2014	Chula Vista
+ Saudi Arabia	8.48 m (27 ft 9+3⁄4 in)	Mohamed Salman Al-Khuwalidi	2 July 2006	Sotteville-lès-Rouen
+ Italy	8.47 m (27 ft 9+1⁄4 in)	Andrew Howe	30 August 2007	Osaka
+ People's Republic of China	8.47 m (27 ft 9+1⁄4 in)	Li Jinzhe	29 June 2014	Bad Langensalza
+8.47 m (27 ft 9+1⁄4 in) A	Wang Jianan	16 June 2018	Guiyang
+ Senegal	8.46 m (27 ft 9 in)	Cheikh Tidiane Touré	15 June 1997	Bad Langensalza
+ Mexico	8.46 m (27 ft 9 in)	Luis Rivera	12 July 2013	Kazan
+ Yugoslavia/
+ Serbia	8.45 m (27 ft 8+1⁄2 in)	Nenad Stekić	25 July 1975	Montreal
+ Sweden	8.44 m (27 ft 8+1⁄4 in) A	Michel Tornéus	10 July 2016	Monachil
+ Ghana	8.43 m (27 ft 7+3⁄4 in)	Ignisious Gaisah	14 July 2006	Rome
+ France	8.42 m (27 ft 7+1⁄4 in)	Salim Sdiri	12 June 2009	Pierre-Bénite
+ Bahamas	8.41 m (27 ft 7 in)	Craig Hepburn	17 June 1993	Nassau
+ Brazil	8.40 m (27 ft 6+1⁄2 in)	Douglas de Souza	15 February 1995	São Paulo
+ Slovenia	8.40 m (27 ft 6+1⁄2 in)	Gregor Cankar	18 May 1997	Celje
+ Morocco	8.40 m (27 ft 6+1⁄2 in)	Yahya Berrabah	2 October 2009	Beirut
+ Zimbabwe	8.40 m (27 ft 6+1⁄2 in)	Ngonidzashe Makusha	9 June 2011	Des Moines
+ Japan	8.40 m (27 ft 6+1⁄2 in)	Shotaro Shiroyama	17 August 2019	Fukui
+ Romania	8.37 m (27 ft 5+1⁄2 in)	Bogdan Tudor	9 July 1995	Bad Cannstatt
+ Portugal	8.36 m (27 ft 5 in)	Carlos Calado	20 June 1997	Lisbon
+ Ukraine	8.35 m (27 ft 4+1⁄2 in)	Sergey Layevskiy	16 July 1988	Dnipropetrovsk
+Roman Shchurenko	25 July 2000	Kyiv
+ Chinese Taipei	8.34 m (27 ft 4+1⁄4 in)	Nai Hui-fang	14 May 1993	Shanghai
+ Venezuela	8.34 m (27 ft 4+1⁄4 in) A	Víctor Castillo	30 May 2004	Cochabamba
+ Bermuda	8.34 m (27 ft 4+1⁄4 in)	Tyrone Smith	5 May 2017	Houston
+ Bulgaria	8.33 m (27 ft 3+3⁄4 in)	Ivaylo Mladenov	3 June 1995	Seville
+ Belarus	8.33 m (27 ft 3+3⁄4 in) A	Aleksandr Glovatskiy	7 August 1996	Sestriere
+ Egypt	8.31 m (27 ft 3 in)	Hatem Mersal	30 June 1999	Oslo
+ Cayman Islands	8.31 m (27 ft 3 in)	Kareem Streete-Thompson	1 July 2000	Bad Langensalza
+ Czech Republic	8.31 m (27 ft 3 in)	Radek Juška	27 August 2017	Taipei City
+ Hungary	8.30 m (27 ft 2+3⁄4 in)	László Szalma	7 July 1985	Budapest
+ Austria	8.30 m (27 ft 2+3⁄4 in)	Andreas Steiner	4 June 1988	Innsbruck
+ Netherlands	8.29 m (27 ft 2+1⁄4 in)	Ignisious Gaisah	16 August 2013	Moscow
+ Poland	8.28 m (27 ft 1+3⁄4 in) A	Grzegorz Marciniszyn	14 July 2001	Mals
+ Mauritius	8.28 m (27 ft 1+3⁄4 in)	Jonathan Chimier	24 August 2004	Athens
+ Canada	8.28 m (27 ft 1+3⁄4 in)	Damian Warner	29 May 2021	Götzis
+ Nigeria	8.27 m (27 ft 1+1⁄2 in)	Yusuf Alli	8 August 1989	Lagos
+  Switzerland	8.27 m (27 ft 1+1⁄2 in)	Julien Fivaz	2 August 2003	Ebensee
+ Botswana	8.27 m (27 ft 1+1⁄2 in)	Gable Garenamotse	20 August 2006	Rhede
+ Finland	8.27 m (27 ft 1+1⁄2 in)	Kristian Pulli	11 June 2020	Espoo
+ Algeria	8.26 m (27 ft 1 in)	Issam Nima	28 July 2007	Zaragoza
+ Uruguay	8.26 m (27 ft 1 in) A	Emiliano Lasa	5 June 2018	Cochabamba
+ India	8.26 m (27 ft 1 in)	Murali Sreeshankar	16 March 2021	Patiala
+ Republic of Moldova	8.25 m (27 ft 3⁄4 in)	Sergey Podgainiy	18 August 1990	Chişinău
+ Belgium	8.25 m (27 ft 3⁄4 in)	Erik Nys	6 July 1996	Hechtel
+ Denmark	8.25 m (27 ft 3⁄4 in)	Morten Jensen	3 July 2005	Gothenburg
+ Trinidad and Tobago	8.25 m (27 ft 3⁄4 in) A	Andwuelle Wright	5 July 2019	Queretaro
+ Namibia	8.24 m (27 ft 1⁄4 in) A	Stephan Louw	12 January 2008	Germiston
+ Georgia	8.24 m (27 ft 1⁄4 in)	Bachana Khorava	29 May 2021	Tbilisi
+ Croatia	8.23 m (27 ft 0 in)	Siniša Ergotić	5 June 2002	Zagreb
+6 September 2003	Córdoba
+ South Korea	8.22 m (26 ft 11+1⁄2 in)	Kim Deok-hyeon	10 June 2016	Ried
+ Puerto Rico	8.19 m (26 ft 10+1⁄4 in) A	Elmer Williams	11 August 1989	Bogotá
+ Tajikistan	8.18 m (26 ft 10 in)	Vasiliy Sokov	5 July 1988	Tallinn
+ Iran	8.17 m (26 ft 9+1⁄2 in)	Mohammad Arzandeh	7 July 2012	Tehran
+ Kyrgyzstan	8.16 m (26 ft 9+1⁄4 in)	Shamil Abbyasov	2 August 1981	Leningrad
+ Kazakhstan	8.16 m (26 ft 9+1⁄4 in)	Sergey Vasilenko	18 June 1988	Alma Ata
+ Ecuador	8.16 m (26 ft 9+1⁄4 in) A	Hugo Chila	23 November 2009	Sucre
+ Albania	8.16 m (26 ft 9+1⁄4 in) NWI	Izmir Smajlaj	8 May 2021	Tirana
+ Lithuania	8.15 m (26 ft 8+3⁄4 in)	Povilas Mykolaitis	4 June 2011	Kaunas
+ Sri Lanka	8.15 m (26 ft 8+3⁄4 in)	W. P. Amila Jayasiri	16 August 2016	Diyagama
+ Qatar	8.13 m (26 ft 8 in)	Abdulrahman Faraj Al-Nubi	21 September 2003	Manila
+ Kenya	8.12 m (26 ft 7+1⁄2 in) A	Jacob Katonon	23 September 1995	Johannesburg
+ Hong Kong	8.12 m (26 ft 7+1⁄2 in)	Chan Ming Tai	7 May 2016	Hong Kong
+ Guyana	8.12 m (26 ft 7+1⁄2 in)	Emanuel Archibald	11 May 2019	Kingston
+ Uzbekistan	8.10 m (26 ft 6+3⁄4 in)	Aleksandr Pototskiy	4 June 1992	Bryansk
+Konstantin Sarnatskiy	11 October 1994	Hiroshima
+ Estonia	8.10 m (26 ft 6+3⁄4 in)	Erki Nool	27 May 1995	Götzis
+ Peru	8.10 m (26 ft 6+3⁄4 in) A	Jorge McFarlane	23 November 2009	Sucre
+ Norway	8.10 m (26 ft 6+3⁄4 in) A	Ingar Kiplesund [no]	17 August 2019	Monachil
+ Grenada	8.09 m (26 ft 6+1⁄2 in)	Eugene Licorish	5 May 1989	Port of Spain
+ Indonesia	8.09 m (26 ft 6+1⁄2 in)	Sapwaturrahman	26 August 2018	Jakarta
+ Turkey	8.08 m (26 ft 6 in)	Mesut Yavaş	24 June 2000	Istanbul
+ Saint Vincent and the Grenadines	8.08 m (26 ft 6 in)	Clayton Latham	29 July 2008	Hamburg
+ Chile	8.08 m (26 ft 6 in)	Daniel Pineda	21 April 2012	Santiago de Chile
+ Latvia	8.08 m (26 ft 6 in)	Elvijs Misāns	12 July 2016	Saldus
+ Ireland	8.07 m (26 ft 5+1⁄2 in)	Ciaran McDonagh	21 August 2005	La Chaux-de-Fonds
+ Dominica	8.06 m (26 ft 5+1⁄4 in) A	David Registe	15 August 2014	Mexico City
+ Turks and Caicos Islands	8.06 m (26 ft 5+1⁄4 in)	Ifeanyichukwu Otuonye	9 June 2018	Chula Vista
+ New Zealand	8.05 m (26 ft 4+3⁄4 in)	Bob Thomas	20 January 1968	Whangārei
+ Slovakia	8.05 m (26 ft 4+3⁄4 in)	Róbert Széli	6 July 1988	Budapest
+ Thailand	8.05 m (26 ft 4+3⁄4 in)	Supanara Sukhasvasti	10 July 2011	Kobe
+ Azerbaijan	8.03 m (26 ft 4 in)	Vladimir Tsepelyov	17 September 1978	Tbilisi
+ Libya	8.03 m (26 ft 4 in)	Mohamed Bishty	25 May 1985	Chania
+ Cameroon	8.03 m (26 ft 4 in) A NWI	Marcel Mayack	2 March 2019	Bafoussam
+ Antigua and Barbuda	8.02 m (26 ft 3+1⁄2 in)	Lester Benjamin	12 May 1984	Baton Rouge
+ Kuwait	8.02 m (26 ft 3+1⁄2 in)	Saleh Abdelaziz Al Haddad	5 May 2009	Al-Kuwait
+ Malaysia	8.02 m (26 ft 3+1⁄2 in)	Andre Anura	7 December 2019	New Clark City
+ Tunisia	8.01 m (26 ft 3+1⁄4 in)	Anis Gallali	22 August 1998	Dakar
+ Iceland	8.00 m (26 ft 2+3⁄4 in)	Jón Arnar Magnússon	26 August 1994	Reykjavík
+ Burkina Faso	8.00 m (26 ft 2+3⁄4 in)	Franck Zio	21 June 1998	Viry-Chatillon
+ Togo	8.00 m (26 ft 2+3⁄4 in) A	Teko Georges Folligan	15 September 1999	Johannesburg
+ Liberia	8.00 m (26 ft 2+3⁄4 in)	Cadeau Kelley	18 April 2009	Ypsilanti
+Women (outdoor)
+NR's equal or superior to 6.75 m:
+
+Nation	Mark	Athlete	Date	Place
+ Soviet Union/
+ Russia	7.52 m (24 ft 8 in)	Galina Chistyakova	11 June 1988	Leningrad
+ United States	7.49 m (24 ft 6+3⁄4 in)	Jackie Joyner-Kersee	22 May 1994	New York City
+7.49 m (24 ft 6+3⁄4 in) A	31 July 1994	Sestriere
+ East Germany/
+ Germany	7.48 m (24 ft 6+1⁄4 in)	Heike Drechsler	9 July 1988	Neubrandenburg
+8 July 1992	Lausanne
+ Romania	7.43 m (24 ft 4+1⁄2 in)	Anișoara Cușmir	4 June 1983	Bucharest
+ Belarus	7.39 m (24 ft 2+3⁄4 in)	Yelena Belevskaya	18 July 1987	Bryansk
+ Kazakhstan	7.31 m (23 ft 11+3⁄4 in)	Yelena Khlopotnova	12 September 1985	Alma Ata
+ Brazil	7.26 m (23 ft 9+3⁄4 in) A	Maurren Maggi	26 July 1999	Bogotá
+ Ukraine	7.24 m (23 ft 9 in)	Larysa Berezhna	25 May 1991	Granada
+ Lithuania	7.20 m (23 ft 7+1⁄4 in)	Irena Oženko	12 September 1986	Budapest
+ Nigeria	7.17 m (23 ft 6+1⁄4 in)	Ese Brume	29 May 2021	Chula Vista
+ Jamaica	7.16 m (23 ft 5+3⁄4 in) A	Elva Goulbourne	22 May 2004	Mexico City
+ Portugal	7.12 m (23 ft 4+1⁄4 in)	Naide Gomes	29 July 2008	Monaco
+ Italy	7.11 m (23 ft 3+3⁄4 in)	Fiona May	22 August 1998	Budapest
+ Serbia	7.10 m (23 ft 3+1⁄2 in)	Ivana Španović	11 September 2016	Belgrade
+ Austria	7.09 m (23 ft 3 in)	Ludmila Ninova	5 June 1994	Seville
+ British Virgin Islands	7.08 m (23 ft 2+1⁄2 in)	Chantel Malone	27 March 2021	Miramar
+ United Kingdom	7.07 m (23 ft 2+1⁄4 in)	Shara Proctor	28 August 2015	Beijing
+ Kyrgyzstan	7.06 m (23 ft 1+3⁄4 in)	Tatyana Kolpakova	31 July 1980	Moscow
+ Spain	7.06 m (23 ft 1+3⁄4 in)	Niurka Montalvo	23 August 1999	Seville
+ France	7.05 m (23 ft 1+1⁄2 in)	Eunice Barber	14 September 2003	Monaco
+ Australia	7.05 m (23 ft 1+1⁄2 in)	Brooke Stratton	12 March 2016	Perth
+ Greece	7.03 m (23 ft 3⁄4 in)	Niki Xanthou	18 August 1997	Bellinzona
+ Czechoslovakia/
+ Slovakia	7.01 m (22 ft 11+3⁄4 in)	Eva Murková	26 May 1984	Leningrad
+ People's Republic of China	7.01 m (22 ft 11+3⁄4 in)	Yao Weili	4 June 1993	Jinan
+ Bulgaria	7.00 m (22 ft 11+1⁄2 in)	Silvia Khristova-Moneva	3 August 1986	Sofia
+ Cuba	6.99 m (22 ft 11 in)	Lissette Cuza	3 June 2000	Jena
+ Sweden	6.99 m (22 ft 11 in)	Erica Johansson	5 July 2000	Lausanne
+ Canada	6.99 m (22 ft 11 in)	Christabel Nettey	29 May 2015	Eugene
+ Poland	6.97 m (22 ft 10+1⁄4 in)	Agata Karczmarek	6 August 1988	Lublin
+ Puerto Rico	6.96 m (22 ft 10 in) A	Madeline de Jesus	24 July 1988	Mexico City
+ Denmark	6.96 m (22 ft 10 in)	Renata Nielsen	5 June 1994	Seville
+ Trinidad and Tobago	6.96 m (22 ft 10 in)	Tyra Gittens	14 May 2021	College Station
+ South Africa	6.93 m (22 ft 8+3⁄4 in)	Karin Melis Mey	7 July 2007	Bad Langensalza
+7 June 2008
+ Colombia	6.93 m (22 ft 8+3⁄4 in)	Caterine Ibarguen	9 September 2018	Ostrava
+ Latvia	6.92 m (22 ft 8+1⁄4 in)	Ineta Radēviča	28 July 2010	Barcelona
+ Czech Republic	6.89 m (22 ft 7+1⁄4 in)	Jarmila Strejčková	18 September 1982	Prague
+ Venezuela	6.88 m (22 ft 6+3⁄4 in)	Yulimar Rojas	13 June 2021	La Nucia
+ Turkey	6.87 m (22 ft 6+1⁄4 in)	Karin Melis Mey	31 July 2009	Leverkusen
+ Estonia	6.87 m (22 ft 6+1⁄4 in)	Ksenija Balta	8 August 2010	Tallinn
+ Hungary	6.86 m (22 ft 6 in)	Tünde Vaszi	7 August 2001	Edmonton
+ Japan	6.86 m (22 ft 6 in)	Kumiko Imura	6 May 2006	Osaka
+ Belgium	6.86 m (22 ft 6 in)	Nafissatou Thiam	18 August 2019	Birmingham
+ Finland	6.85 m (22 ft 5+1⁄2 in)	Ringa Ropo-Junnila	11 August 1990	Lahti
+ Uzbekistan	6.85 m (22 ft 5+1⁄2 in)	Darya Reznichenko	28 June 2021	Tashkent
+  Switzerland	6.84 m (22 ft 5+1⁄4 in)	Irene Pusterla	20 August 2011	Chiasso
+ Sierra Leone	6.83 m (22 ft 4+3⁄4 in)	Eunice Barber	9 May 1999	Reims
+ India	6.83 m (22 ft 4+3⁄4 in)	Anju Bobby George	27 August 2004	Athens
+ Bahamas	6.83 m (22 ft 4+3⁄4 in)	Bianca Stuart	26 June 2015	Nassau
+ Guyana	6.81 m (22 ft 4 in)	Jennifer Inniss	18 June 1983	Indianapolis
+ Ghana	6.81 m (22 ft 4 in)	Deborah Acquah	24 April 2021	Baton Rouge
+ Cyprus	6.80 m (22 ft 3+1⁄2 in)	Maroula Lambrou	25 March 1985	Limassol
+ Barbados	6.80 m (22 ft 3+1⁄2 in)	Akela Jones	29 May 2021	Chula Vista
+ Slovenia	6.78 m (22 ft 2+3⁄4 in)	Nina Kolarič	29 June 2008	Ptuj
+ Netherlands	6.78 m (22 ft 2+3⁄4 in)	Dafne Schippers	26 July 2014	Amsterdam
+ Syria	6.77 m (22 ft 2+1⁄2 in)	Ghada Shouaa	26 May 1996	Götzis
+ South Korea	6.76 m (22 ft 2 in)	Jung Soon-ok	4 June 2009	Daegu
+Notes and references
+ "USATF – 2006 Competition Rules". USA Track & Field. Retrieved 29 October 2006.
+See Rule 185 in Article III
+ Judith Swaddling (1999). The Ancient Olympic Games. University of Texas Pres. ISBN 0292777515.
+ Miller, p. 66
+ Miller, p. 67
+ "Ancient Origins". The Times/The Sunday Times. Archived from the original on 11 March 2007. Retrieved 29 October 2006.
+ Miller, p. 68
+ Tricard, Louise Mead (1 July 1996). American Women's Track & Field: A History, 1895 Through 1980. McFarland & Company. pp. 60–61. ISBN 0-7864-0219-9.
+ Ron Reid (29 July 1974). "The Flip That Led To A Flap". Sports Illustrated. Archived from the original on 3 February 2014.
+ "Athens 2004 - Olympic games coins - Second series". Fleur de Coin. Archived from the original on 16 October 2008. Retrieved 14 October 2008.
+ Athlete profile for Iván Pedroso. Iaaf.org (17 December 1972). Retrieved on 2013-04-20.
+ Pedroso may lose record. The Victoria Advocate (4 August 1995).
+ "Men's Outdoor Long Jump | Records". worldathletics.org. World Athletics. Retrieved 1 February 2020.
+ "Women's Outdoor Long Jump | Records". worldathletics.org. World Athletics. Retrieved 1 February 2020.
+ "Men's Indoor Long Jump | Records". worldathletics.org. World Athletics. Retrieved 17 September 2020.
+ "Women's Indoor Long Jump | Records". worldathletics.org. World Athletics. Retrieved 17 September 2020.
+ Long Jump – men – senior – outdoor. IAAF. Retrieved on 25 January 2014.
+ Jon Mulkeen (30 June 2018). "Echevarria extends long jump world lead to 8.68m in Bad Langensalza". IAAF. Retrieved 12 July 2018.
+ "Long Jump Results". asaseniors.co.za. 22 April 2017. Archived from the original on 29 June 2017. Retrieved 22 April 2017.
+ "Breaking: Miltiadis Tentoglou terzo europeo di sempre nel lungo!" (in Italian). www.atleticalive.it. Retrieved 26 May 2021.
+ Roy Jordan (4 July 2016). "Six world leads on third day of US Olympic Trials". IAAF. Retrieved 4 July 2016.
+ Long Jump – women – senior – outdoor. IAAF. Retrieved on 25 January 2014.
+ Roy Jordan (3 July 2016). "Reese's big leap highlights early action at US Olympic Trials". IAAF. Retrieved 3 July 2016.
+ "Long Jump Results" (PDF). IAAF. 6 October 2019. Retrieved 7 October 2019.
+ "Women's Long Jump Results" (PDF). Rio 2016 official website. 17 August 2016. Archived from the original (PDF) on 20 September 2016. Retrieved 18 August 2016.
+ Jon Mulkeen (30 May 2021). "Brume and Malone break records in Chula Vista". World Athletics. Retrieved 20 June 2021.
+ "US long jumper Shinnick retroactively recognised as world record-breaker | World Athletics". www.worldathletics.org. Retrieved 28 June 2021.
+ Note: Boston won 1964 U.S. Olympic Trials with wind-assisted 8.49m. usatf.org (PDF) . Retrieved on 20 January 2016.
+ Town / City With Most World Records. trackandfieldnews.com. April 2013
+Cited sources
+Stephen G. Miller (2004). Ancient Greek Athletics. New Haven: Yale University Press. ISBN 0300115296.
+Further reading
+Guthrie, Mark (2003). Coach Track & Field Successfully. Champaign, Illinois: Human Kinetics. pp. 149–155. ISBN 0-7360-4274-1.
+Rogers, Joseph L. (2000). USA Track & Field Coaching Manual. Champaign, Illinois: Human Kinetics. pp. 141–157. ISBN 0-88011-604-8.
+Ernie Gregoire, Larry Myricks (1991). World Class Track & Field Series: Long Jump (VHS). Ames, Iowa: Championship Books & Video Productions.
+External links
+	Wikimedia Commons has media related to Long jump.
+IAAF long jump homepage
+IAAF list of long-jump records in XML
+Powell vs Lewis Tokyo 91 (video)

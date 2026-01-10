@@ -1,0 +1,36 @@
+How To: Finger Drumming Tutorial
+Finger Drumming is more than just a fad. It’s an emerging skill that’s becoming more and more important to have, especially if you’re a beatmaker. Not only does it look super impressive once you’ve got your head around it. But it fuses rhythm, composition, and performance into one. Transforming your simple MIDI pad controller into a fully-fledged instrument.
+
+Gone are the days where you’re limited to step sequencing, or programming your drums by clicking around on the computer. The ability to finger drum unlocks the full range of expression that musicians live for. As a result, you’ve got unlimited creative possibilities at the tips of your fingers!
+
+Why Finger Drumming?
+What Do You Need?
+MIDI Pad Controller
+Standalone Production Studio
+Where to start?
+Listen for inspiration
+Start Small
+Keep Building
+Bonus Tips
+Finger Drumming
+
+
+Why Fingerdrumming?
+Firstly, finger drumming is insanely fun. If that’s not enough of a reason to get started, I don’t know what is. It’s also an incredible skill to add to your live performances that will definitely get the crowd going and give your fans another reason to make their way out to your shows.
+
+It also takes the sometimes monotonous nature out of digital music production. Rather than clicking away and programming your sounds, you’re able to turn a controller into an entirely new instrument.
+
+
+What Do You Need?
+First of all, it goes without saying, you can’t move away from clicking your drum compositions into fruition using your mouse if you don’t already have some kind of pad controller. So the first thing you’ll want to make sure you have is either a MIDI Controller with some pads, or a completely standalone production controller such as an MPC or the Maschine+.
+
+If you’ve already got your hands on a decent Pad Controller, feel free to skip this step. But if you don’t, you’re going to need one in order to get the most out of your finger drumming.
+
+Finger Drumming on DAW
+
+MIDI Pad Controller
+Assuming you’re already familiar with and have access to a Digital Audio Workstation (DAW) on your computer. You’re probably going to want to look at getting your hands on a MIDI Controller. Essentially, MIDI Controllers work by sending information to the software on your computer and working with the sounds and plugins you already have available.
+
+Getting your hands on a MIDI Controller is going to be the most cost-effective choice if you already have some music production software. You can choose to get something entirely pad-based such as the Akai MPD Range, Novation’s impressive lineup of Launchpads, or even the DJ Tech Tools MIDI Fighters.
+
+Alternatively, you could look at picking up a MIDI Keyboard that also has some pads available to you. You’re obviously not going to get as many pads as you’ll find on a pad controller, however, these are quite a versatile option and give you a solution to playing the keys as well!

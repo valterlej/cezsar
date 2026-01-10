@@ -1,0 +1,55 @@
+Springboard
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the springboard used in diving. For other uses, see Springboard (disambiguation).
+
+Diving from a springboard
+A springboard or diving board is used for diving and is a board that is itself a spring, i.e. a linear flex-spring, of the cantilever type.
+
+Springboards are commonly fixed by a hinge at one end (so they can be flipped up when not in use), and the other end usually hangs over a swimming pool, with a point midway between the hinge and the end resting on an adjustable fulcrum.
+
+
+Contents
+1	Springboard materials
+2	Adjustment of the spring constant
+3	Adjusting the fulcrum
+4	Heights of springboards
+4.1	Historical heights of springboards
+5	Home springboards
+6	References
+Springboard materials
+Modern springboards are made out of a single-piece extrusion of aircraft-grade aluminum. The Maxiflex Model B, the board used in all major competitive diving events,[1] is made out of such aluminum, and is heat treated for a yield strength of 340,000 kPa (49,000 psi). The slip-resistant surface of the board is created using an epoxy resin, finished with a laminate of flint silica and alumina in between the top coats of resin. This thermal-cured resin is aqua-colored to match the water of a clean pool.[2]
+
+Adjustment of the spring constant
+
+Adjusting fulcrum with foot prior to a dive
+The spring constant of a springboard is usually adjusted by way of a fulcrum that is located approximately mid way along the springboard. Springboards are usually operated in a linear regime where they approximately obey Hooke's law. When loaded with a diver, the combination of the diver's approximately constant mass, and the constant stiffness of the spring(board) result in a resonance frequency that is adjustable by way of the spring constant (set by the fulcrum position). Since the resulting system is in an approximately linear regime, it may be modeled fairly accurately by a second order differential equation. Typically the resonance frequency can be adjusted over a range of a 2:1 or 3:1 ratio.[3]
+
+Adjusting the fulcrum
+The fulcrum on competitive diving boards travels over a range of 0.61 metres (24 inches),[4] and is set by way of a foot wheel that is approximately 0.35 m (14 in) in diameter.[3][5][6] To stiffen the spring (as if tightening it), the foot wheel is usually turned counter clockwise. Some may find this counter intuitive, since usually things are tightened by turning clockwise. However, with a little experience, people realize the fulcrum moves in the direction the bottom of the foot faces when placed on the foot wheel.
+
+Note – Standing behind or in front of the knob, rather than directly above it, will provide better leverage to move the fulcrum. This is accomplished by holding on to the hand rails and leaning the body a few degrees, then placing the foot as low as possible on the knob. In this way, it is possible to move even the most difficult fulcrum.[5]
+Heights of springboards
+
+Three-metre springboard (in full view) and one-metre springboard (partly out of view)
+Springboards are usually located either 1.0 or 3.0 metres (3 ft 3 in or 9 ft 10 in) above the water surface. It is very seldom that one is mounted at a height other than these two standard heights.
+
+Historical heights of springboards
+Before around 1960, springboards, usually made of wood, were located at heights of either 3 metres (approximately 10 ft), or 6 metres (approximately 20 ft) above the water. American artist Norman Rockwell's painting titled Boy on High Dive (1947) shows a boy (Rockwel's youngest son, Peter) peering over a typical wooden springboard of the early 20th century era at the 20 feet height.[7]
+
+Home springboards
+After an incident in Washington in 1993, most US and other pool builders are reluctant to equip a residential swimming pool with a diving springboard so home diving pools are much less common these days. In the incident, 14-year-old Shawn Meneely made a "suicide dive" (holding his hands at his sides, so that his head hit the bottom first) in a private swimming pool and was seriously injured and became a tetraplegic. The lawyers for the family, Jan Eric Peterson and Fred Zeder, successfully sued the diving board manufacturer, the pool builder, and the National Spa and Pool Institute (NSPI) over the inappropriate depth of the pool.[8][9] The NSPI had specified a minimum depth of 7 ft 6 in (2.29 m) which proved to be insufficient in the above case. The pool into which Meneely dived was not constructed to the published standards. The standards had changed after the diving board was installed on the non-compliant pool by the homeowner. But the courts held that the pool "was close enough" to the standards to hold NSPI liable. The multimillion-dollar lawsuit was eventually resolved in 2001 for US$6.6 million ($8 million after interest was added) in favor of the plaintiff.[10] The NSPI was held to be liable, and was financially strained by the case. It filed twice for Chapter 11 bankruptcy protection and was successfully reorganized into a new swimming pool industry association.[8]
+
+References
+ Franklin, Woody. "Why a Diving Board Has Holes". About.com. Archived from the original on November 18, 2012. Retrieved June 8, 2012.
+ duraflexinternational.com Archived July 27, 2009, at the Wayback Machine
+ The Physics of Springboard and Platform Diving
+ http://diving.about.com/od/facilities/tp/anatBoard.htm
+ Diving Fulcrum
+ Duraflex International/Coach woody Franklyn: diving board construction.
+ "Boy On HighDive, Norman Rockwell Saturday Evening Post Cover 1947". Best-Norman-Rockwell-Art.com. Retrieved August 6, 2021.
+ Brown, AmyJo (January 30, 2004). "No Diving?". Pool & Spa News. Archived from the original on March 4, 2004. Retrieved April 15, 2007.
+ "Deep Impact: Back Yard Danger". 60 Minutes II. CBS News. June 2, 1999. Retrieved January 5, 2012.
+ Appeals Court State of WA, Docket Number:18036-1-III Title: Shawn Meneely, et al. v. S. R. Smith, Inc., et al.
+Authority control Edit this at Wikidata	
+Integrated Authority File (Germany)

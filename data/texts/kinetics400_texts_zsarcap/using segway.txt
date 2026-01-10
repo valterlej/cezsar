@@ -1,0 +1,112 @@
+How Segways Work
+By: Tom Harris
+
+Segways come in a range of sizes (and prices).
+Segways come in a range of sizes (and prices).
+PHOTO COURTESY SEGWAY, LLC
+At first glance, this device (called the SegwayTM Human Transporter) doesn't seem all that remarkable -- it looks like a high-tech scooter. But people who have tried it out claim that it is much, much more -- a completely different way to get around.
+
+Dean Kamen, the machine's inventor, held especially high hopes for the Segway. In an interview with Time Magazine, he claimed that his machine "will be to the car what the car was to the horse and buggy."
+
+Although the Segway hasn't quite lived up to its hype, it's most definitely an amazing machine. In this article, we'll find out what sets the Segway apart from earlier vehicles, and we'll see why its inventor thought it could change the world.
+
+When Dean Kamen unveiled the Segway on ABC's "Good Morning America," he described the machine as "the world's first self-balancing human transporter." When you look at the machine in motion, you get an idea of what he's talking about.
+
+Unlike a car, the Segway only has two wheels -- it looks something like an ordinary hand truck -- yet it manages to stay upright by itself.
+
+To move forward or backward on the Segway, the rider just leans slightly forward or backward. To turn left or right, the rider turns the right handlebar forward or backward.
+
+This balancing act is the most amazing thing about the Segway, and it is the key to its operation. To understand how this system works, it helps to consider Kamen's model for the device -- the human body.
+
+If you stand up and lean forward, so that you are out of balance, you probably won't fall on your face. Your brain knows you are out of balance, because fluid in your inner ear shifts, so it triggers you to put your leg forward and stop the fall. If you keep leaning forward, your brain will keep putting your legs forward to kee­p you upright. Instead of falling, you walk forward, one step at a time.
+
+The Segway does pretty much the same thing, except it has wheels instead of legs, a motor instead of muscles, a collection of microprocessors instead of a brain and a set of sophisticated tilt sensors instead of an inner-ear balancing system. Like your brain, the Segway knows when you are leaning forward. To maintain balance, it turns the wheels at just the right speed, so you move forward.
+
+In the next section, we'll look at the parts that make up the Segway.
+
+Segway Recall
+On September 14, 2006, Segway, Inc., recalled all 23,000 scooters manufactured to date because of a software glitch that can cause its wheels to reverse direction. Several riders have fallen off of their Segways and suffered injuries like broken teeth and a broken wrist. Segway is offering a free software upgrade that will fix the problem, which is available at Segway dealerships and service centers [ref].
+
+Contents
+Segway Parts
+Segway vs. Cars
+Segway Specs
+Segway Parts
+The Segway consists of four major elements: the wheel and motor assembly, the sensor system, the circuit board brain and the operator control system.
+The Segway consists of four major elements: the wheel and motor assembly, the sensor system, the circuit board brain and the operator control system.
+PHOTO COURTESY SEGWAY, LLC
+At its most basic, the Segway is a combination of a series of sensors, a control system and a motor system. In this section, we'll look at each of these elements.
+
+The primary sensor system is an assembly of gyroscopes. A basic gyroscope is a spinning wheel inside a stable frame. A spinning object resists changes to its axis of rotation, because an applied force moves along with the object itself. If you push on a point at the top of a spinning wheel, for example, that point moves around to the front of the wheel while it is still feeling the force you applied. As the point of force keeps moving, it ends up applying force on opposite ends of the wheel -- the force balances itself out. (See How Gyroscopes Work to learn more).
+
+Because of its resistance to outside force, a gyroscope wheel will maintain its position in space (relative to the ground), even if you tilt it. But the gyroscope's frame will move freely in space. By measuring the position of the gyroscope's spinning wheel relative to the frame, a precise sensor can tell the pitch of an object (how much it is tilting away from an upright position) as well as its pitch rate (how quickly it is tilting).
+
+A conventional gyroscope would be cumbersome and difficult to maintain in this sort of vehicle, so the Segway gets the same effect with a different sort of mechanism. Segways use a special solid-state angular rate sensor constructed using silicon. This sort of gyroscope determines an object's rotation using the Coriolis effect on a very small scale.
+
+Simply put, the Coriolis effect is the apparent turning of an object moving in relation to another rotating object. For example, an airplane traveling in a straight line appears to turn because the Earth is rotating underneath it.
+
+A typical solid-state silicon gyroscope consists of a tiny silicon plate mounted on a support frame. The silicon particles are moved by an electrostatic current applied across the plate. The particles move in a particular way, which causes the plate to vibrate in a predictable manner. But when the plate is rotated around its axis (that is, when the Segway rotates in that particular plane), the particles suddenly shift in relation to the plate. This alters the vibration, and the change is in proportion to the degree of rotation. The gyroscope system measures the change in vibration, and passes this information on to the computer. In this way, the computer can figure out when the Segway is rotating along particular axes. (Check out this site for more information on solid-state silicon gyroscopes).
+
+The Segway HT has five gyroscopic sensors, though it only needs three to detect forward and backward pitch as well as leaning to the left or right (termed "roll"). The extra sensors add redundancy, to make the vehicle more reliable. Additionally, the Segway has two tilt sensors filled with electrolyte fluid. Like your inner ear, this system figures out its own position relative to the ground based on the tilt of the fluid surface.
+
+All of the tilt information is passed on to the "brain" of the vehicle, two electronic controller circuit boards comprising a cluster of microprocessors. The Segway has a total of 10 onboard microprocessors, which boast, in total, about three times the power of a typical PC. Normally, both boards work together, but if one board breaks down, the other will take over all functions so that the system can notify the rider of a failure and shut down gracefully.
+
+The Segway requires this much brain power because it needs to make extremely precise adjustments to keep from falling over. In normal operation, the controller boards check the position sensors about 100 times per second. The microprocessors run an advanced piece of software that monitors all of the stability information and adjusts the speed of several electric motors accordingly. The electric motors, which are powered by a pair of rechargeable nickel metal hydride (NIMH) or Lithium-ion (Li-ion) batteries, can turn each of the wheels independently at variable speeds.
+
+When the vehicle leans forward, the motors spin both wheels forward to keep from tilting over. When the vehicle leans backward, the motors spin both wheels backward. When the rider operates the handlebar control to turn left or right, the motors spin one wheel faster than the other, or spin the wheels in opposite directions, so that the vehicle rotates.
+
+This is certainly an amazing machine, but is it really as important as the Internet, as some have claimed? In the next section, we'll see what sort of impact this machine might have on the modern world.
+
+Segway vs. Cars
+Several alternative Segway designs from one of Dean Kamen's patent applications
+Several alternative Segway designs from one of Dean Kamen's patent applications
+PHOTO COURTESY U.S. PATENT AND TRADEMARK OFFICE
+Inventor Dean Kamen admits that the Segway can never completely replace the car, because it doesn't have near the same capabilities. The standard HTi80 model only goes about 12 miles per hour (20 kph), and it has to be hooked up to household electrical current for about six hours to store up enough juice for a 15-mile (24-km) journey. Obviously, this sort of machine wouldn't do you much good on a cross-country road trip.
+
+But Kamen does believe the Segway is a superior option for getting around a city. Cars take up a lot of room, so as soon as you have a bunch of people driving in a constrained area (like a city street), you get heavy traffic jams. It's also a hassle to park cars, and they are very expensive to maintain. All in all, a car is not an optimal machine for short trips in a crowded area.
+
+The Segway is only slightly larger than a person, so it does not cause as much congestion as a car. As a sidewalk vehicle, it lets commuters zip through crowds, skipping the roadways completely. Just like scooters and bicycles, the vehicles will be involved in a good number of pedestrian accidents year to year. But the Segway's supporters say it's only about as dangerous as walking, since the vehicle moves at relatively slow speeds.
+
+While it can't get people to their destinations at top speeds, the Segway can zip by slow-moving, bumper-to-bumper traffic. Once they get to their destination, riders can carry their Segways inside with them without worrying about parking. And there's no need to stop by the gas station, as the vehicle runs on ordinary household electricity.
+
+Segways are also good machines for getting around crowded warehouses, where tight corridors make it difficult to use bulkier vehicles. People may find them useful for getting around large pedestrian areas, such as airports or amusement parks. There is really no limit to how people might use the vehicle. The Segway can fit in most places you might walk, but it will get you there faster, and you won't exert much energy.
+
+So far, the Segway hasn't made a whole lot of progress changing the world. Since 2002, sales have only numbered in the tens of thousands. The hefty price tag has probably been an obstacle. However, the company recently announced that it will offer financing and leasing options. Segway also hopes that rising gas prices will help to boost sales.
+
+Kamen believes more and more people will want the machine, after they get familiar with it and see what it is capable of. To this end, he initially targeted government agencies and large corporations, not the consumer market. Three groups in Atlanta, Georgia, including the Atlanta Police Department, were the first to try out the Segway on city streets. Currently several police forces, including the Chicago Police Department, use the HT i180 Police model.
+
+The Centaur
+Only three years after its first mobile wonder, the folks at Segway focused on a four-wheeled, sportier sibling for the original Segway -- currently named the Centaur.
+
+Definitely sharing very similar lineage (the main gyroscope-balanced base), the new kid on the Segway block is equipped with more than two extra wheels. The steering utilizes both drive-by-wire technology and regular steering mechanics. While the four-wheel design gives it added maneuverability and a little more speed, drivers can switch up between using all four wheels or just two.
+
+Think of it like having an SUV: For street driving, there's no need to turn on the four-wheel-drive system in your Touareg; but when you want to take it off-road, the capability is there. Centaur is an SUV, too -- a "Segway" utility vehicle, able to cover more ground, literally, than its older sib.
+
+For now, the Centaur is merely a prototype in development.
+
+READ MORE
+Segway Specs
+The driver interface is designed to be simple and intuitive.
+The driver interface is designed to be simple and intuitive.
+PHOTO COURTESY SEGWAY, LLC
+These specifications are for the standard HT i180 model. Segway also offers four additional models: the HT i180 Police, the Cross-Terrain Transporter (XT), the Golf Transporter (GT) and the p133, a small, lightweight model. To view additional specs, check out Segway's Products page.
+
+Top speed: 12.5 miles per hour (20 kph). This is about three times typical walking speed.
+Weight: 83 lbs (38 kg)
+Width: The Segway's footprint (how much space it covers on the ground) is 19 by 25 inches (48 by 63.5 cm). This makes the Segway about the same width as an average size person, so it doesn't take up much space on the street. The platform is 8 inches (20 cm) off the ground.
+Weight capacity: 260 pound (118 kg) rider and cargo.
+Range: About 17 miles (28 km) on even ground, with a single charge on a lithium-ion (Li-ion) battery, and 8-12 miles with a single charge on a NiMH (nickel metal hydride) battery.
+Driver interface: The Segway has a small LCD screen that tells the driver how much battery power is left and how well the vehicle is functioning. The screen displays a cartoon face, which expresses the general condition of the vehicle.
+Motors: Each of the Segway's wheels is driven by a 2-horsepower electric motor that produce no emissions.
+Transmission: The two-stage transmission, built by Segway and Axicon Technologies, has a compact 24:1 gear ratio. It uses a helical gear assembly that significantly reduces noise. The Segway team configured the two meshes in the gear box (the points where gears connect) to make sound exactly two octaves apart. This means the sounds are in harmony, so the gear box make a more musical noise. The gears are also designed to have noninteger gear ratios, meaning the gear teeth mesh at different points from revolution to revolution. This minimizes wear and tear to extend the life of the gear box.
+Computer: The Segway's brain is made up of two circuit boards, housed in the vehicle's chassis. The circuit boards, which boast a total of 10 microprocessors, normally work together, but each can function independently in the event of a computer problem. If one breaks, the other circuit board will slow the vehicle down gradually to avoid an accident.
+Power: The Segway is powered by two rechargeable batteries. Segways come with either lithium-ion (Li-ion) or nickel metal hydride (NIMH) batteries. The batteries are constantly monitored by a circuit board, which communicates any performance problems to the central brain. The batteries can be recharged with household AC current. Dean Kamen estimates a Segway costs somewhere around 5 cents a day in electricity bills.
+Sensors: The Segway uses five gyroscopes and a collection of other tilt sensors to keep itself upright. Only three gyroscopes are needed -- the extra sensors are included as a safety precaution. The Segway has an additional weight sensor built into its platform to tell the computer when a rider has stepped on.
+Brakes: The Segway doesn't have a braking system. To stop, the rider stands upright without leaning forward or backward, and the vehicle maintains its position.
+Turning radius: Since it only has two wheels, the Segway can rotate around a single axis (the wheels turn in opposite directions). This gives the Segway a turning radius of zero.
+Wheels: The Segway wheel consists of a forged steel wheel hub with a glass-reinforced thermoplastic rim. Each wheel is secured to the drive shaft with a single nut. The tires are made of a silica compound, which provides good traction even on wet surfaces.
+Security: The Segway uses an electronic key system. The key, which looks something like a car lighter, stores a 128-bit encrypted digital code. The vehicle won't start unless the key is plugged into its port. The key can also store settings for vehicle operation. Segways include one key for "beginner mode," where the vehicle has a lower maximum speed, and one key for "experienced mode." Segway plans to offer programmable keys down the road, which well let users store particular operation settings.
+Chassis: The Segway's sensitive electronic equipment is housed in a sturdy die-cast aluminum chassis. According to Segway, the chassis can withstand 7 tons of force.
+Control shaft: The aluminum shaft that holds up the Segway's handlebars can be adjusted to different heights. Riders can attach clips to the shaft to carry bags or other cargo.
+For information on the development of the Segway and the story of its creator, check out the links on the next page.
+

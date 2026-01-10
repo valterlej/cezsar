@@ -1,0 +1,210 @@
+Abrasive blasting
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+"Sandblasted" redirects here. For the Swerdriver EP, see Sandblasted (EP).
+"Sandblast" redirects here. For the underwater circumnavigation, see Operation Sandblast.
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Abrasive blasting" – news · newspapers · books · scholar · JSTOR (November 2017) (Learn how and when to remove this template message)
+
+Sandblasting a stone wall
+
+Diesel powered compressor used as an air supply for sandblasting
+
+A corrosion pit on the outside wall of a pipeline at a coating defect before and after abrasive blasting
+Abrasive blasting, more commonly known as sandblasting, is the operation of forcibly propelling a stream of abrasive material against a surface under high pressure to smooth a rough surface, roughen a smooth surface, shape a surface or remove surface contaminants. A pressurised fluid, typically compressed air, or a centrifugal wheel is used to propel the blasting material (often called the media). The first abrasive blasting process was patented by Benjamin Chew Tilghman on 18 October 1870.[1][2]
+
+There are several variants of the process, using various media; some are highly abrasive, whereas others are milder. The most abrasive are shot blasting (with metal shot) and sandblasting (with sand). Moderately abrasive variants include glass bead blasting (with glass beads) and plastic media blasting (PMB) with ground-up plastic stock or walnut shells and corncobs. Some of these substances can cause anaphylactic shock to individuals allergic to the media.[3] A mild version is sodablasting (with baking soda). In addition, there are alternatives that are barely abrasive or nonabrasive, such as ice blasting and dry-ice blasting.
+
+
+Contents
+1	Types
+1.1	Sandblasting
+1.2	Wet abrasive blasting
+1.3	Vapor blasting
+1.4	Bead blasting
+1.5	Wheel blasting
+1.6	Hydro-blasting
+1.7	Micro-abrasive blasting
+1.8	Automated blasting
+1.9	Dry-ice blasting
+1.10	Bristle blasting
+1.11	Vacuum blasting
+2	Equipment
+2.1	Portable blast equipment
+2.2	Blast cabinet
+2.3	Blast room
+3	Media
+4	Safety
+4.1	Worn-look jeans
+5	Applications
+6	See also
+7	References
+8	Bibliography
+Types
+Sandblasting
+Sand blasting is also known as abrasive blasting, which is a generic term for the process of smoothing, shaping and cleaning a hard surface by forcing solid particles across that surface at high speeds; the effect is similar to that of using sandpaper, but provides a more even finish with no problems at corners or crannies. Sandblasting can occur naturally, usually as a result of particles blown by wind causing aeolian erosion, or artificially, using compressed air. An artificial sandblasting process was patented by Benjamin Chew Tilghman on 18 October 1870.[1][2]
+
+Sandblasting equipment typically consists of a chamber in which sand and air are mixed. The mixture travels through a hand-held nozzle to direct the particles toward the surface or work piece. Nozzles come in a variety of shapes, sizes, and materials. Boron carbide is a popular material for nozzles because it resists abrasive wear well.
+
+Wet abrasive blasting
+Wet abrasive blasting uses water as the fluid moving the abrasives. The advantages are that the water traps the dust produced, and lubricates the surface. The water cushions the impact on the surface, reducing the removal of sound material.
+
+One of the original pioneers of the wet abrasive process was Norman Ashworth who found the advantages of using a wet process as a strong alternative to dry blasting. The process is available in all conventional formats including hand cabinets, walk-in booths, automated production machinery and total loss portable blasting units. Advantages include the ability to use extremely fine or coarse media with densities ranging from plastic to steel and the ability to use hot water and soap to allow simultaneous degreasing and blasting. The reduction in dust also makes it safer to use siliceous materials for blasting, or to remove hazardous material such as asbestos, radioactive or poisonous products.
+
+Process speeds are generally not as fast as conventional dry abrasive blasting when using the equivalent size and type of media, in part because the presence of water between the media and the substrate being processed creates a lubricating cushion that can protect both the surface and the media, reducing breakdown rates. Reduced impregnation of blasting material into the surface, dust reduction and the elimination of static cling can result in a very clean surface.
+
+Wet blasting of mild steel will result in immediate or 'flash' corrosion of the blasted steel substrate due to the presence of water. The lack of surface recontamination also allows the use of single equipment for multiple blasting operations—e.g., stainless steel and mild steel items can be processed in the same equipment with the same media without problems.
+
+Vapor blasting
+A variant of wet blasting is vapor blasting (or vapour blasting; U.K.). In this process pressurized air is added to the water in the nozzle producing a high speed mist, called "vapor". This process is even milder than wet blasting, allowing mating surfaces to be cleaned while retaining their ability to mate.
+
+Bead blasting
+
+Bead blasting paint from a concrete curb. Mixing particles with water substantially reduces dust.
+Bead blasting is the process of removing surface deposits by applying fine glass beads at a high pressure without damaging the surface. It is used to clean calcium deposits from pool tiles or any other surfaces, remove embedded fungus, and brighten grout color. It is also used in auto body work to remove paint. In removing paint for auto body work, bead blasting is preferred over sand blasting, as sand blasting tends to create a greater surface profile than bead blasting. Bead blasting is often used in creating a uniform surface finish on machined parts.[4] It is additionally used in cleaning mineral specimens, most of which have a Mohs hardness of 7 or less and would thus be damaged by sand.
+
+Wheel blasting
+In wheel blasting, a spinning wheel propels the abrasive against an object. It is typically categorized as an airless blasting operation because there is no propellant (gas or liquid) used. A wheel machine is a high-power, high-efficiency blasting operation with recyclable abrasive (typically steel or stainless steel shot, cut wire, grit, or similarly sized pellets). Specialized wheel blast machines propel plastic abrasive in a cryogenic chamber, and is usually used for deflashing plastic and rubber components. The size of the wheel blast machine, and the number and power of the wheels vary considerably depending on the parts to be blasted as well as on the expected result and efficiency. The first blast wheel was patented by Wheelabrator in 1932.[5][6] In China, the first blast wheel was built around the 1950s, [7] Qinggong Machinery is one of the earliest manufacturers of blast wheel.[8]
+
+Hydro-blasting
+Hydro blasting is not a form of abrasive blasting as no abrasive media is used. Hydro-blasting, commonly known as water blasting, is commonly used because it usually requires only one operator. In hydro-blasting, a highly pressured stream of water is used to remove old paint, chemicals, or buildup without damaging the original surface. This method is ideal for cleaning internal and external surfaces because the operator is generally able to send the stream of water into places that are difficult to reach using other methods. Another benefit of hydro-blasting is the ability to recapture and reuse the water, reducing waste and mitigating environmental impact.
+
+Micro-abrasive blasting
+Main article: Abrasive jet machining
+Micro-abrasive blasting is dry abrasive blasting process that uses small nozzles (typically 0.25 mm to 1.5 mm diameter) to deliver a fine stream of abrasive accurately to a small part or a small area on a larger part. Generally the area to be blasted is from about 1 mm2 to only a few cm2 at most. Also known as pencil blasting, the fine jet of abrasive is accurate enough to write directly on glass and delicate enough to cut a pattern in an eggshell.[9] The abrasive media particle sizes range from 10 micrometres up to about 150 micrometres. Higher pressures are often required.
+
+The most common micro-abrasive blasting systems are commercial bench-mounted units consisting of a power supply and mixer, exhaust hood, nozzle, and gas supply. The nozzle can be hand-held or fixture mounted for automatic operation. Either the nozzle or part can be moved in automatic operation.
+
+Automated blasting
+Automated blasting is simply the automation of the abrasive blasting process. Automated blasting is frequently just a step in a larger automated procedure, usually involving other surface treatments such as preparation and coating applications. Care is often needed to isolate the blasting chamber from mechanical components that may be subject to dust fouling.
+
+Dry-ice blasting
+Main article: Dry-ice blasting
+In this type of blasting, air and dry ice are used. Surface contaminants are dislodged by the force of frozen carbon dioxide particles hitting at high velocity, and by slight shrinkage due to freezing which disrupts adhesion bonds. The dry ice sublimates, leaving no residue to clean up other than the removed material. Dry ice is a relatively soft material, so is less destructive to the underlying material than sandblasting.
+
+Bristle blasting
+Main article: Bristle blasting
+Bristle blasting, unlike other blasting methods, does not require a separate blast medium. The surface is treated by a brush-like rotary tool made of dynamically tuned high-carbon steel wire bristles. Repeated contact with the sharp, rotating bristle tips results in localized impact, rebound, and crater formation, which simultaneously cleans and coarsens the surface.
+
+Vacuum blasting
+Main article: Vacuum blasting
+Vacuum blasting is a method that generates very little dust and spill, as the blast tool does dry abrasive blasting and collects used blast media and loosened particles from the surface to be treated, simultaneously. Blast media consumption is relatively low with this method, as the used blast media is automatically separated from dust and loosened particles, and reused several times.
+
+Equipment
+
+Device used for adding sand to the compressed air (top of which is a sieve for adding the sand)
+Portable blast equipment
+Mobile dry abrasive blast systems are typically powered by a diesel air compressor. The air compressor provides a large volume of high pressure air to a single or multiple "blast pots". Blast pots are pressurized, tank-like containers, filled with abrasive material, used to allow an adjustable amount of blasting grit into the main blasting line. The number of blast pots is dictated by the volume of air the compressor can provide. Fully equipped blast systems are often found mounted on semi-tractor trailers, offering high mobility and easy transport from site to site. Others are hopper-fed types making them lightweight and more mobile.
+
+In wet blasting, the abrasive is introduced into a pressurized stream of water or other liquid, creating a slurry. Wet blasting is often used in applications where the minimal dust generation is desired. Portable applications may or may not recycle the abrasive.
+
+Blast cabinet
+
+A sand-blasting cabinet
+A blast cabinet is essentially a closed loop system that allows the operator to blast the part and recycle the abrasive.[10] It usually consists of four components; the containment (cabinet), the abrasive blasting system, the abrasive recycling system and the dust collection. The operator blasts the parts from the outside of the cabinet by placing his arms in gloves attached to glove holes on the cabinet, viewing the part through a view window, turning the blast on and off using a foot pedal or treadle. Automated blast cabinets are also used to process large quantities of the same component and may incorporate multiple blast nozzles and a part conveyance system.
+
+There are three systems typically used in a blast cabinet. Two, siphon and pressure, are dry and one is wet:
+
+A siphon blast system (suction blast system) uses the compressed air to create vacuum in a chamber (known as the blast gun). The negative pressure pulls abrasive into the blast gun where the compressed air directs the abrasive through a blast nozzle. The abrasive mixture travels through a nozzle that directs the particles toward the surface or workpiece.
+Nozzles come in a variety of shapes, sizes, and materials. Tungsten carbide is the liner material most often used for mineral abrasives. Silicon carbide and boron carbide nozzles are more wear resistant and are often used with harder abrasives such as aluminium oxide. Inexpensive abrasive blasting systems and smaller cabinets use ceramic nozzles.
+
+In a pressure blast system, the abrasive is stored in the pressure vessel then sealed. The vessel is pressurized to the same pressure as the blast hose attached to the bottom of the pressure vessel. The abrasive is metered into the blast hose and conveyed by the compressed gas through the blast nozzle.
+Wet blast cabinets use a system that injects the abrasive/liquid slurry into a compressed gas stream. Wet blasting is typically used when the heat produced by friction in dry blasting would damage the part.
+Blast room
+A blast room is a much larger version of a blast cabinet. Blast operators work inside the room to roughen, smooth, or clean surfaces of an item depending on the needs of the finished product. Blast rooms and blast facilities come in many sizes, some of which are big enough to accommodate very large or uniquely shaped objects like rail cars, commercial and military vehicles, construction equipment, and aircraft.[11]
+
+Each application may require the use of many different pieces of equipment, however, there are several key components that can be found in a typical blast room:
+
+An enclosure or containment system, usually the room itself, designed to remain sealed to prevent blast media from escaping
+A blasting system; wheel blasting and air blasting systems are commonly used
+A blast pot – a pressurized container filled with abrasive blasting media[12]
+A dust collection system which filters the air in the room and prevents particulate matter from escaping
+A material recycling or media reclamation system to collect abrasive blasting media so it can be used again; these can be automated mechanical or pneumatic systems installed in the floor of the blast room, or the blast media can be collected manually by sweeping or shovelling the material back into the blast pot
+Additional equipment can be added for convenience and improved usability, such as overhead cranes for manoeuvring the workpiece, wall-mounted units with multiple axes that allow the operator to reach all sides of the workpiece, and sound-dampening materials used to reduce noise levels.[13]
+
+Media
+In the early 1900s, it was assumed that sharp-edged grains provided the best performance, but this was later shown to be incorrect.[14]
+
+Mineral: Silica sand can be used as a type of mineral abrasive. It tends to break up quickly, creating large quantities of dust, exposing the operator to the potential development of silicosis, a debilitating lung disease. To counter this hazard, silica sand for blasting is often coated with resins to control the dust. Using silica as an abrasive is not allowed in Germany, Belgium, Russia, Sweden and United Kingdom for this reason.[15] Silica is a common abrasive in countries where it is not banned.[16]
+
+Another common mineral abrasive is garnet. Garnet is more expensive than silica sand, but if used correctly, will offer equivalent production rates while producing less dust and no safety hazards from ingesting the dust. Magnesium sulphate, or kieserite, is often used as an alternative to baking soda.
+
+Agricultural: Typically, crushed nut shells or fruit kernels. These soft abrasives are used to avoid damaging the underlying material such when cleaning brick or stone, removing graffiti, or the removal of coatings from printed circuit boards being repaired.
+
+Synthetic: This category includes corn starch, wheat starch, sodium bicarbonate, and dry ice. These "soft" abrasives are also used to avoid damaging the underlying material such when cleaning brick or stone, removing graffiti, or the removal of coatings from printed circuit boards being repaired. Soda blasting uses baking soda (sodium bicarbonate) which is extremely friable, the micro fragmentation on impact exploding away surface materials without damage to the substrate.
+
+Additional synthetic abrasives include process byproducts (e.g., copper slag, nickel slag, and coal slag), engineered abrasives (e.g., aluminium oxide, silicon carbide or carborundum, glass beads, ceramic shot/grit), and recycled products (e.g., plastic abrasive, glass grit).
+
+Metallic: Steel shot, steel grit, stainless steel shot, cut wire, copper shot, aluminium shot, zinc shot.
+
+Many coarser media used in sandblasting often result in energy being given off as sparks or light on impact. The colours and size of the spark or glow varies significantly, with heavy bright orange sparks from steel shot blasting, to a faint blue glow (often invisible in sunlight or brightly lit work areas) from garnet abrasive.
+
+Safety
+
+Worker sandblasting without the use of proper personal protective equipment. The worker's face is covered with a bandana instead of a replaceable particulate filter respirator.
+
+Worker sandblasting wearing full coverage protective gear.
+Cleaning operations using abrasive blasting can present risks for workers' health and safety, specifically in portable air blasting or blast room (booth) applications. There is a large amount of dust created through abrasive blasting from the substrate and abrasive.[16] Although many abrasives used in blasting rooms are not hazardous in themselves, (steel shot and grit, cast iron, aluminum oxide, garnet, plastic abrasive and glass bead), other abrasives (silica sand, copper slag, nickel slag, and staurolite) have varying degrees of hazard (typically free silica or heavy metals). However, in all cases their use can present serious danger to operators, such as burns due to projections (with skin or eye lesions), falls due to walking on round shot scattered on the ground, exposure to hazardous dusts, heat exhaustion, creation of an explosive atmosphere, and exposure to excessive noise. Blasting rooms and portable blaster's equipment have been adapted to these dangers. Blasting lead-based paint can fill the air with lead particles which can be harmful to the nervous system.[17]
+
+In the US the Occupational Safety and Health Administration (OSHA) mandates engineered solutions to potential hazards, however silica sand continues to be allowed even though most commonly used blast helmets are not sufficiently effective at protecting the blast operator if ambient levels of dust exceed allowable limits. Adequate levels of respiratory protection for blast operations in the United States is approved by the National Institute for Occupational Safety and Health (NIOSH).
+
+Typical safety equipment for operators includes:
+
+Positive pressure blast hood or helmet – The hood or helmet includes a head suspension system to allow the device to move with the operator's head, a view window with replaceable lens or lens protection and an air-feed hose.
+Grade‑D air supply (or self-contained oil-less air pump) – The air feed hose is typically attached to a grade‑D pressurized air supply. Grade‑D air is mandated by OSHA to protect the worker from hazardous gases. It includes a pressure regulator, air filtration and a carbon monoxide monitor/alarm. An alternative method is a self-contained, oil-less air pump to feed pressurized air to the blast hood/helmet. An oil-less air pump does not require an air filter or carbon monoxide monitor/alarm, because the pressurized air is coming from a source that cannot generate carbon monoxide.
+Hearing protection – ear muffs or ear plugs
+Body protection – Body protection varies by application but usually consists of gloves and overalls or a leather coat and chaps. Professionals would wear a cordura/canvas blast suit (unless blasting with steel abrasives, then they would use a leather suit).
+In the past, when sandblasting was performed as an open-air job, the worker was exposed to risk of injury from the flying material and lung damage from inhaling the dust. The silica dust produced in the sandblasting process would cause silicosis after sustained inhalation of the dust. In 1918, the first sandblasting enclosure was built, which protected the worker with a viewing screen, revolved around the workpiece, and used an exhaust fan to draw dust away from the worker's face.[18] Silicosis is still a risk when the operator is not completely isolated from the sandblasting apparatus.[16]
+
+Sandblasting also may present secondary risks, such as falls from scaffolding or confinement in a small space.[16] Carbon monoxide poisoning is another potential risk, from the use of small gasoline-powered engines in abrasive blasting.[19]
+
+Several countries and territories now regulate sandblasting such that it may only be performed in a controlled environment using ventilation, protective clothing and breathing air supply.
+
+Worn-look jeans
+Many consumers are willing to pay extra for jeans that have the appearance of being used. To give the fabrics the right worn look sandblasting is used. Sandblasting has the risk of causing silicosis to the workers, and in Turkey, more than 5,000 workers in the textile industry suffer from silicosis, and 46 people are known to have died from it. Silicosis was shown to be very common among former denim sandblasters in Turkey in 2007.[20] A 2015 study confirmed that silicosis is almost inevitable among former sandblasters.[21] Sweden's Fair Trade Center conducted a survey among 17 textile companies that showed very few were aware of the dangers caused by manually sandblasting jeans. Several companies said they would abolish this technique from their own production.[22]
+
+In 2013, research claimed that in China some factories producing worn-look jeans are involved in varied non-compliance with health and safety regulations.[23]
+
+Applications
+The lettering and engraving on most modern cemetery monuments and markers is created by abrasive blasting.
+
+Sandblasting can also be used to produce three-dimensional signage. This type of signage is considered to be a higher-end product as compared to flat signs. These signs often incorporate gold leaf overlay and sometimes crushed glass backgrounds which is called smalts. When sandblasting wood signage it allows the wood grains to show and the growth rings to be raised, and is a popular way to give a sign a traditional carved look. Sandblasting can also be done on clear acrylic glass and glazing as part of a store front or interior design.
+
+Sandblasting can be used to refurbish buildings or create works of art (carved or frosted glass). Modern masks and resists facilitate this process, producing accurate results.
+
+Sandblasting techniques are used for cleaning boat hulls, as well as brick, stone, and concrete work. Sandblasting is used for cleaning industrial as well as commercial structures, but is rarely used for non-metallic workpieces.
+
+See also
+	Wikimedia Commons has media related to Sandblasting.
+Abrasion (mechanical)
+Abrasive machining
+High-frequency impact treatment
+Shot peening
+References
+ Smil, Vaclav (2005). Creating the twentieth century: technical innovations of 1867–1914 and their lasting impact. Oxford University Press US. p. 211. ISBN 978-0-19-516874-7.
+ [1], "Improvement in cutting and engraving stone, metal, glass", issued 1870-10-18
+ Travis McEwan, "Edmonton worker allergic to walnuts dies after inhaling particles at worksite," CBC News, 23 October 2017. (Retrieved 2017-10-25)
+ "Surface Finishes - Parts Badger". Parts Badger. Retrieved 7 July 2017.
+ "BRIDGEPORT PROJECT / SOUTHWEST DIVISION HISTORY". Archived from the original on 23 June 2011. Retrieved 9 June 2011.
+ D. Cameron Perry (1981). Specialized Cleaning, Finishing, and Coating Processes: Proceedings of a Conference Held 5-6 February 1980, Los Angeles, California. American Society for Metals. pp. 221–. ISBN 978-0-87170-108-4.
+ "Status quo Analysis on Technology and Equipment of Shot Blasting and Peening in China". China National Knowledge Infrastructure. 3 June 2009.
+ "Shot blasting technology turns 150 years old". International Daily News. 28 July 2020.
+ Benedict, Gary F. (1987). "Figure 2.1 An AJM-machined egg shell...". Nontraditional Manufacturing Processes. CRC Press. pp. 5–6. ISBN 978-0-8247-7352-6.
+ "What is a Sandblasting Cabinet? (with pictures)". wiseGEEK. Retrieved 30 November 2017.
+ Thomas, Eric G. (1 September 2005). "How to Create an Abrasive Air Blast Room". Metal Finishing. 103 (9): 44–46. doi:10.1016/S0026-0576(05)80722-6.
+ "What is a Blast Pot? - Definition from Corrosionpedia". Corrosionpedia. Retrieved 30 November 2017.
+ "Blast rooms". DeLong Equipment. Archived from the original on 13 November 2016. Retrieved 30 November 2017.
+ 1919 Popular Science article on types of minerals found to be suitable for sandblasting – Little Grains of Sand, Popular Science monthly, February 1919, page 64, scanned by Google Books
+ "OSHA Asked to Ban Silica in Abrasive Blasting". Paint Square. 11 May 2009. Retrieved 9 June 2011.
+ "Abrasive Blasting". National Institute for Occupational Safety and Health. 16 April 2011. Retrieved 22 January 2015.
+ "Abrasive Blasting". NIOSH Topics. NIOSH. Retrieved 10 July 2012.
+ Making Things Easier for the Sand-Blaster, Popular Science monthly, December 1918, page 76, scanned by Google Books
+ "FACE 9131". www.cdc.gov. Retrieved 31 July 2015.
+ Akgun, M.; Araz, O.; Akkurt, I.; Eroglu, A.; Alper, F.; Saglam, L.; Mirici, A.; Gorguner, M.; Nemery, B. (1 November 2008). "An epidemic of silicosis among former denim sandblasters". European Respiratory Journal. 32 (5): 1295–1303. doi:10.1183/09031936.00093507. PMID 18579544. Retrieved 2 April 2018 – via erj.ersjournals.com.
+ Akgun, M; Araz, O; Ucar, EY; Karaman, A; Alper, F; Gorguner, M; Kreiss, K (September 2015). "Silicosis Appears Inevitable Among Former Denim Sandblasters". Chest. American College of Chest Physicians. 148 (3): 647–654. doi:10.1378/chest.14-2848. PMC 4556121. PMID 25654743.
+ Buer, Kathleen (11 December 2010). "Dette dør folk for" [People are dying for this]. TV 2 Norway (in Norwegian). Retrieved 11 December 2010.
+ "Archived copy". Archived from the original on 14 July 2013. Retrieved 9 July 2013.
+Bibliography
+Manufacturing Processes Reference Guide by Robert H. Todd, Dell K. Allen, and Leo Alting—1st ed.
+Tool and Manufacturing Engineers Handbook, Vol 1 : Machining, 4th Edition, 1983. Society of Manufacturing Engineers

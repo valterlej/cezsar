@@ -1,0 +1,143 @@
+Cello technique
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about cello techniques used in Western classical music. For more general information, see Cello.
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Cello technique" – news · newspapers · books · scholar · JSTOR (March 2009) (Learn how and when to remove this template message)
+
+A cellist demonstrating playing technique.
+Playing the cello is done while seated with the instrument supported on the floor. The fingertips of the left hand stop the strings on the fingerboard to determine the pitch of the fingered note. The right hand plucks or bows the strings to sound the notes.
+
+
+Contents
+1	Body position
+2	Left-hand technique
+2.1	Vibrato
+2.2	Harmonics
+2.2.1	Natural
+2.2.2	Artificial/stopped
+2.3	Glissando
+3	Right-hand technique
+3.1	Bowing
+3.1.1	Legato
+3.1.2	Staccato
+3.1.3	Spiccato
+3.1.4	Sautillé
+3.1.5	Sul ponticello and sul tasto
+3.1.6	Col legno
+3.1.7	Con sord and senza sord
+3.2	Other techniques
+3.2.1	Pizzicato
+3.2.2	Double stops
+3.3	Style differences
+3.3.1	French style
+3.3.2	German style
+3.3.3	Russian style
+4	References
+5	Further reading
+6	External links
+Body position
+
+Four cellos practicing.
+The cello is played while seated. Its weight is supported mainly by its endpin, or spike, which rests on the floor.[1] The cello is steadied on the lower bout between the knees of the seated player, and on the upper bout against the upper chest. The neck of the cello is positioned above the player's left shoulder, while the C-String tuning peg is positioned just behind the left ear. The bow is drawn horizontally across the strings. In early times, female cellists sometimes played side-saddle, since it was considered improper for a lady to part her knees in public.[2] A player's handedness does not alter the way the cello is held or used. In rare cases, a player has used a mirror-image posture—usually because of a physical disability of the arm or hand that makes the required technique impossible for that side of the body. In such a situation, the player must decide whether or not to reverse the set-up of the cello (the string positions, bass-bar, sound post, fingerboard shape, and bridge carving are all asymmetrical).
+
+Left-hand technique
+
+Cello first position fingering chart.
+The fingertips of the left hand stop the strings along their length, determining the pitch of each fingered note. Stopping the string closer to the bridge results in higher-pitched sound because the vibrating string length has been shortened. In the neck positions (which use just less than the half of the fingerboard nearest the top of the instrument), the thumb rests on the back of the neck; in thumb position (a general name for notes on the remainder of the fingerboard) the thumb usually rests alongside the fingers on the string and the side of the thumb is used to play notes. The fingers are normally held curved with each knuckle bent, with the fingertips in contact with the string. If a finger is required on two (or more) strings at once to play perfect fifths (in double stops or chords) it is used flat. In slower, or more expressive playing, the contact point can move slightly away from the nail to the pad of the finger, allowing a fuller vibrato.
+
+Vibrato
+Vibrato is an expressive technique that is imitative of the voice in the wavering of the pitch up and down.[3] It is not created by an upper arm motion; rather, it is more of forearm motion. The fixed point of contact of the fingertip on the string absorbs this motion by rocking back and forth, with the thumb typically aligned with the middle finger. This change in the attitude of the fingertip to the string varies the pitch. The use of vibrato is also very personal, some may prefer doing it faster while others may prefer doing it slower. Since vibrato is usually considered a key expressive device, a well-developed vibrato technique is an essential element of a modern cellist's skill.
+
+Harmonics
+Harmonics played on the cello fall into two classes; natural and artificial.
+
+Natural
+Natural harmonics are produced by lightly touching (but not depressing) the string with the finger at certain places, and then bowing (or, rarely, plucking) the string. For example, the halfway point of the string will produce a harmonic that is one octave above the unfingered (open) string. Natural harmonics only produce notes that are part of the harmonic series on a particular string.
+
+Artificial/stopped
+Artificial harmonics (also called false harmonics or stopped harmonics), in which the player depresses the string fully with one finger while touching the same string lightly with another finger, can produce any note above middle C. They usually appear with the touching note a perfect fourth above the stopped note, which produces a sound two octaves above the stopped note, although other intervals are available.
+
+Glissando
+Glissando (Italian for "sliding") is an effect played by sliding the finger up or down the fingerboard without releasing the string. This causes the pitch to rise and fall smoothly, without separate, discernible steps.
+
+Right-hand technique
+In cello playing, the bow is much like the breath of a wind instrument player.[citation needed] Arguably, it is the major determinant in the expressiveness of the playing.[citation needed] The bow arm divides itself into three independent portions: the arm, the forearm, and the hand. Flexibility in all three portions is required for relaxed playing and straight bowing. The right hand holds the bow and controls the duration and character of the notes. The bow is drawn across the strings roughly halfway between the end of the fingerboard and the bridge, in a direction perpendicular to the strings and parallel to the bridge.
+
+The bow is held with all five fingers of the right hand, the thumb opposite the fingers and closer to the cellist's body. The shape of the hand should resemble that of its relaxed state, with all fingers curved, including the thumb. The wrist would slightly tilt toward the strings when making an up bow, keeping the bow straight when moving. The transmission of weight from the arm to the bow happens through the pronation (inward rotation) of the forearm, which pushes the index finger and to a lesser degree the middle finger onto the bow. The necessary counterforce is provided by the thumb. The other two fingers are used in various degrees to help maintain the angle of the bow to the string and are critical to controlling the bow when it is off the string.[citation needed][4] (See also spiccato).
+
+Flexibility of the wrist is necessary when changing the bow direction from up-bow to down-bow and vice versa. For very fast bow movements, the wrist is used to accomplish the horizontal movement of the bow. For longer strokes, the arm is used as well as the wrist.[citation needed]
+
+Tone production and volume of sound depend on a combination of several factors. The three most important ones are: bow speed, weight applied to the string, and point of contact of the bow hair with the string. The closer to the bridge the string is bowed, the more projecting and brighter the tone, with the extreme (sul ponticello) producing a metallic, shimmery sound. If bowing closer to the fingerboard (sul tasto), the sound produced will be softer, more mellow, and less defined, which is often taught to be avoided for beginners.[citation needed]
+
+Bowing
+Legato
+Legato is a technique that requires notes to be bowed in a connected manner with no stoppage of sound between each note. It can be accomplished through détaché, by playing each note on a separate bow smoothly, with no breaks or accents between bow changes. It can also be accomplished by slurring,[5] or playing multiple successive notes in one bow, which is indicated in the music by a slur (curved line) marking above or below – depending on their position on the staff – the notes of the passage that is to be played legato.
+
+Staccato
+In staccato, the player moves the bow a small distance and stops it on the string, making a short sound, the rest of the written duration being taken up by silence. In some instances, the note marked staccato is to be played at half its value, with the remaining half being a rest. In other words, a quarter note would become an eighth note with an eighth rest.[6] It is noted by writing a small dot above or below a note depending on its position on the staff.
+
+Spiccato
+
+Elfentanz
+MENU0:00
+A perpetuum mobile by David Popper, consisting of continuous spiccato, performed by Hans Goldstein (cello) and Mellicia Straaf (piano)
+Problems playing this file? See media help.
+In a fast tempo, it becomes difficult to use the bow to draw the sound out of the string for every note and becomes necessary to instead strike the string with the bow hair while still retaining some horizontal motion with the bow in order to play each note clearly. To play spiccato, the bow must be controlled with the wrist and fingers rather than with the whole arm as is the case when playing legato. As a result, the bow bounces off the string to produce a crisp, percussive sound, making each note audible even in fast-tempo passages.
+
+Sautillé
+Sautillé is a technique used for bowing notes in an upbeat tempo that is not quite fast enough to require spiccato. When tempi get too fast for controlled détaché, it becomes necessary for the bow to be bounced slightly off the string with the wrist in a manner similar to spiccato. However, when tempi are not fast enough for completely separated, crisp-sounding spiccato, notes remain slightly connected to create a brushing or scrubbing sound that results from the sautillé stroke.
+
+Sul ponticello and sul tasto
+
+Sul tasto
+Sul ponticello ("on the bridge") refers to bowing closer to the bridge, while sul tasto ("on the fingerboard") calls for bowing nearer the end of the fingerboard. (While reading music, "tasto" can also mean to play with the bow in normal position when having been playing "ponticello") Ponticello calls for more bow weight and slower bow speed, and produces a "harder" sound, with strong overtone content. Sul tasto, in extreme cases called "flautando," produces a more flute-like sound, with more emphasis on the fundamental frequency of the note, and softer overtones.
+
+Col legno
+A player using the col legno technique rubs the strings with the wood of the bow rather than the hair. There are two forms, col legno battuto and col legno tratto. Col legno battuto is performed as a percussive technique with no sustaining of the sound. The much less common alternative is col legno tratto, wherein the wood is drawn across the string as the hair is in a normal bow stroke.
+
+Con sord and senza sord
+In music pieces, con sord means "with mute" in Italian, and senza sord means "without mute". The mute is a device that is typically made of rubber, and serves to dampen the vibrations on string instruments. On the cello, it can be clipped on the bridge when needed, and can be taken off and attached to the strings below the bridge when not in use.[7]
+
+Other techniques
+Pizzicato
+
+An image of someone playing pizzicato on a double bass. On the cello, pizzicato is also done this way but often requires less flesh of the finger to pluck the strings, which are thinner and have less resistance than those on a bass.[citation needed]
+In pizzicato playing, the string is plucked directly with the fingers or thumb rather than being played with the bow. Pizzicato is often abbreviated as "Pizz.". Position of the hand is slightly over the finger board and away from the bridge. Usually this is done with the right hand, while the bow is held away from the strings by the rest of the hand or (for extended passages) set down. A single string can be played pizzicato, or double, triple, or quadruple stops can be played. Occasionally, a player must bow one string with the right hand and simultaneously pluck another with the left, or even possibly strum with both hands at the same time. This is marked by a "+" above the note. Strumming of chords is also possible, in guitar fashion.
+
+Double stops
+Double stops involve the playing of two notes at the same time. Two strings are fingered simultaneously, and the bow is drawn so as to sound them both at once. Triple and quadruple stops may also be played (in a "broken" fashion), but are difficult to sustain because of the change in slope of the bridge. To extend the technique in this area, Frances-Marie Uitti has invented a two-bow system: one bow plays above the strings and one below, allowing for sustained triple and quadruple stops. However, this technique is very rarely seen or used.[citation needed]
+
+Style differences
+The cello is famous as its melodic, deep and rich timbre. It is one of the most important instruments in symphony orchestra, chamber music, and even solo aspect. Different players in different countries have their own playing style. Usually the way cellists interpret the sound, and even how cellists use their fingerings, are influenced by their own music culture in their own countries.[citation needed]
+
+French style
+The French School had a centuries-long impact, which continues today. French playing is often thought of in terms of refinement, finesse, and elegance. However, during the 18th Century in Northern Europe, the cello was still considered a lowly and rudimentary instrument compared to the viola da gamba. The French cello school evolved due to the exquisite playing of Martin Berteau (circa 1700–71). Despite maintaining the underhand bow-hold of the gamba, his sweet tone and depth of expression greatly influenced his students, Jean Pierre Duport, Tillière, and Jean Baptiste Cupis. Berteau developed an effortless fingering system, incorporating the use of the thumb, and introducing the use of both natural and artificial harmonics, which was quite unusual for the cello at the time. Cello fingering, he thought, ought to emulate violin playing where each finger plays a half step or semitone.[8]
+
+German style
+There were originally two factions of styles in the German School of cello playing: those who followed Bernhard Romberg (1767–1841) in Germany and Friedrich Dotzauer (1783–1860) in Bonn. Bernhard Romberg, an outstanding performer, is responsible for simplifying cello notation. At the time, composers like Boccherini sometimes wrote cello parts in five different clefs. Beethoven and Mozart, when they wrote for cello in the treble clef, penned the music an octave higher than it was to sound. Romberg simplified notation, limiting cello music to three clefs—the bass, tenor, and treble clef (sounding where it was written). Romberg also introduced a longer fingerboard, with a longer neck on the instrument, allowing cellists to venture into higher positions by using the thumb. He established the notation for the thumb, a circle with a small line (see the diagram) and also modified the C string side of the cello so it could resonate more.[9]
+
+Meanwhile, the Dresden court attracted some of the finest musicians, including Friedrich Dotzauer. Although Dotzauer still played without an endpin, he was the first to advocate holding the bow closer to the frog—the ebony end of the stick. This afforded more control of the right hand and production of sound. He also advocated limiting the use of vibrato. The beauty and purity of tone became paramount.[10]
+
+Russian style
+Russian school developed slightly later than their French and German counterparts, with some influence from the German School. The first notable person to organize his style of playing was cellist Karl Davydov. He received instruction from Friedrich Grützmacher in Leipzig, giving him a strong base in which he further developed his technique. While German schools put more emphasis on the technique of the left hand, Davydov also contributed to the bow technique. He introduced a looser bow hold, and especially a relaxed wrist where the index finger was used to control the pressure.[11]
+
+References
+ Potter, pp. 11–12
+ Mercier, Anita. "GUILHERMINA SUGGIA". Retrieved 1 September 2012.
+ Jamie Fiste, "Cello Vibrato"[unreliable source?]
+ Mantel, Gerhard (1995). Cello Technique: Principles and Forms of Movement. Bloomington, [Ind.]: Indiana University Press. pp. 115–119.
+ BarnesandMullinsUK (2012-11-13), Cello Technique – Slurring Notes, retrieved 2019-02-23
+ Potter, 118
+ https://Cello Guide celloguide.com/best-cello-mutes/
+ "The Magic of the French School of Cello Playing". Interlude.hk. 2018-08-18. Retrieved 2019-02-23.
+ "Cellists, Are You Part of the German Schools of Cello Playing?". Interlude.hk. 2018-08-11. Retrieved 2019-02-23.
+ "Cellists, Are You Part of the German Schools of Cello Playing?". Interlude.hk. 2018-08-11. Retrieved 2019-02-23.
+ Janet Horvath (August 25, 2018). "Schools of Cello Playing: Russia and Armenia".
+Further reading
+Adeney, Marcus (1984). Tomorrow's 'Cellist: Exploring the Basis of Artistry. Oakville, Ont.: F. Harris. ISBN 0-88797-169-5
+Potter, Louis, Jr., 1912-2009. (1980). The art of cello playing : a complete textbook-method for private or class instruction (2nd ed.). Princeton, N.J.: Summy-Birchard Music. ISBN 0-87487-071-2. OCLC 6447789.
+External links
+Modern Cello Techniques
+Cello Map Handbook of Cello Technique for Performers

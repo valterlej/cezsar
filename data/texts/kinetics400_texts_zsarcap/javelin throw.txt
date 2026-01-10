@@ -1,0 +1,738 @@
+Javelin throw
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Athletics
+Javelin throw
+Železný 2012.JPG
+Czech Republic javelin thrower Jan Železný in 2012
+World records
+Men	Czech Republic Jan Železný 98.48 m (1996)
+Women	Czech Republic Barbora Špotáková 72.28 m (2008)
+Olympic records
+Men	Norway Andreas Thorkildsen 90.57 m (2008)
+Women	Cuba Osleidys Menéndez 71.53 m (2004)
+World Championship records
+Men	Czech Republic Jan Železný 92.80 m (2001)
+Women	Cuba Osleidys Menéndez 71.70 m (2005)
+
+German javelin thrower Stephan Steding during the 2007 IAAF World Championships in Osaka, Japan.
+The Javelin throw is a track and field event where the javelin, a spear about 2.5 m (8 ft 2 in) in length, is thrown. The javelin thrower gains momentum by running within a predetermined area. Javelin throwing is an event of both the men's decathlon and the women's heptathlon.
+
+
+Contents
+1	History
+2	Rules and competitions
+2.1	Javelin redesigns
+2.2	Weight rules by age group
+3	Technique and training
+4	US high school and youth competitions
+5	Culture
+6	All-time top 25 (current models)
+6.1	Men
+6.1.1	Notes
+6.2	Women
+6.2.1	Notes
+6.2.2	Annulled
+7	All-time top 5 (dimpled models 1990–1991)
+8	All-time top 15 (old models)
+8.1	Men
+8.2	Women
+9	Olympic medalists
+9.1	Men
+9.2	Women
+10	World Championships medalists
+10.1	Men
+10.2	Women
+11	Season's bests
+11.1	Men
+11.2	Women
+12	See also
+13	References
+14	External links
+History
+See also: History of physical training and fitness
+
+A scene depicting javelin throwers and other pentathletes. Originally found on a Panathenaic amphora from Ancient Greece, circa 525 B.C. British Museum.
+The javelin throw was added to the Ancient Olympic Games as part of the pentathlon in 708 BC. It included two events, one for distance and the other for accuracy in hitting a target. The javelin was thrown with the aid of a thong (ankyle in Greek) that was wound around the middle of the shaft. Athletes held the javelin by the ankyle, and when they released the shaft, the unwinding of the thong gave the javelin a spiral trajectory.
+
+Throwing javelin-like poles into targets was revived in Germany and Sweden in the early 1870s. In Sweden, these poles developed into the modern javelin, and throwing them for distance became a common event there and in Finland in the 1880s. The rules continued to evolve over the next decades; originally, javelins were thrown with no run-up, and holding them by the grip at the center of gravity was not always mandatory. Limited run-ups were introduced in the late 1890s, and soon developed into the modern unlimited run-up.[1]:435–436
+
+Sweden's Eric Lemming, who threw his first world best (49.32 meters) in 1899 and ruled the event from 1902 to 1912, was the first dominant javelin thrower.[1]:436, 441[2]:478 When the men's javelin was introduced as an Olympic discipline at the 1906 Intercalated Games, Lemming won by almost nine metres and broke his own world record; Sweden swept the first four places, as Finland's best throwers were absent and the event had yet to become popular in any other country.[1]:437 Though challenged by younger talents, Lemming repeated as Olympic champion in 1908 and 1912; his eventual best mark (62.32 m, thrown after the 1912 Olympics) was the first javelin world record to be officially ratified by the International Association of Athletics Federations.[1]:436–441[3]
+
+In the late 19th and early 20th century, most javelin competitions were two-handed; the implement was thrown with the right hand and separately with the left hand, and the best marks for each hand were added together. Competitions for the better hand only were less common, though not unknown.[2] At the Olympics a both-hands contest was held only once, in 1912; Finland swept the medals, ahead of Lemming.[1]:441 After that, this version of the javelin rapidly faded into obscurity, together with similar variations of the shot and the discus; Sweden's Yngve Häckner, with his total of 114.28 m from 1917, was the last official both-hands world record holder.[4]
+
+Another early variant was the freestyle javelin, in which holding the javelin by the grip at the center of gravity was not mandatory; such a freestyle competition was held at the 1908 Olympics, but was dropped from the program after that.[2]:478 Hungary's Mór Kóczán used a freestyle end grip to break the 60-meter barrier in 1911, a year before Lemming and Julius Saaristo first did so with a regular grip.[1]:440[5]:214
+
+The first known women's javelin marks were recorded in Finland in 1909.[6] Originally, women threw the same implement as men; a lighter, shorter javelin for women was introduced in the 1920s. Women's javelin throw was added to the Olympic program in 1932; Mildred "Babe" Didrikson of the United States became the first champion.[2]:479
+
+For a long time, javelins were made of solid wood, typically birch, with a steel tip. The hollow, highly aerodynamic Held javelin, invented by American thrower Bud Held and developed and manufactured by his brother Dick, was introduced in the 1950s; the first Held javelins were also wooden with steel tips, but later models were made entirely of metal.[2]:478–479[6][7] These new javelins flew further, but were also less likely to land neatly point first; as a response to the increasingly frequent flat or ambiguously flat landings, experiments with modified javelins started in the early 1980s. The resulting designs, which made flat landings much less common and reduced the distances thrown, became official for men starting in April 1986 and for women in April 1999, and the world records (then 104.80 m by Uwe Hohn, and 80.00 m by Petra Felke) were reset.[8] The current (as of 2017) men's world record is held by Jan Železný at 98.48 m (1996); Barbora Špotáková holds the women's world record at 72.28 m (2008).
+
+Of the 69 Olympic medals that have been awarded in the men's javelin, 32 have gone to competitors from Norway, Sweden or Finland. Finland is the only nation to have swept the medals at a currently recognized official Olympics, and has done so twice, in 1920 and 1932, in addition to its 1912 sweep in the two-handed javelin; in 1920 Finland swept the first four places, which is no longer possible as only three entrants per country are allowed. Finland has, however, never been nearly as successful in the women's javelin.[2]:479
+
+The javelin throw has been part of the decathlon since the decathlon was introduced in the early 1910s; the all-around, an earlier ten-event contest of American origin, did not include the javelin throw. The javelin was also part of some (though not all) of the many early forms of women's pentathlon and has always been included in the heptathlon after it replaced the pentathlon in 1981.[9]
+
+Rules and competitions
+The size, shape, minimum weight, and center of gravity of the javelin are all defined by IAAF rules. In international competition, men throw a javelin between 2.6 and 2.7 m (8 ft 6 in and 8 ft 10 in) in length and 800 g (28 oz) in weight, and women throw a javelin between 2.2 and 2.3 m (7 ft 3 in and 7 ft 7 in) in length and 600 g (21 oz) in weight. The javelin has a grip, about 150 mm (5.9 in) wide, made of cord and located at the javelin's center of gravity (0.9 to 1.06 m (2 ft 11 in to 3 ft 6 in) from the javelin tip for the men's javelin and 0.8 to 0.92 m (2 ft 7 in to 3 ft 0 in) from the javelin tip for the women's javelin).
+
+
+Matti Järvinen throwing the javelin at the 1932 Olympics
+Unlike the other throwing events (shot put, discus, and hammer), the technique used to throw the javelin is dictated by IAAF rules and "non-orthodox" techniques are not permitted. The javelin must be held at its grip and thrown overhand, over the athlete's shoulder or upper arm. Further, the athlete is prohibited from turning completely around such that his back faces the direction of throw. In practice, this prevents athletes from attempting to spin and hurl the javelin sidearm in the style of a discus throw. This rule was put in place when a group of athletes began experimenting with a spin technique referred to as "free style". On 24 October 1956, Pentti Saarikoski threw 99.25 m (325 ft 7+1⁄4 in)[10] using the technique holding the end of the javelin. Officials were so afraid of the out of control nature of the technique that the practice was banned through these rule specifications.
+
+Instead of being confined to a circle, javelin throwers have a runway 4 m (13 ft) wide and at least 30 m (98 ft) in length, ending in a curved arc from which their throw will be measured; athletes typically use this distance to gain momentum in a "run-up" to their throw. Like the other throwing events, the competitor may not leave the throwing area (the runway) until after the implement lands. The need to come to a stop behind the throwing arc limits both how close the athlete can come to the line before the release as well as the maximum speed achieved at the time of release.
+
+The javelin is thrown towards a "sector" covering an angle of 28.96 degrees extending outwards from the arc at the end of the runway. A throw is legal only if the tip of the javelin lands within this sector, and the tip strikes the ground before any other part of the javelin.[11] The distance of the throw is measured from the throwing arc to the point where the tip of the javelin landed, rounded down to the nearest centimeter.
+
+Competition rules are similar to other throwing events: a round consists of one attempt by each competitor in turn, and competitions typically consist of three to six rounds. The competitor with the longest single legal throw (over all rounds) is the winner; in the case of a tie the competitors' second-longest throws are also considered. Competitions involving large numbers of athletes sometimes use a "cut": all competitors compete in the first three rounds, but only athletes who are currently among the top eight or have achieved some minimum distances are permitted to attempt to improve on their distance in additional rounds (typically three).
+
+Javelin redesigns
+
+Uwe Hohn (pictured in 1984) holds the "eternal world record" with a throw of 104.80 m as a new type of javelin was implemented in 1986.
+On 1 April 1986, the men's javelin (800 grams (1.76 lb)) was redesigned by the governing body (the IAAF Technical Committee). They decided to change the rules for javelin design because of the increasingly frequent flat landings and the resulting discussions and protests when these attempts were declared valid or invalid by competition judges. The world record had also crept up to a potentially dangerous level, 104.80 m (343.8 ft) by Uwe Hohn. With throws exceeding 100 meters, it was becoming difficult to safely stage the competition within the confines of a stadium infield. The javelin was redesigned so that the centre of gravity was moved 4 cm (1.6 in) forward. In addition, the surface area in front of centre of gravity was reduced, while the surface area behind the centre of gravity was increased. This had an effect similar to that produced by the feathers on an arrow. The javelin turns into the relative wind. This relative wind appears to originate from the ground as the javelin descends, thus the javelin turns to face the ground. As the javelin turns into the wind less lift is generated, reducing the flight distance by around 10% but also causing the javelin to stick in the ground more consistently. In 1999, the women's javelin (600 grams (1.32 lb)) was similarly redesigned.[12]
+
+Modifications that manufacturers made to recover some of the lost distance, by increasing tail drag (using holes, rough paint or dimples), were forbidden at the end of 1991 and marks made using implements with such modifications removed from the record books. Seppo Räty had achieved a world record of 96.96 m (318.1 ft) in 1991 with such a design, but this record was nullified.
+
+Weight rules by age group
+The weight of the javelin in the Under-20 category is the same as the senior level.[13]
+
+Men	Women
+Age Group	Weight	Weight
+U13	400g	400g
+U15	600g	500g
+U18	700g	500g
+Junior (U20)	800g	600g
+Senior	800g	600g
+35-49	800g	600g
+50-74		500g
+50-59	700g	
+60-69	600g	
+70-79	500g	
+75+		400g
+80+	400g	
+Technique and training
+Unlike other throwing events, javelin allows the competitor to build speed over a considerable distance. In addition to the core and upper body strength necessary to deliver the implement, javelin throwers benefit from the agility and athleticism typically associated with running and jumping events. Thus, the athletes share more physical characteristics with sprinters than with others, although they still need the skill of heavier throwing athletes.
+
+Traditional free-weight training is often used by javelin throwers. Metal-rod exercises and resistance band exercises can be used to train a similar action to the javelin throw to increase power and intensity. Without proper strength and flexibility, throwers can become extremely injury prone, especially in the shoulder and elbow. Core stability can help in the transference of physical power and force from the ground through the body to the javelin. Stretching and sprint training are used to enhance the speed of the athlete at the point of release, and subsequently, the speed of the javelin. At release, a javelin can reach speeds approaching 113 km/h (70 mph).
+
+The javelin throw consists of three separate phases: the run-up, the transition, and the delivery. During each phase, the position of the javelin changes while the thrower changes his or her muscle recruitment. In the run-up phase as Luann Voza states, "your arm is bent and kept close to your head, keeping the javelin in alignment with little to no arm movement".[14] This allows the thrower's bicep to contract, flexing the elbow. In order for the javelin to stay up high, the thrower's deltoid flexes. In the transition phase, the thrower's "back muscles contract" as "the javelin is brought back in alignment with the shoulder with the thrower's palm up".[14] This, according to Voza, "stretches your pectoral, or chest, muscles. From there, a stretch reflex, an involuntary contraction of your chest, helps bring your throwing arm forward with increased force".[14] During the final phase, the rotation of the shoulders initiates the release, which then "transfers movement through the triceps muscles, wrists and fingers to extend the throwing arm forward to release the javelin".[14]
+
+US high school and youth competitions
+Due to the fear of liability, the javelin throw is not an event in NFHS high school competition in 36 states, though USATF youth competitions for the same aged athletes do hold javelin competitions.[15] At various points in time, high schools have attempted to create substitute events, including the softball throw, football throw[16] and the grenade throw,[17] throwing different objects under rules similar to javelin throw rules. In those states that do allow high school javelin competition, a few specify that the tip must be of rubber. Further, in age group track meets in the U.S., and in particular with elementary-school children in the Northeast, the Turbojav—a smaller plastic implement with a rubber tip but with similar flying characteristics as a real javelin—is a popular alternative.
+
+Culture
+
+A women's and a men's javelin
+In 1994, Michael Torke composed Javelin, commissioned by the Atlanta Committee for the Olympic Games in celebration of the Atlanta Symphony Orchestra's 50th anniversary season, in conjunction with the 1996 Summer Olympics.
+
+Javelin throwers have been selected as a main motif in numerous collectors' coins. One of the recent samples is the €5 Finnish 10th IAAF World Championships in Athletics commemorative coin, minted in 2005 to commemorate the 2005 World Championships in Athletics. On the obverse of the coin, a javelin thrower is depicted. On the reverse, legs of hurdle runners with the Helsinki Olympic Stadium tower in the background can be seen.
+
+All-time top 25 (current models)
+See also: Men's javelin throw world record progression and Women's javelin throw world record progression
+Men
+Correct as of June 2021.[18]
+Rank	Mark	Athlete	Date	Place	Ref
+1	98.48 m (323 ft 1 in)	 Jan Železný (CZE)	25 May 1996	Jena	
+2	97.76 m (320 ft 8+3⁄4 in)	 Johannes Vetter (GER)	6 September 2020	Chorzów	[19]
+3	93.90 m (308 ft 3⁄4 in)	 Thomas Röhler (GER)	5 May 2017	Doha	[20]
+4	93.09 m (305 ft 4+3⁄4 in)	 Aki Parviainen (FIN)	26 June 1999	Kuortane	
+5	92.72 m (304 ft 2+1⁄4 in)	 Julius Yego (KEN)	26 August 2015	Beijing	[21]
+6	92.61 m (303 ft 10 in)	 Sergey Makarov (RUS)	30 June 2002	Sheffield	
+7	92.60 m (303 ft 9+1⁄2 in)	 Raymond Hecht (GER)	21 July 1995	Oslo	
+8	92.06 m (302 ft 1⁄4 in)	 Andreas Hofmann (GER)	2 June 2018	Offenburg	[22]
+9	91.69 m (300 ft 9+3⁄4 in)	 Konstadinós Gatsioúdis (GRE)	24 June 2000	Kuortane	
+10	91.59 m (300 ft 5+3⁄4 in)	 Andreas Thorkildsen (NOR)	2 June 2006	Oslo	
+11	91.53 m (300 ft 3+1⁄2 in)	 Tero Pitkämäki (FIN)	26 June 2005	Kuortane	
+12	91.46 m (300 ft 3⁄4 in)	 Steve Backley (GBR)	25 January 1992	Auckland	[23]
+13	91.36 m (299 ft 8+3⁄4 in)	 Cheng Chao-tsun (TPE)	26 August 2017	Taipei	[24]
+14	91.29 m (299 ft 6 in)	 Breaux Greer (USA)	21 June 2007	Indianapolis	
+15	90.82 m (297 ft 11+1⁄2 in)	 Kimmo Kinnunen (FIN)	26 August 1991	Tokyo	
+16	90.73 m (297 ft 8 in)	 Vadims Vasilevskis (LAT)	22 July 2007	Tallinn	
+17	90.61 m (297 ft 3+1⁄4 in)	 Magnus Kirt (EST)	22 June 2019	Kuortane	[25]
+18	90.60 m (297 ft 2+3⁄4 in)	 Seppo Räty (FIN)	20 July 1992	Nurmijärvi	
+19	90.44 m (296 ft 8+1⁄2 in)	 Boris Henry (GER)	9 July 1997	Linz	
+20	90.16 m (295 ft 9+1⁄2 in)	 Keshorn Walcott (TTO)	9 July 2015	Lausanne	
+21	89.73 m (294 ft 4+1⁄2 in)	 Jakub Vadlejch (CZE)	12 August 2017	London	[26]
+22	89.55 m (293 ft 9+1⁄2 in)	 Marcin Krukowski (POL)	8 June 2021	Turku	[27]
+23	89.21 m (292 ft 8 in)	 Ihab Abdelrahman (EGY)	18 May 2014	Shanghai	
+24	89.17 m (292 ft 6+1⁄2 in)	 Edis Matusevičius (LTU)	27 July 2019	Palanga	[28]
+25	89.16 m (292 ft 6 in) A	 Tom Petranoff (RSA)	1 March 1991	Potchefstroom	[29]
+Notes
+Below is a list of all other performances (excluding ancillary throws) equal or superior to 90.75 m:
+
+Johannes Vetter also threw 96.29 (2021), 94.44 (2017), 94.20 (2021), 93.88 (2017), 93.59 (2021), 93.20 (2021), 93.06 (2017), 92.70 (2018), 92.14 (2021), 91.67 (2017), 91.56 (2018), 91.50 (2021), 91.49 (2020), 91.22 (2018), 91.20 (2017), 91.12 (2021), 91.06 (2017), 90.86 (2020) and 90.75 (2017).
+Jan Železný also threw 95.66 (1993), 95.54 (1993), 94.64 (1996), 94.02 (1997), 92.80 (2001), 92.42 (1997), 92.28 (1995), 92.12 (2 × 1995), 91.82 (1994), 91.68 (1994), 91.50 (1994 & 1996), 91.40 (1993), 91.34 (1997), 91.30 (1995), 91.28 (1994), 91.23 (2001), 91.04 (1996) and 90.80 (1995).
+Aki Parviainen also threw 92.41 (2001), 91.31 (2001), 90.97 (2000), 90.88 (1998) and 90.80 (2000).
+Thomas Röhler also threw 91.78 (2018), 91.53 (2017), 91.28 (2016) and 90.75 (2018).
+Raymond Hecht also threw 91.50 (1996).
+Andreas Hofmann also threw 91.44 (2 × 2018) and 91.07 (2017).
+Julius Yego also threw 91.39 (2015).
+Tero Pitkämäki also threw 91.33 (2005), 91.23 (2007) and 91.11 (2006).
+Andreas Thorkildsen also threw 91.28 (2009).
+Konstadinos Gatsioudis also threw 91.27 (2001) and 91.23 (2002).
+Sergey Makarov also threw 90.87 (2002) and 90.86 (2002).
+Steve Backley also threw 90.81 (2001).
+Women
+Correct as of May 2021.[30]
+Rank	Mark	Athlete	Date	Place	Ref
+1	72.28 m (237 ft 1+1⁄2 in)	 Barbora Špotáková (CZE)	13 September 2008	Stuttgart	
+2	71.70 m (235 ft 2+3⁄4 in)	 Osleidys Menéndez (CUB)	14 August 2005	Helsinki	
+3	71.40 m (234 ft 3 in)	 Maria Andrejczyk (POL)	9 May 2021	Split	[31]
+4	70.53 m (231 ft 4+3⁄4 in)	 Mariya Abakumova (RUS)	1 September 2013	Berlin	
+5	70.20 m (230 ft 3+3⁄4 in)	 Christina Obergföll (GER)	23 June 2007	Munich	
+6	69.48 m (227 ft 11+1⁄4 in)	 Trine Hattestad (NOR)	28 July 2000	Oslo	
+7	69.35 m (227 ft 6+1⁄4 in)	 Sunette Viljoen (RSA)	9 June 2012	New York City	
+8	69.19 m (227 ft 0 in)	 Christin Hussong (GER)	30 May 2021	Chorzów	[32]
+9	68.92 m (226 ft 1+1⁄4 in)	 Kathryn Mitchell (AUS)	11 April 2018	Gold Coast	[33]
+10	68.43 m (224 ft 6 in)	 Sara Kolak (CRO)	6 July 2017	Lausanne	[34]
+11	68.34 m (224 ft 2+1⁄2 in)	 Steffi Nerius (GER)	31 August 2008	Elstal	
+12	67.98 m (223 ft 1⁄4 in)	 Lü Huihui (CHN)	2 August 2019	Shenyang	[35]
+13	67.70 m (222 ft 1+1⁄4 in)	 Kelsey-Lee Barber (AUS)	9 July 2019	Lucerne	[36]
+14	67.69 m (222 ft 3⁄4 in)	 Katharina Molitor (GER)	30 August 2015	Beijing	[37]
+15	67.67 m (222 ft 0 in)	 Sonia Bisset (CUB)	6 July 2005	Salamanca	
+16	67.51 m (221 ft 5+3⁄4 in)	 Miréla Manjani (GRE)	30 September 2000	Sydney	
+17	67.47 m (221 ft 4+1⁄4 in)	 Tatsiana Khaladovich (BLR)	7 June 2018	Oslo	[38]
+18	67.40 m (221 ft 1+1⁄2 in)	 Nikola Ogrodníková (CZE)	26 May 2019	Offenburg	[39]
+19	67.32 m (220 ft 10+1⁄4 in)	 Linda Stahl (GER)	14 June 2014	New York City	
+20	67.30 m (220 ft 9+1⁄2 in)	 Vera Rebrik (RUS)	19 February 2016	Adler	[40]
+21	67.29 m (220 ft 9 in)	 Hanna Hatsko-Fedusova (UKR)	26 July 2014	Kirovohrad	
+ Liu Shiying (CHN)	15 September 2020	Shaoxing	[41]
+23	67.21 m (220 ft 6 in)	 Eda Tuğsuz (TUR)	18 May 2017	Baku	[42]
+24	67.20 m (220 ft 5+1⁄2 in)	 Tatyana Shikolenko (RUS)	18 August 2000	Monaco	
+25	67.16 m (220 ft 4 in)	 Martina Ratej (SLO)	14 May 2010	Doha	
+Notes
+Below is a list of all other performances (excluding ancillary throws) equal or superior to 69.50 m:
+
+Barbora Spotáková also threw 71.58 (2011), 71.42 (2008) and 69.55 (2012).
+Osleidys Menéndez also threw 71.54 (2001), 71.53 (2004), 69.82 (2001) and 69.53 (2001).
+Christina Obergföll also threw 70.03 (2005), 69.81 (2008) and 69.57 (2011).
+Mariya Abakumova also threw 69.75 (2013).
+Annulled
+The following athletes had their performance (over 69.52 m) annulled due to doping offenses:
+
+Mariya Abakumova threw 71.99 (2011).
+All-time top 5 (dimpled models 1990–1991)
+Marks set using dimpled rough-tailed javelins manufactured by several companies were nullified effective 20 September 1991.[5]:208–209
+
+Rank	Mark	Athlete	Date	Place	Ref
+1	96.96	 Seppo Räty (FIN)	2 June 1991	Punkalaidun	[43]
+2	91.36	 Steve Backley (GBR)	15 September 1991	Sheffield	
+3	90.84	 Raymond Hecht (GER)	8 September 1991	Gengenbach	
+4	90.82	 Kimmo Kinnunen (FIN)	26 August 1991	Tokyo	
+5	90.72	 Jan Železný (TCH)	10 July 1991	Lausanne	
+All-time top 15 (old models)
+Men
+Rank	Mark	Athlete	Date	Place	Ref
+1	104.80	 Uwe Hohn (GDR)	21 July 1984	Berlin	
+2	99.72	 Tom Petranoff (USA)	15 May 1983	Westwood	
+3	96.72	 Ferenc Paragi (HUN)	23 April 1980	Tata	
+96.72	 Detlef Michel (GER)	9 June 1983	Berlin	
+5	95.80	 Bob Roggy (USA)	29 August 1982	Stuttgart	
+6	95.10	 Brian Crouser (USA)	5 August 1985	Eugene	
+7	94.58	 Miklós Németh (HUN)	26 July 1976	Montreal	
+8	94.22	 Michael Wessing (FRG)	3 August 1978	Oslo	
+9	94.20	 Heino Puuste (EST)	5 June 1983	Birmingham	
+10	94.08	 Klaus Wolfermann (FRG)	5 May 1973	Leverkusen	
+11	94.06	 Duncan Atwood (USA)	26 July 1985	Eugene	
+12	93.90	 Hannu Siitonen (FIN)	6 June 1973	Helsinki	
+13	93.84	 Pentti Sinersaari (FIN)	27 January 1979	Auckland	
+14	93.80	 Jānis Lūsis (LAT)	6 July 1972	Stockholm	
+15	93.70	 Viktor Yevsyukov (KAZ)	17 July 1985	Kyiv	
+Women
+Rank	Mark	Athlete	Date	Place	Ref
+1	80.00	 Petra Felke (GDR)	8 September 1988	Potsdam	
+2	77.44	 Fatima Whitbread (GBR)	28 August 1986	Stuttgart	
+3	74.76	 Tiina Lillak (FIN)	13 June 1983	Tampere	
+4	74.20	 Sofia Sakorafa (GRE)	26 September 1982	Hania	
+5	73.58	 Tessa Sanderson (GBR)	26 June 1983	Edinburgh	
+6	72.70	 Anna Verouli (GRE)	20 May 1984	Hania	
+7	72.16	 Antje Kempe (GDR)	5 May 1984	Celje	
+8	72.12	 Trine Hattestad (NOR)	10 July 1993	Oslo	
+9	71.88	 Antoaneta Todorova (BUL)	15 August 1981	Birmingham	
+10	71.82	 Ivonne Leal (CUB)	30 August 1985	Leverkusen	
+11	71.40	 Natalya Shikolenko (BLR)	5 June 1994	Sevilla	
+12	71.00	 Silke Renk (GDR)	25 June 1988	Rostock	
+13	70.76	 Beate Koch (GDR)	22 June 1989	Rostock	
+14	70.42	 Zhang Li (CHN)	6 August 1990	Tianjin	
+15	70.20	 Karen Forkel (GER)	9 May 1991	Halle	
+Olympic medalists
+Men
+Games	Gold	Silver	Bronze
+edit
+1908 London
+details	Eric Lemming
+ Sweden	Arne Halse
+ Norway	Otto Nilsson
+ Sweden
+1912 Stockholm
+details	Eric Lemming
+ Sweden	Julius Saaristo
+ Finland	Mór Kóczán
+ Hungary
+1920 Antwerp
+details	Jonni Myyrä
+ Finland	Urho Peltonen
+ Finland	Pekka Johansson
+ Finland
+1924 Paris
+details	Jonni Myyrä
+ Finland	Gunnar Lindström
+ Sweden	Eugene Oberst
+ United States
+1928 Amsterdam
+details	Erik Lundqvist
+ Sweden	Béla Szepes
+ Hungary	Olav Sunde
+ Norway
+1932 Los Angeles
+details	Matti Järvinen
+ Finland	Matti Sippala
+ Finland	Eino Penttilä
+ Finland
+1936 Berlin
+details	Gerhard Stöck
+ Germany	Yrjö Nikkanen
+ Finland	Kalervo Toivonen
+ Finland
+1948 London
+details	Tapio Rautavaara
+ Finland	Steve Seymour
+ United States	József Várszegi
+ Hungary
+1952 Helsinki
+details	Cy Young
+ United States	Bill Miller
+ United States	Toivo Hyytiäinen
+ Finland
+1956 Melbourne
+details	Egil Danielsen
+ Norway	Janusz Sidło
+ Poland	Viktor Tsybulenko
+ Soviet Union
+1960 Rome
+details	Viktor Tsybulenko
+ Soviet Union	Walter Krüger
+ United Team of Germany	Gergely Kulcsár
+ Hungary
+1964 Tokyo
+details	Pauli Nevala
+ Finland	Gergely Kulcsár
+ Hungary	Jānis Lūsis
+ Soviet Union
+1968 Mexico City
+details	Jānis Lūsis
+ Soviet Union	Jorma Kinnunen
+ Finland	Gergely Kulcsár
+ Hungary
+1972 Munich
+details	Klaus Wolfermann
+ West Germany	Jānis Lūsis
+ Soviet Union	Bill Schmidt
+ United States
+1976 Montreal
+details	Miklós Németh
+ Hungary	Hannu Siitonen
+ Finland	Gheorghe Megelea
+ Romania
+1980 Moscow
+details	Dainis Kūla
+ Soviet Union	Aleksandr Makarov
+ Soviet Union	Wolfgang Hanisch
+ East Germany
+1984 Los Angeles
+details	Arto Härkönen
+ Finland	David Ottley
+ Great Britain	Kenth Eldebrink
+ Sweden
+1988 Seoul
+details	Tapio Korjus
+ Finland	Jan Železný
+ Czechoslovakia	Seppo Räty
+ Finland
+1992 Barcelona
+details	Jan Železný
+ Czechoslovakia	Seppo Räty
+ Finland	Steve Backley
+ Great Britain
+1996 Atlanta
+details	Jan Železný
+ Czech Republic	Steve Backley
+ Great Britain	Seppo Räty
+ Finland
+2000 Sydney
+details	Jan Železný
+ Czech Republic	Steve Backley
+ Great Britain	Sergey Makarov
+ Russia
+2004 Athens
+details	Andreas Thorkildsen
+ Norway	Vadims Vasiļevskis
+ Latvia	Sergey Makarov
+ Russia
+2008 Beijing
+details	Andreas Thorkildsen
+ Norway	Ainārs Kovals
+ Latvia	Tero Pitkämäki
+ Finland
+2012 London
+details	Keshorn Walcott
+ Trinidad and Tobago	Antti Ruuskanen
+ Finland	Vítězslav Veselý
+ Czech Republic
+2016 Rio de Janeiro
+details	Thomas Röhler
+ Germany	Julius Yego
+ Kenya	Keshorn Walcott
+ Trinidad and Tobago
+2020 Tokyo
+details	Neeraj Chopra
+ India	Jakub Vadlejch
+ Czech Republic	Vítězslav Veselý
+ Czech Republic
+Women
+Games	Gold	Silver	Bronze
+edit
+1932 Los Angeles
+details	Babe Didrikson
+ United States	Ellen Braumüller
+ Germany	Tilly Fleischer
+ Germany
+1936 Berlin
+details	Tilly Fleischer
+ Germany	Luise Krüger
+ Germany	Maria Kwaśniewska
+ Poland
+1948 London
+details	Herma Bauma
+ Austria	Kaisa Parviainen
+ Finland	Lily Carlstedt
+ Denmark
+1952 Helsinki
+details	Dana Zátopková
+ Czechoslovakia	Aleksandra Chudina
+ Soviet Union	Yelena Gorchakova
+ Soviet Union
+1956 Melbourne
+details	Inese Jaunzeme
+ Soviet Union	Marlene Ahrens
+ Chile	Nadezhda Konyayeva
+ Soviet Union
+1960 Rome
+details	Elvīra Ozoliņa
+ Soviet Union	Dana Zátopková
+ Czechoslovakia	Birutė Kalėdienė
+ Soviet Union
+1964 Tokyo
+details	Mihaela Peneș
+ Romania	Márta Rudas
+ Hungary	Yelena Gorchakova
+ Soviet Union
+1968 Mexico City
+details	Angéla Németh
+ Hungary	Mihaela Peneș
+ Romania	Eva Janko
+ Austria
+1972 Munich
+details	Ruth Fuchs
+ East Germany	Jacqueline Todten
+ East Germany	Kate Schmidt
+ United States
+1976 Montreal
+details	Ruth Fuchs
+ East Germany	Marion Becker
+ West Germany	Kate Schmidt
+ United States
+1980 Moscow
+details	María Caridad Colón
+ Cuba	Saida Gunba
+ Soviet Union	Ute Hommola
+ East Germany
+1984 Los Angeles
+details	Tessa Sanderson
+ Great Britain	Tiina Lillak
+ Finland	Fatima Whitbread
+ Great Britain
+1988 Seoul
+details	Petra Felke
+ East Germany	Fatima Whitbread
+ Great Britain	Beate Koch
+ East Germany
+1992 Barcelona
+details	Silke Renk
+ Germany	Natalya Shikolenko
+ Unified Team	Karen Forkel
+ Germany
+1996 Atlanta
+details	Heli Rantanen
+ Finland	Louise McPaul
+ Australia	Trine Hattestad
+ Norway
+2000 Sydney
+details	Trine Hattestad
+ Norway	Mirela Maniani-Tzelili
+ Greece	Osleidys Menéndez
+ Cuba
+2004 Athens
+details	Osleidys Menéndez
+ Cuba	Steffi Nerius
+ Germany	Mirela Maniani
+ Greece
+2008 Beijing
+details	Barbora Špotáková
+ Czech Republic	Christina Obergföll
+ Germany[44]	Goldie Sayers
+ Great Britain
+2012 London
+details	Barbora Špotáková
+ Czech Republic	Christina Obergföll
+ Germany	Linda Stahl
+ Germany
+2016 Rio de Janeiro
+details	Sara Kolak
+ Croatia	Sunette Viljoen
+ South Africa	Barbora Špotáková
+ Czech Republic
+2020 Tokyo
+details	Liu Shiying
+ China	Maria Andrejczyk
+ Poland	Kelsey-Lee Barber
+ Australia
+World Championships medalists
+Men
+Championships	Gold	Silver	Bronze
+edit
+1983 Helsinki
+details	 Detlef Michel (GDR)	 Tom Petranoff (USA)	 Dainis Kūla (URS)
+1987 Rome
+details	 Seppo Räty (FIN)	 Viktor Yevsyukov (URS)	 Jan Železný (TCH)
+1991 Tokyo
+details	 Kimmo Kinnunen (FIN)	 Seppo Räty (FIN)	 Vladimir Sasimovich (URS)
+1993 Stuttgart
+details	 Jan Železný (CZE)	 Kimmo Kinnunen (FIN)	 Mick Hill (GBR)
+1995 Gothenburg
+details	 Jan Železný (CZE)	 Steve Backley (GBR)	 Boris Henry (GER)
+1997 Athens
+details	 Marius Corbett (RSA)	 Steve Backley (GBR)	 Konstadinos Gatsioudis (GRE)
+1999 Seville
+details	 Aki Parviainen (FIN)	 Konstadinos Gatsioudis (GRE)	 Jan Železný (CZE)
+2001 Edmonton
+details	 Jan Železný (CZE)	 Aki Parviainen (FIN)	 Konstadinos Gatsioudis (GRE)
+2003 Saint-Denis
+details	 Sergey Makarov (RUS)	 Andrus Värnik (EST)	 Boris Henry (GER)
+2005 Helsinki
+details	 Andrus Värnik (EST)	 Andreas Thorkildsen (NOR)	 Sergey Makarov (RUS)
+2007 Osaka
+details	 Tero Pitkämäki (FIN)	 Andreas Thorkildsen (NOR)	 Breaux Greer (USA)
+2009 Berlin
+details	 Andreas Thorkildsen (NOR)	 Guillermo Martínez (CUB)	 Yukifumi Murakami (JPN)
+2011 Daegu
+details	 Matthias de Zordo (GER)	 Andreas Thorkildsen (NOR)	 Guillermo Martínez (CUB)
+2013 Moscow
+details	 Vítězslav Veselý (CZE)	 Tero Pitkämäki (FIN)	 Dmitriy Tarabin (RUS)
+2015 Beijing
+details	 Julius Yego (KEN)	 Ihab Abdelrahman (EGY)	 Tero Pitkämäki (FIN)
+2017 London
+details	 Johannes Vetter (GER)	 Jakub Vadlejch (CZE)	 Petr Frydrych (CZE)
+2019 Doha
+details	 Anderson Peters (GRN)	 Magnus Kirt (EST)	 Johannes Vetter (GER)
+Women
+Championships	Gold	Silver	Bronze
+edit
+1983 Helsinki
+details	 Tiina Lillak (FIN)	 Fatima Whitbread (GBR)	 Anna Verouli (GRE)
+1987 Rome
+details	 Fatima Whitbread (GBR)	 Petra Felke-Meier (GDR)	 Beate Peters (FRG)
+1991 Tokyo
+details	 Xu Demei (CHN)	 Petra Felke-Meier (GER)	 Silke Renk (GER)
+1993 Stuttgart
+details	 Trine Solberg-Hattestad (NOR)	 Karen Forkel (GER)	 Natalya Shikolenko (BLR)
+1995 Gothenburg
+details	 Natalya Shikolenko (BLR)	 Felicia Țilea-Moldovan (ROU)	 Mikaela Ingberg (FIN)
+1997 Athens
+details	 Trine Solberg-Hattestad (NOR)	 Joanna Stone (AUS)	 Tanja Damaske (GER)
+1999 Seville
+details	 Mirela Manjani-Tzelili (GRE)	 Tatyana Shikolenko (RUS)	 Trine Solberg-Hattestad (NOR)
+2001 Edmonton
+details	 Osleidys Menéndez (CUB)	 Mirela Manjani-Tzelili (GRE)	 Sonia Bisset (CUB)
+2003 Saint-Denis
+details	 Mirela Maniani (GRE)	 Tatyana Shikolenko (RUS)	 Steffi Nerius (GER)
+2005 Helsinki
+details	 Osleidys Menéndez (CUB)	 Christina Obergföll (GER)	 Steffi Nerius (GER)
+2007 Osaka
+details	 Barbora Špotáková (CZE)	 Christina Obergföll (GER)	 Steffi Nerius (GER)
+2009 Berlin
+details	 Steffi Nerius (GER)	 Barbora Špotáková (CZE)	 Mariya Abakumova (RUS)
+2011 Daegu
+details	 Barbora Špotáková (CZE)	 Sunette Viljoen (RSA)	 Christina Obergföll (GER)[45]
+2013 Moscow
+details	 Christina Obergföll (GER)	 Kim Mickle (AUS)	 Mariya Abakumova (RUS)
+2015 Beijing
+details	 Katharina Molitor (GER)	 Lü Huihui (CHN)	 Sunette Viljoen (RSA)
+2017 London
+details	 Barbora Špotáková (CZE)	 Li Lingwei (CHN)	 Lü Huihui (CHN)
+2019 Doha
+details	 Kelsey-Lee Barber (AUS)	 Liu Shiying (CHN)	 Lü Huihui (CHN)
+Season's bests
+Men
+Year	Mark	Athlete	Place
+1967	90.98	 Jānis Lūsis (URS)	Odessa
+1968	91.98	 Jānis Lūsis (URS)	Saarijärvi
+1969	92.70	 Jorma Kinnunen (FIN)	Tampere
+1970	92.64	 Pauli Nevala (FIN)	Helsinki
+1971	90.68	 Jānis Lūsis (URS)	Helsinki
+1972	93.80	 Jānis Lūsis (URS)	Stockholm
+1973	94.08	 Klaus Wolfermann (FRG)	Leverkusen
+1974	89.58	 Hannu Siitonen (FIN)	Rome
+1975	91.38	 Miklós Németh (HUN)	Budapest
+1976	94.58	 Miklós Németh (HUN)	Montreal
+1977	94.10	 Miklós Németh (HUN)	Stockholm
+1978	94.22	 Michael Wessing (FRG)	Oslo
+1979	93.84	 Pentti Sinersaari (FIN)	Auckland
+1980	96.72	 Ferenc Paragi (HUN)	Tata
+1981	92.48	 Detlef Michel (GDR)	Berlin
+1982	95.80	 Bob Roggy (USA)	Stuttgart
+1983	99.72	 Tom Petranoff (USA)	Westwood
+1984	104.80	 Uwe Hohn (GDR)	Berlin
+1985	96.96	 Uwe Hohn (GDR)	Canberra
+A new model was introduced in 1986, and all records started fresh.
+
+Year	Mark	Athlete	Place
+1986	85.74	 Klaus Tafelmeier (FRG)	Como
+1987	87.66	 Jan Železný (TCH)	Nitra
+1988	86.88	 Jan Železný (TCH)	Leverkusen
+1989	87.60	 Kazuhiro Mizoguchi (JPN)	San José
+1990	89.58	 Steve Backley (GBR)	Stockholm
+1991	90.82	 Kimmo Kinnunen (FIN)	Tokyo
+1992	91.46	 Steve Backley (GBR)	Auckland
+1993	95.66	 Jan Železný (CZE)	Sheffield
+1994	91.82	 Jan Železný (CZE)	Sheffield
+1995	92.60	 Raymond Hecht (GER)	Oslo
+1996	98.48	 Jan Železný (CZE)	Jena
+1997	94.02	 Jan Železný (CZE)	Stellenbosch
+1998	90.88	 Aki Parviainen (FIN)	Tartu
+1999	93.09	 Aki Parviainen (FIN)	Kuortane
+2000	91.69	 Konstadinós Gatsioúdis (GRE)	Kuortane
+2001	92.80	 Jan Železný (CZE)	Edmonton
+2002	92.61	 Sergey Makarov (RUS)	Sheffield
+2003	90.11	 Sergey Makarov (RUS)	Dessau
+2004	87.73	 Aleksandr Ivanov (RUS)	Ostrava
+2005	91.53	 Tero Pitkämäki (FIN)	Kuortane
+2006	91.59	 Andreas Thorkildsen (NOR)	Oslo
+2007	91.29	 Breaux Greer (USA)	Indianapolis
+2008	90.57	 Andreas Thorkildsen (NOR)	Beijing
+2009	91.28	 Andreas Thorkildsen (NOR)	Zürich
+2010	90.37	 Andreas Thorkildsen (NOR)	Florø
+2011	90.61	 Andreas Thorkildsen (NOR)	Byrkjelo
+2012	88.34	 Vítězslav Veselý (CZE)	London
+2013	89.03	 Tero Pitkämäki (FIN)	Bad Köstritz
+2014	89.21	 Ihab El-Sayed (EGY)	Shanghai
+2015	92.72	 Julius Yego (KEN)	Beijing
+2016	91.28	 Thomas Röhler (GER)	Turku
+2017	94.44	 Johannes Vetter (GER)	Lucerne
+2018	92.70	 Johannes Vetter (GER)	Leiria
+2019	90.61	 Magnus Kirt (EST)	Kuortane
+2020	97.76	 Johannes Vetter (GER)	Chorzów
+2021	96.29	 Johannes Vetter (GER)	Chorzów
+Women
+Year	Mark	Athlete	Place
+1973	66.10	 Ruth Fuchs (GDR)	Edinburgh
+1974	67.22	 Ruth Fuchs (GDR)	Rome
+1975	66.46	 Ruth Fuchs (GDR)	Sudbury
+1976	69.12	 Ruth Fuchs (GDR)	Berlin
+1977	69.32	 Kate Schmidt (USA)	Fürth
+1978	69.16	 Ruth Fuchs (GDR)	Prague
+1979	69.52	 Ruth Fuchs (GDR)	Dresden
+1980	70.08	 Tatyana Biryulina (URS)	Podolsk
+1981	71.88	 Antoaneta Todorova (BUL)	Zagreb
+1982	74.20	 Sofia Sakorafa (GRE)	Hania
+1983	74.76	 Tiina Lillak (FIN)	Tampere
+1984	74.72	 Petra Felke (GDR)	Celje
+1985	75.40	 Petra Felke (GDR)	Schwerin
+1986	77.44	 Fatima Whitbread (GBR)	Stuttgart
+1987	78.90	 Petra Felke (GDR)	Leipzig
+1988	80.00	 Petra Felke (GDR)	Potsdam
+1989	76.88	 Petra Felke (GDR)	Macerata
+1990	73.08	 Petra Felke (GER)	Manaus
+1991	71.44	 Trine Hattestad (NOR)	Fana
+1992	70.36	 Natalya Shikolenko (BLR)	Moscow
+1993	72.12	 Trine Hattestad (NOR)	Oslo
+1994	71.40	 Natalya Shikolenko (BLR)	Seville
+1995	71.18	 Natalya Shikolenko (BLR)	Zürich
+1996	69.42	 Steffi Nerius (GER)	Monaco
+1997	69.66	 Trine Hattestad (NOR)	Helsinki
+1998	70.10	 Tanja Damaske (GER)	Berlin
+A new model was introduced in 1999 and all records started fresh.
+
+Year	Mark	Athlete	Place
+1999	68.19	 Trine Hattestad (NOR)	Fana
+2000	69.48	 Trine Hattestad (NOR)	Oslo
+2001	71.54	 Osleidys Menéndez (CUB)	Rethymno
+2002	67.47	 Miréla Manjani (GRE)	Munich
+2003	66.52	 Miréla Manjani (GRE)	Paris
+2004	71.53	 Osleidys Menéndez (CUB)	Athens
+2005	71.70	 Osleidys Menéndez (CUB)	Helsinki
+2006	66.91	 Christina Obergföll (GER)	Athens
+2007	70.20	 Christina Obergföll (GER)	Munich
+2008	72.28	 Barbora Špotáková (CZE)	Stuttgart
+2009	68.59	 Christina Obergföll (GER)	Leiria
+2010	68.66	 Barbora Špotáková (CZE)	Rome
+2011	71.58	 Barbora Špotáková (CZE)	Daegu
+2012	69.55	 Barbora Špotáková (CZE)	London
+2013	70.53	 Mariya Abakumova (RUS)	Berlin
+2014	67.99	 Barbora Spotáková (CZE)	Brussels
+2015	67.69	 Katharina Molitor (GER)	Beijing
+2016	67.30	 Vera Rebrik (RUS)	Adler
+2017	68.43	 Sara Kolak (CRO)	Lausanne
+2018	68.92	 Kathryn Mitchell (AUS)	Gold Coast
+2019	67.98	 Lü Huihui (CHN)	Shenyang
+2020	67.61	 Lü Huihui (CHN)	Beijing
+2021	71.40	 Maria Andrejczyk (POL)	Split
+
+Maria Abakumova at the 2011 World Athletics Championships
+See also
+List of javelin throw national champions (men)
+List of javelin throwers
+References
+ Jukola, Martti (1935). Huippu-urheilun historia (in Finnish). Werner Söderström Osakeyhtiö.
+ Kanerva, Juha; Tikander, Vesa. Urheilulajien synty (in Finnish). Teos. ISBN 9789518513455.
+ "12th IAAF World Championships In Athletics: IAAF Statistics Handbook. Berlin 2009" (PDF). Monte Carlo: IAAF Media & Public Relations Department. 2009. pp. Pages 546, 559. Archived from the original (PDF) on 29 June 2011. Retrieved 5 August 2009.
+ Vélez Blasco, Miguel. "Part III: Llançaments - Tema 12 Javelina" (PDF) (in Catalan). Institut Nacional d'Educació Física de Catalunya / Federació Catalana d'Atletisme. Archived from the original (PDF) on 2 April 2015.
+ Hymans, Richard; Matrahazi, Imre. "IAAF World Records Progression" (PDF) (2015 ed.). International Association of Athletics Federations. Retrieved 20 October 2015.
+ "Javelin Throw - Introduction". IAAF. Archived from the original on 6 June 2012.
+ "Track: A Salute to the Javelin And Its Practitioners—One of Whom, Bud Held, Is Showing Those Finns A Thing Or Two". Sports Illustrated. 6 June 1955. Retrieved 8 March 2017.
+ Bremicher, Erick. "Why did the senior javelin specification have to be changed?". Retrieved 22 May 2015.
+ IAAF Scoring Tables for Combined Events, pp. 7–10.
+ Pentti Saarikosk
+ "Javelin Throw". worldathletics.org. Retrieved 22 January 2021.
+ "Physics: Javelin Designs, what's the significance? - World of Javelin". worldofjavelin.com. Archived from the original on 2 April 2015. Retrieved 27 March 2012.
+ "Throwing Weight Rules per Age Group". athleticsdirect.co.uk. 7 July 2016. Retrieved 10 July 2018.
+ February 21, Luann Voza-Updated; 2019. "Describe the Sequence of Arm Muscle Movements in Throwing a Javelin". SportsRec. Retrieved 24 February 2019.
+ Kleeman, George, ed. (2007). "The Throwing Officials' Manual" (PDF). USA Track & Field. Archived from the original (PDF) on 16 September 2018. Retrieved 1 June 2018.
+ "Archived copy" (PDF). Archived from the original (PDF) on 11 October 2011. Retrieved 19 May 2014.
+ http://www.cifss.org/wp-content/uploads/2015/06/46grenadethrow.pdf
+ "Javelin Throw - men - senior - outdoor". worldathletics.org. Retrieved 8 June 2021.
+ Bob Ramsak (6 September 2020). "Vetter threatens javelin world record with 97.76m throw in Silesia". World Athletics. Retrieved 15 September 2020.
+ "Javelin Throw Results" (PDF). sportresult.com. 5 May 2017. Retrieved 5 May 2017.
+ "Javelin Throw Results". IAAF. 26 August 2015. Archived from the original on 13 August 2017. Retrieved 26 August 2015.
+ "Hofmann improves to 92.06m in Offenburg". European Athletics. 3 June 2018. Retrieved 4 June 2018.
+ British Athletics. "British Athletics Official WebsiteSteve Backley". britishathletics.org.uk. Archived from the original on 23 September 2015.
+ "UNIVERSIADE: Taiwan's Cheng wins record-breaking gold in javelin". focustaiwan.tw. 26 August 2017. Archived from the original on 26 August 2017. Retrieved 26 August 2017.
+ "Kirt extends world lead in the javelin to 90.61m in Kuortane". European Athletics. 22 June 2019. Archived from the original on 23 June 2019. Retrieved 26 June 2019.
+ "Javelin Throw Results" (PDF). IAAF. 12 August 2017. Retrieved 13 August 2017.
+ "Paavo Nurmi Games Turku 2021 | World Athletics". worldathletics.org. Retrieved 8 June 2021.
+ "Matusevicius highlights Lithuanian Championships with 89.17m in javelin". European Athletics. 28 July 2019. Retrieved 3 August 2019.
+ "IAAF: Javelin Throw - men - senior - outdoor - iaaf.org". iaaf.org.
+ "All-time women's best Javelin throw". alltime-athletics.com. Retrieved 9 January 2017.
+ Jess Whittington (9 May 2021). "Rojas opens with 15.14m, Andrejczyk throws 71.40m". World Athletics. Retrieved 20 May 2021.
+ Jess Whittington (29 May 2021). "Vetter throws 96.29m in Silesia for third best javelin mark in history". World Athletics. Retrieved 22 June 2021.
+ "Javelin Throw Results" (PDF). gc2018.com. 11 April 2018. Retrieved 15 April 2018.
+ "Javelin Throw Results" (PDF). sportresult.com. 6 July 2017. Retrieved 9 July 2017.
+ Jon Mulkeen (4 August 2019). "National championships round-up: Mihambo leaps world-leading 7.16m in Berlin". IAAF. Retrieved 12 August 2019.
+ Diego Sampaolo (9 July 2019). "Barber and Röhler in the spotlight in Lucerne". IAAF. Retrieved 26 July 2019.
+ "Women's Javelin Throw Results". IAAF. 30 August 2015. Archived from the original on 24 September 2015. Retrieved 30 August 2015.
+ "Javelin Throw Results" (PDF). sportresult.com. 7 June 2018. Retrieved 10 June 2018.
+ "Javelin Throw Results". laportal.net. 26 May 2019. Retrieved 26 July 2019.
+ "All-time women's best javelin throw". alltime-athletics.com. 19 February 2016. Retrieved 21 May 2016.
+ Jon Mulkeen (18 September 2020). "Wang and Liu impress at Chinese Championships". World Athletics. Retrieved 30 September 2020.
+ "Women's Javelin Throw Results" (PDF). baku2017results.azureedge.net. 18 May 2017. Retrieved 20 May 2017.[permanent dead link]
+ Larsson, Peter. "Track & Field all-time performances: Men's non-legal javelin". Retrieved 2 May 2018.
+ Mariya Abakumova, from Russia, was disqualified in 2016, after retesting. Sayers was later confirmed as the bronze medalist.
+ Mariya Abakumova, from Russia, was later disqualified for failing retests of samples

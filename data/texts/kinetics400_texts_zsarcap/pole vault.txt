@@ -1,0 +1,880 @@
+Pole vault
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the sport. For the Cold War era communications system, see Pole Vault (communications system).
+Athletics
+Pole vault
+Pole Vault Sequence 3.jpg
+An athlete in the middle of the vaulting phase
+World records
+Men	Sweden Armand Duplantis 6.18 m (20 ft 3+1⁄4 in) (2020)
+Women	Russia Yelena Isinbayeva 5.06 m (16 ft 7 in) (2009)
+Olympic records
+Men	Brazil Thiago Braz da Silva 6.03 m (19 ft 9+1⁄4 in) (2016)
+Women	Russia Yelena Isinbayeva 5.05 m (16 ft 6+3⁄4 in) (2008)
+World Championship records
+Men	Australia Dmitri Markov 6.05 m (19 ft 10 in) (2001)
+Women	Russia Yelena Isinbayeva 5.01 m (16 ft 5 in) (2005)
+Pole vaulting, also known as pole jumping, is a track and field event in which an athlete uses a long and flexible pole, usually made from fiberglass or carbon fiber, as an aid to jump over a bar. Pole jumping competitions were known to the Mycenaean Greeks, Minoan Greeks and Celts[citation needed]. It has been a full medal event at the Olympic Games since 1896 for men and since 2000 for women.
+
+It is typically classified as one of the four major jumping events in athletics, alongside the high jump, long jump and triple jump. It is unusual among track and field sports in that it requires a significant amount of specialised equipment in order to participate, even at a basic level. A number of elite pole vaulters have had backgrounds in gymnastics, including world record breakers Yelena Isinbayeva and Brian Sternberg, reflecting the similar physical attributes required for the sports.[1][2] Running speed, however, may be the most dominant factor. Physical attributes such as speed, agility and strength are essential to pole vaulting effectively, but technical skill is an equally if not more important element. The object of pole vaulting is to clear a bar or crossbar supported upon two uprights (standards) without knocking it down.
+
+
+Contents
+1	History
+2	Modern vaulting
+3	Technology
+4	Technique
+4.1	Approach
+4.2	Plant and take-off
+4.3	Swing up
+4.4	Extension
+4.5	Turn
+4.6	Fly-away
+5	Terminology
+6	All-time top 25
+6.1	Men (outdoor)
+6.2	Women (outdoor)
+6.3	Men (indoor)
+6.4	Women (indoor)
+7	Six metres club
+8	Five metres club
+9	Milestones
+10	Olympic medalists
+10.1	Men
+10.2	Women
+11	World Championships medalists
+11.1	Men
+11.2	Women
+12	World Indoor Championships medalists
+12.1	Men
+12.2	Women
+13	Season's bests
+13.1	Men
+13.2	Women
+14	Notes and references
+15	External links
+History
+
+Pole vault in the 1890s at US Naval Academy
+
+Traditional fierljeppen in the Netherlands, using poles to clear "horizontal distances" over rivers
+Poles were used as a practical means of passing over natural obstacles in marshy places such as the province of Friesland in the Netherlands, along the North Sea, and the great level of the Fens in England across Cambridgeshire, Huntingdonshire, Lincolnshire and Norfolk. Artificial draining of these marshes created a network of open drains or canals intersecting each other. To cross these without getting soaked, while avoiding tedious roundabout journeys over bridges, a stack of jumping poles was kept at every house and used for vaulting over the canals.[citation needed]
+
+Distance pole vaulting competitions continue to be held annually in the lowlands around the North Sea. These far-jumping competitions (Frisian: Fierljeppen) are not based on height.[3]
+
+In his book The Mechanics of the Pole Vault, Richard Ganslen reports that the London Gymnastic Society under Professor Voelker held measured pole vaulting events in 1826, involving 1,300 participants and recording heights up to 10 ft 10 in (3.3 m).[4] Other early pole vaulting competitions where height was measured took place at the Ulverston Football and Cricket Club, Lancashire, north of the sands (now Cumbria) in 1843.[5] Modern competition began around 1850 in Germany, when pole vaulting was added to the exercises of the Turner gymnastic clubs by Johann C. F. GutsMuths and Friedrich L. Jahn. In Great Britain, it was first practiced at the Caledonian Games.
+
+Initially, vaulting poles were made from stiff materials such as bamboo or aluminum.[6] The introduction of flexible vaulting poles in the early 1950s made from composites such as fiberglass or carbon fiber allowed vaulters to achieve greater height.[7]
+
+
+Pole vaulter Allison Stokke prepares for her jump.
+In 2000, IAAF rule 260.18a (formerly 260.6a) was amended, so that "world records" (as opposed to "indoor world records") can be set in a facility "with or without roof". This rule was not applied retroactively,[8] With many indoor facilities not conforming to outdoor track specifications for size and flatness, the pole vault is the only world record set indoors.
+
+Modern vaulting
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2021) (Learn how and when to remove this template message)
+Today, athletes compete in the pole vault as one of the four jumping events in track and field. Because the high jump and pole vault are both vertical jumps, the competitions are conducted similarly. Each athlete can choose what height they would like to enter the competition. Once they enter, they have three attempts to clear the height. If a height is cleared, the vaulter advances to the next height, where they will have three more attempts. Once the vaulter has three consecutive misses, they are out of the competition and the highest height they cleared is their result. A "no height", often denoted "NH", refers to the failure of a vaulter to clear any bar during the competition.
+
+Once the vaulter enters the competition, they can choose to pass heights. If a vaulter achieves a miss on their first attempt at a height, they can pass to the next height, but they will only have two attempts at that height, as they will be out once they achieve three consecutive misses. Similarly, after earning two misses at a height, they could pass to the next height, when they would have only one attempt.
+
+
+An athlete passes the bar with the aid of a pole.
+The competitor who clears the highest height is the winner. If two or more vaulters have finished with the same height, the tie is broken by the number of misses at the final height. If the tied vaulters have the same number of misses at the last height cleared, the tie is broken by the total number of misses in the competition.
+
+If there is still a tie for first place, a jump-off occurs to break the tie. Marks achieved in this type of jump-off are considered valid and count for any purpose that a mark achieved in a normal competition would.
+
+If a tie in the other places still exists, a jump-off is not normally conducted, unless the competition is a qualifying meet, and the tie exists in the final qualifying spot. In this case, an administrative jump-off is conducted to break the tie, but the marks are not considered valid for any other purpose than breaking the tie.
+
+A jump-off is a sudden death competition in which the tied vaulters attempt the same height, starting with the last attempted height. If both vaulters miss, the bar goes down by a small increment, and if both clear, the bar goes up by a small increment. A jump-off ends when one vaulter clears and the other misses. Each vaulter gets one attempt at each height until one makes and one misses.
+
+The equipment and rules for pole vaulting are similar to the high jump. Unlike high jump, however, the athlete in the vault has the ability to select the horizontal position of the bar before each jump and can place it a distance beyond the back of the box, the metal pit that the pole is placed into immediately before takeoff. The range of distance the vaulter may place the standards varies depending on the level of competition.
+
+
+Painting by former athlete Raffaello Ducceschi depicting the pole vault
+If the pole used by the athlete dislodges the bar from the uprights, a foul attempt is ruled, even if the athlete has cleared the height. An athlete does not benefit from quickly leaving the landing pad before the bar has fallen. The exception to this rule if the vaulter is vaulting outdoors and has made a clear effort to throw the pole back, but the wind has blown the pole into the bar; this counts as a clearance. This call is made at the discretion of the pole vault official. If the pole breaks during the execution of a vault, it is considered an equipment failure and is ruled a non-jump, neither a make nor a miss. Other types of equipment failure include the standards slipping down or the wind dislodging the bar when no contact was made by the vaulter.
+
+Each athlete has a set amount of time in which to make an attempt. The amount of time varies by level of competition and the number of vaulters remaining. If the vaulter fails to begin an attempt within this time, the vaulter is charged with a time foul and the attempt is a miss.
+
+Poles are manufactured with ratings corresponding to the vaulter's maximum weight. As a safety precaution, some organizations forbid use of poles rated below the vaulter's weight. The recommended weight corresponds to a flex rating that is determined by the manufacturer by applying a standardized amount of stress (most commonly a 50 lb (23 kg) weight) on the pole and measuring how much the center of the pole is displaced. Therefore, two poles rated at the same weight are not necessarily the same stiffness.
+
+Pole stiffness and length are important factors to a vaulter's performance. Therefore, it is not uncommon for an elite vaulter to carry as many as ten poles to a competition. The effective length of a pole can be changed by gripping the pole higher or lower in relation to the top of the pole. The left and right handgrips are typically a bit more than shoulder width apart. Poles are manufactured for people of all skill levels and body sizes, with lengths between 3.05 m (10 ft 0 in) and 5.30 m (17 ft 5 in) and a wide range of weight ratings. Each manufacturer determines the weight rating for the pole and the location of the maximum handhold band.
+
+Technology
+Competitive pole vaulting began using solid ash poles. As the heights attained increased, bamboo poles gave way to tubular aluminum,[9] which was tapered at each end. Today's pole vaulters benefit from poles produced by wrapping pre-cut sheets of fiberglass that contains resin around a metal pole mandrel, to produce a slightly curved pole that bends more easily under the compression caused by an athlete's take-off. The shape of the fiberglass sheets and the amount of fiberglass used is carefully planned to provide the desired length and stiffness of pole. Different fiber types, including carbon-fiber, are used to give poles specific characteristics intended to promote higher jumps. In recent years, carbon fiber has been added to the commonly used E-glass and S-glass materials to create a lighter pole.
+
+As in the high jump, the landing area was originally a heap of sawdust or sand where athletes landed on their feet. As technology enabled higher vaults, mats evolved into bags of large chunks of foam. Today's mats are foam usually 1–1.5 meters (3 ft 3 in–4 ft 11 in) thick. They are usually built up with two cross-laid square section logs with gaps between them, topped by a solid layer of foam of the same thickness, This lattice construction is wrapped in a close fitting cover topped with nylon mesh, which allows some air to escape, thus combining both foam and a measure of air cushioning. The final layer is a large mat of mesh-covered foam which is clipped around the edges of the complete pit and prevents the athlete from falling between the individual bags. Mats are growing larger in area as well to minimize risk of injury. Proper landing technique is on the back or shoulders. Landing on the feet should be avoided, to eliminate the risk of injury to the lower extremities, particularly ankle sprains.
+
+Rule changes over the years have resulted in larger landing areas and additional padding of all hard and unyielding surfaces.
+
+The pole vault crossbar has evolved from a triangular aluminum bar to a round fiberglass bar with rubber ends. This is balanced on standards and can be knocked off when it is hit by a pole vaulter or the pole. Rule changes have led to shorter pegs and crossbar ends that are semi-circular.
+
+Technique
+Phases of pole vaulting
+
+
+
+
+
+Théo Mancheron competes in the men's decathlon pole vault final during the French Athletics Championships 2013 at Stade Charléty in Paris, 13 July 2013.
+Although many techniques are used by vaulters at various skill levels to clear the bar, the generally accepted technical model can be broken down into several phases:
+
+Approach
+During the approach the pole vaulter sprints down the runway in such a way as to achieve maximum speed and correct position to initiate takeoff at the end of the approach. Top class vaulters use approaches with 18 to 22 strides, often referred to as a "step" in which every other foot is counted as one step. The run-up to the vaulting pit begins forcefully with the vaulter running powerfully in a relaxed, upright position with knees lifted and torso leaning very slightly forward. The head, shoulders and hips are aligned, the vaulter increasing speed as the body becomes erect. The tip of the vaulting pole is angled higher than eye level until three paces from takeoff, when the pole tip descends efficiently, amplifying run speed as the pole is planted into the vault box. The faster the vaulter can run and the more efficient their take-off is, the greater the kinetic energy that can be achieved and used during the vault.
+
+Plant and take-off
+The plant and take off is initiated typically three steps out from the final step. Vaulters will usually count their steps backwards from their starting point to the box only counting the steps taken on the left foot (vice versa for left-handers) except for the second step from the box, which is taken by the right foot. For example; a vaulter on a "ten count" (referring to the number of counted steps from the starting point to the box) would count backwards from ten, only counting the steps taken with the left foot, until the last three steps taken and both feet are counted as three, two, one. These last three steps are normally quicker than the previous strides and are referred to as the "turn-over". The goal of this phase is to efficiently translate the kinetic energy accumulated from the approach into potential energy stored by the elasticity of the pole, and to gain as much initial vertical height as possible by jumping off the ground. The plant starts with the vaulter raising their arms up from around the hips or mid-torso until they are fully outstretched above the head, with the right arm extended directly above the head and the left arm extended perpendicular to the pole (vice versa for left-handed vaulters). At the same time, the vaulter is dropping the pole tip into the box. On the final step, the vaulter jumps off the trail leg which should always remain straight and then drives the front knee forward. As the pole slides into the back of the box the pole begins to bend and the vaulter continues up and forward, leaving the trail leg angled down and behind.
+
+Swing up
+The swing and row simply consists of the vaulter swinging the trail leg forward and rowing the pole, bringing the top arm down to the hips, while trying to keep the trail leg straight to store more potential energy into the pole, the rowing motion also keeps the pole bent for a longer period of time for the vaulter to get into optimum position. Once in a "U" shape the left arm hugs the pole tight to efficiently use the recoil within the pole. The goal is to carry out these motions as thoroughly and as quickly as possible; it is a race against the unbending of the pole. Effectively, this causes a double pendulum motion, with the top of the pole moving forward and pivoting from the box, while the vaulter acts as a second pendulum pivoting from the right hand. This action gives the vaulter the best position possible to be "ejected" off the pole. The swing continues until the hips are above the head and the arms are pulling the pole close to the chest; from there the vaulter shoots their legs up over the cross bar while keeping the pole close.[10][11]
+
+Extension
+The extension refers to the extension of the hips upward with outstretched legs as the shoulders drive down, causing the vaulter to be positioned upside down. This position is often referred to as "inversion". While this phase is executed, the pole begins to recoil, propelling the vaulter quickly upward. The hands of the vaulter remain close to the body as they move from the shins back to the region around the hips and upper torso.
+
+Turn
+The turn is executed immediately after or even during the end of the rockback. As the name implies, the vaulter turns 180° toward the pole while extending the arms down past the head and shoulders. Typically the vaulter will begin to angle their body toward the bar as the turn is executed, although ideally the vaulter will remain as vertical as possible. A more accurate description of this phase of the vault may be "the spin" because the vaulter spins around an imaginary axis from head to toe.
+
+Fly-away
+This is often highly emphasized by spectators and novice vaulters, but it is the easiest phase of the vault and is a result of proper execution of previous phases. This phase mainly consists of the vaulter pushing off the pole and releasing it so it falls away from the bar and mats. As the torso goes over and around the bar, the vaulter is facing the bar. Rotation of the body over the bar occurs naturally, and the vaulter's main concern is making sure that their arms, face and any other appendages do not knock the bar off as they go over. The vaulter should land near the middle of the foam landing mats, or pits, face up.
+
+Terminology
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2021) (Learn how and when to remove this template message)
+Bar
+The cross bar that is suspended above the ground by the standards.
+Box
+A trapezoidal indentation in the ground with a metal or fiberglass covering at the end of the runway in which vaulters "plant" their pole. The back wall of the box is nearly vertical and is approximately 8 inches (20 cm) in depth. The bottom of the box gradually slopes upward approximately 3 feet (90 cm) until it is level with the runway. The covering in the box ensures the pole will slide to the back of the box without catching on anything. The covering's lip overlaps onto the runway and ensures a smooth transition from all-weather surface so a pole being planted does not catch on the box.
+Drive knee
+During the plant phase, the knee is driven forward at the time of "takeoff" to help propel the vaulter upward.
+Grip
+The location of the vaulter's top hand on the pole. As the vaulter improves, their grip may move up the pole incrementally. The other hand is typically placed shoulder-width down from the top hand. Hands are not allowed to grip the very top of the pole (their hand perpendicular to the pole) for safety reasons.
+Jump foot
+The foot that the vaulter uses to leave the ground as they begin their vault. It is also referred to as the take-off foot.
+Pit
+The mats used for landing in pole vault.
+Plant position
+The position a vaulter is in the moment the pole reaches the back of the box and the vaulter begins their vault. Their arms are fully extended and their drive knee begins to come up as they jump.
+Pole
+The fiberglass equipment used to propel the vaulter up and over the bar. One side is stiffer than the other to facilitate the bending of the pole after the plant. A vaulter may rest the pole on their arm to determine which side is the stiff side.
+Standards
+The equipment that holds the bar at a particular height above the ground. Standards may be adjusted to raise and lower the bar and also to adjust the horizontal position of the bar.
+Steps
+Since the box is in a fixed position, vaulters must adjust their approach to ensure they are in the correct position when attempting to vault.
+Swing leg or trail leg
+The swing leg is also the jump foot. After a vaulter has left the ground, the leg that was last touching the ground stays extended and swings forward to help propel the vaulter upwards.
+Volzing
+A method of holding or pushing the bar back onto the pegs while jumping over a height. This takes considerable skill, although it is now against the rules and counted as a miss. The technique is named after U.S. Olympian Dave Volz, who made an art form of the practice and surprised many by making the U.S. Olympic team in 1992.
+All-time top 25
+See also: Men's pole vault world record progression, Women's pole vault world record progression, and Men's pole vault indoor world record progression
+As of July 2021.[12][13][14][15]
+Men (outdoor)
+Ath.#	Perf.#	Mark	Athlete	Nation	Date	Place	Ref
+1	1	6.15 m (20 ft 2 in)	Armand Duplantis	 Sweden	17 SEP 2020	Rome	
+2	2	6.14 m (20 ft 1+1⁄2 in) A	Sergey Bubka	 Ukraine	31 JUL 1994	Sestriere	
+3	6.13 m (20 ft 1+1⁄4 in)	Bubka #2		19 SEP 1992	Tokyo	
+4	6.12 m (20 ft 3⁄4 in)	Bubka #3	30 AUG 1992	Padua	
+5	6.11 m (20 ft 1⁄2 in)	Bubka #4	13 JUN 1992	Dijon	
+6	6.10 m (20 ft 0 in)	Bubka #5	05 AUG 1991	Malmö	
+Duplantis #2	06 JUN 2021	Hengelo	
+8	6.09 m (19 ft 11+3⁄4 in)	Bubka #6	08 JUL 1991	Formia	
+9	6.08 m (19 ft 11+1⁄4 in)	Bubka #7	09 JUN 1991	Moscow	
+10	6.07 m (19 ft 10+3⁄4 in)	Bubka #8	06 MAY 1991	Shizuoka	
+Duplantis #3	02 SEP 2020	Lausanne	
+12	6.06 m (19 ft 10+1⁄2 in)	Bubka #9	10 JUL 1988	Nice	
+3	12	6.06 m (19 ft 10+1⁄2 in)	Sam Kendricks	 United States	27 JUL 2019	Des Moines	
+14	6.05 m (19 ft 10 in)	Bubka #10		09 JUN 1988	Bratislava	
+Bubka #11	10 SEP 1993	London	
+Bubka #12	30 AUG 1994	Berlin	
+Bubka #13	13 SEP 1997	Fukuoka	
+4	14	6.05 m (19 ft 10 in)	Maksim Tarasov	 Russia	16 JUN 1999	Athens	
+Dmitri Markov	 Australia	09 AUG 2001	Edmonton	
+Renaud Lavillenie	 France	30 MAY 2015	Eugene	
+14	6.05 m (19 ft 10 in)	Duplantis #4		12 AUG 2018	Berlin	
+Duplantis #5	03 SEP 2021	Brussels	
+7	23	6.04 m (19 ft 9+3⁄4 in)	Brad Walker	 United States	08 JUN 2008	Eugene	
+24	6.03 m (19 ft 9+1⁄4 in)	Bubka #14		23 JUN 1987	Prague	
+8	24	6.03 m (19 ft 9+1⁄4 in)	Okkert Brits	 South Africa	18 AUG 1995	Cologne	
+Jeff Hartwig	 United States	14 JUN 2000	Jonesboro	
+24	6.03 m (19 ft 9+1⁄4 in)	Lavillenie #2		25 JUL 2015	London	
+8	24	6.03 m (19 ft 9+1⁄4 in)	Thiago Braz da Silva	 Brazil	15 AUG 2016	Rio de Janeiro	
+11		6.02 m (19 ft 9 in)	Piotr Lisek	 Poland	12 JUL 2019	Monaco	
+12	6.01 m (19 ft 8+1⁄2 in)	Igor Trandenkov	 Russia	03 JUL 1996	St. Petersburg	
+Timothy Mack	 United States	18 SEP 2004	Monaco	
+Yevgeny Lukyanenko	 Russia	01 JUL 2008	Bydgoszcz	
+Björn Otto	 Germany	05 SEP 2012	Aachen	
+16	6.00 m (19 ft 8 in)	Radion Gataullin	 Soviet Union	16 SEP 1989	Tokyo	
+Tim Lobinger	 Germany	24 AUG 1997	Cologne	
+Toby Stevenson	 United States	08 MAY 2004	Modesto	
+Paul Burgess	 Australia	26 FEB 2005	Perth	
+Steve Hooker	 Australia	27 JAN 2008	Perth	
+Timur Morgunov	 Authorised Neutral Athletes	12 AUG 2018	Berlin	
+22	5.98 m (19 ft 7+1⁄4 in)	Lawrence Johnson	 United States	25 MAY 1996	Knoxville	
+Jean Galfione	 France	23 JUL 1999	Amiens	
+24	5.97 m (19 ft 7 in)	Scott Huffman	 United States	18 JUN 1994	Knoxville	
+Christopher Nilsen	 United States	03 AUG 2021	Tokyo	
+Women (outdoor)
+Ath.#	Perf.#	Mark	Athlete	Nation	Date	Place	Ref
+1	1	5.06 m (16 ft 7 in)	Yelena Isinbayeva	 Russia	28 AUG 2009	Zürich	
+2	5.05 m (16 ft 6+3⁄4 in)	Isinbayeva #2		18 AUG 2008	Beijing	
+3	5.04 m (16 ft 6+1⁄4 in)	Isinbayeva #3	29 JUL 2008	Monaco	
+4	5.03 m (16 ft 6 in)	Isinbayeva #4	11 JUL 2008	Rome	
+5	5.01 m (16 ft 5 in)	Isinbayeva #5	12 AUG 2005	Helsinki	
+6	5.00 m (16 ft 4+3⁄4 in)	Isinbayeva #6	22 JUL 2005	London	
+2	6	5.00 m (16 ft 4+3⁄4 in)	Sandi Morris	 United States	09 SEP 2016	Brussels	
+8	4.96 m (16 ft 3+1⁄4 in)	Isinbayeva #7		22 JUL 2005	London	
+9	4.95 m (16 ft 2+3⁄4 in)	Isinbayeva #8	16 JUL 2005	Madrid	
+Morris #2	27 JUL 2018	Greenville	
+3	9	4.95 m (16 ft 2+3⁄4 in)	Anzhelika Sidorova	 Authorised Neutral Athletes	29 SEP 2019	Doha	
+Katie Nageotte	 United States	26 JUN 2021	Eugene	
+5	13	4.94 m (16 ft 2+1⁄4 in)	Eliza McCartney	 New Zealand	17 JUL 2018	Jockgrim	
+14	4.93 m (16 ft 2 in)	Isinbayeva #9		05 JUL 2005	Lausanne	
+Isinbayeva #10	26 AUG 2005	Brussels	
+Isinbayeva #11	25 JUL 2008	London	
+Morris #3	23 JUL 2016	Houston	
+6	14	4.93 m (16 ft 2 in)	Jennifer Suhr	 United States	14 APR 2018	Austin	
+14	4.93 m (16 ft 2 in)	Nageotte #2		23 MAY 2021	Marietta	
+20	4.92 m (16 ft 1+1⁄2 in)	Isinbayeva #12	03 SEP 2004	Brussels	
+Suhr #2	06 JUL 2008	Eugene	
+McCartney #2	23 JUN 2018	Mannheim	
+Nageotte #3	01 AUG 2020	Marietta	
+24	4.91 m (16 ft 1+1⁄4 in)	Isinbayeva #13	24 AUG 2004	Athens	
+Isinbayeva #14	28 JUL 2006	London	
+Isinbayeva #15	06 JUL 2007	Paris	
+Suhr #3	26 JUL 2011	Rochester	
+Suhr #4	14 JUN 2013	Lyndonville	
+7	24	4.91 m (16 ft 1+1⁄4 in)	Yarisley Silva	 Cuba	02 AUG 2015	Beckum	
+Katerina Stefanidi	 Greece	06 AUG 2017	London	
+24	4.91 m (16 ft 1+1⁄4 in)	Suhr #5		30 MAR 2019	Austin	
+Sidorova #2	10 JUN 2021	Florence	
+9		4.90 m (16 ft 3⁄4 in)	Holly Bradshaw	 Great Britain	26 JUN 2021	Manchester	
+10	4.88 m (16 ft 0 in)	Svetlana Feofanova	 Russia	04 JUL 2004	Herakleion	
+11	4.87 m (15 ft 11+1⁄2 in)	Fabiana Murer	 Brazil	03 JUL 2016	São Bernardo do Campo	
+12	4.83 m (15 ft 10 in)	Stacy Dragila	 United States	08 JUN 2004	Ostrava	
+Anna Rogowska	 Poland	26 AUG 2005	Brussels	
+Nikoleta Kyriakopoulou	 Greece	04 JUL 2015	Paris	
+Michaela Meijer	 Sweden	01 AUG 2020	Norrköping	
+16	4.82 m (15 ft 9+3⁄4 in)	Monika Pyrek	 Poland	22 SEP 2007	Stuttgart	
+Silke Spiegelburg	 Germany	20 JUL 2012	Monaco	
+Alysha Newman	 Canada	24 AUG 2019	Paris	
+Nina Kennedy	 Australia	13 MAR 2021	Sydney	
+20	4.81 m (15 ft 9+1⁄4 in)	Alana Boyd	 Australia	12 JUN 2008	Ostrava	
+21	4.80 m (15 ft 8+3⁄4 in)	Martina Strutz	 Germany	30 AUG 2011	Daegu	
+Angelica Bengtsson	 Sweden	29 SEP 2019	Doha	
+23	4.78 m (15 ft 8 in)	Tatyana Polnova	 Russia	19 SEP 2004	Monaco	
+Nicole Büchler	  Switzerland	06 MAY 2016	Doha	
+25	4.77 m (15 ft 7+3⁄4 in)	Annika Becker	 Germany	07 JUL 2002	Bochum	
+Men (indoor)
+Ath.#	Perf.#	Mark	Athlete	Nation	Date	Place	Ref
+1	1	6.18 m (20 ft 3+1⁄4 in)	Armand Duplantis	 Sweden	15 FEB 2020	Glasgow	
+2	6.17 m (20 ft 2+3⁄4 in)	Duplantis #2		08 FEB 2020	Toruń	
+2	3	6.16 m (20 ft 2+1⁄2 in)	Renaud Lavillenie	 France	15 FEB 2014	Donetsk	
+3	4	6.15 m (20 ft 2 in)	Sergey Bubka	 Ukraine	21 FEB 1993	Donetsk	
+5	6.14 m (20 ft 1+1⁄2 in)	Bubka #2		13 FEB 1993	Liévin	
+6	6.13 m (20 ft 1+1⁄4 in)	Bubka #3	21 FEB 1992	Berlin	
+7	6.12 m (20 ft 3⁄4 in)	Bubka #4	23 MAR 1991	Grenoble	
+8	6.11 m (20 ft 1⁄2 in)	Bubka #5	19 MAR 1991	Donetsk	
+9	6.10 m (20 ft 0 in)	Bubka #6	15 MAR 1991	San Sebastián	
+Duplantis #3	24 FEB 2021	Belgrade	
+11	6.08 m (19 ft 11+1⁄4 in)	Bubka #7	09 FEB 1991	Volgograd	
+Lavillenie #2	31 JAN 2014	Bydgoszcz	
+13	6.07 m (19 ft 10+3⁄4 in)	Duplantis #4	19 FEB 2020	Liévin	
+4	14	6.06 m (19 ft 10+1⁄2 in)	Steve Hooker	 Australia	07 FEB 2009	Boston	
+14	6.06 m (19 ft 10+1⁄2 in)	Lavillenie #3		27 FEB 2021	Aubière	
+16	6.05 m (19 ft 10 in)	Bubka #8	17 MAR 1990	Donetsk	
+Bubka #9	05 MAR 1993	Berlin	
+Bubka #10	06 FEB 1994	Grenoble	
+Duplantis #5	07 MAR 2021	Toruń	
+20	6.04 m (19 ft 9+3⁄4 in)	Lavillenie #4	25 JAN 2014	Rouen	
+Lavillenie #5	07 MAR 2015	Prague	
+22	6.03 m (19 ft 9+1⁄4 in)	Bubka #11	11 FEB 1989	Osaka	
+Lavillenie #6	05 MAR 2011	Paris	
+Lavillenie #7	05 MAR 2016	Jablonec nad Nisou	
+Duplantis #6	06 FEB 2021	Rouen	
+5		6.02 m (19 ft 9 in)	Radion Gataullin	 Soviet Union	04 FEB 1989	Gomel	
+Jeff Hartwig	 United States	10 MAR 2002	Sindelfingen	
+7	6.01 m (19 ft 8+1⁄2 in)	Sam Kendricks	 United States	08 FEB 2020	Rouen	
+8	6.00 m (19 ft 8 in)	Maksim Tarasov	 Russia	05 FEB 1999	Budapest	
+Jean Galfione	 France	06 MAR 1999	Maebashi	
+Danny Ecker	 Germany	11 FEB 2001	Dortmund	
+8	6.00 m (19 ft 8 in) A	Shawnacy Barber	 Canada	15 JAN 2016	Reno	
+8	6.00 m (19 ft 8 in)	Piotr Lisek	 Poland	04 FEB 2017	Potsdam	
+KC Lightfoot	 United States	13 FEB 2021	Lubbock	
+14	5.96 m (19 ft 6+1⁄2 in)	Lawrence Johnson	 United States	03 MAR 2001	Atlanta	
+Menno Vloon	 Netherlands	27 FEB 2021	Aubière	
+16	5.95 m (19 ft 6+1⁄4 in)	Tim Lobinger	 Germany	18 FEB 2000	Chemnitz	
+17	5.94 m (19 ft 5+3⁄4 in)	Philippe Collet	 France	10 MAR 1990	Grenoble	
+18	5.93 m (19 ft 5+1⁄4 in)	Billy Olson	 United States	08 FEB 1986	East Rutherford	
+Tye Harvey	 United States	03 MAR 2001	Atlanta	
+Thiago Braz da Silva	 Brazil	13 FEB 2016	Berlin	
+Chris Nilsen	 United States	21 FEB 2020	Lincoln	
+22	5.92 m (19 ft 5 in)	Igor Potapovich	 Kazakhstan	19 FEB 1998	Stockholm	
+Björn Otto	 Germany	18 FEB 2012	Potsdam	
+24	5.91 m (19 ft 4+1⁄2 in)	Joe Dial	 United States	01 FEB 1986	Columbia	
+Viktor Ryzhenkov	 Soviet Union	15 MAR 1991	San Sebastián	
+Timur Morgunov	 Authorised Neutral Athletes	29 AUG 2018	Zürich	
+Women (indoor)
+Ath.#	Perf.#	Mark	Athlete	Nation	Date	Place	Ref
+1	1	5.03 m (16 ft 6 in)	Jennifer Suhr	 United States	30 JAN 2016	Brockport	
+2	5.02 m (16 ft 5+1⁄2 in) A	Suhr #2		02 MAR 2013	Albuquerque	
+2	3	5.01 m (16 ft 5 in)	Yelena Isinbayeva	 Russia	23 FEB 2012	Stockholm	
+4	5.00 m (16 ft 4+3⁄4 in)	Isinbayeva #2		15 FEB 2009	Donetsk	
+5	4.97 m (16 ft 3+1⁄2 in)	Isinbayeva #3	15 FEB 2009	Donetsk	
+6	4.95 m (16 ft 2+3⁄4 in)	Isinbayeva #4	16 FEB 2008	Donetsk	
+3	6	4.95 m (16 ft 2+3⁄4 in)	Sandi Morris	 United States	12 MAR 2016	Portland	
+6	4.95 m (16 ft 2+3⁄4 in)	Morris #2		03 MAR 2018	Birmingham	
+3	6	4.95 m (16 ft 2+3⁄4 in)	Anzhelika Sidorova	 Authorised Neutral Athletes	29 FEB 2020	Moscow	
+5	10	4.94 m (16 ft 2+1⁄4 in)	Katie Nageotte	 United States	11 JUN 2021	Marietta	
+11	4.93 m (16 ft 2 in)	Isinbayeva #5		10 FEB 2007	Donetsk	
+12	4.92 m (16 ft 1+1⁄2 in)	Sidorova #2	25 FEB 2020	Moscow	
+13	4.91 m (16 ft 1+1⁄4 in)	Isinbayeva #6	12 FEB 2006	Donetsk	
+Suhr #3	16 JAN 2016	Kent	
+13	4.91 m (16 ft 1+1⁄4 in) A	Nageotte #2	18 FEB 2018	Albuquerque	
+13	4.91 m (16 ft 1+1⁄4 in)	Sidorova #3	08 FEB 2019	Madrid	
+Morris #3	08 FEB 2020	New York City	
+18	4.90 m (16 ft 3⁄4 in)	Isinbayeva #7	06 MAR 2005	Madrid	
+Isinbayeva #8	26 FEB 2009	Prague	
+6	18	4.90 m (16 ft 3⁄4 in)	Katerina Stefanidi	 Greece	20 FEB 2016	New York City	
+Demi Payne	 United States	20 FEB 2016	New York City	
+18	4.90 m (16 ft 3⁄4 in)	Suhr #4		12 MAR 2016	Portland	
+Suhr #5	17 MAR 2016	Portland	
+18	4.90 m (16 ft 3⁄4 in) A	Morris #4	12 JAN 2018	Reno	
+18	4.90 m (16 ft 3⁄4 in)	Sidorova #4	03 MAR 2018	Birmingham	
+18	4.90 m (16 ft 3⁄4 in) A	Morris #5	15 FEB 2020	Albuquerque	
+18	4.90 m (16 ft 3⁄4 in)	Sidorova #5	21 FEB 2021	Moscow	
+8		4.87 m (15 ft 11+1⁄2 in)	Holly Bradshaw	 United Kingdom	20 JAN 2012	Villeurbanne	
+9	4.85 m (15 ft 10+3⁄4 in)	Svetlana Feofanova	 Russia	22 FEB 2004	Peania	
+Anna Rogowska	 Poland	06 MAR 2011	Paris	
+11	4.83 m (15 ft 10 in)	Fabiana Murer	 Brazil	07 FEB 2015	Nevers	
+12	4.82 m (15 ft 9+3⁄4 in)	Yarisley Silva	 Cuba	24 APR 2013	Des Moines	
+Alysha Newman	 Canada	28 AUG 2019	Zürich	
+14	4.81 m (15 ft 9+1⁄4 in)	Stacy Dragila	 United States	06 MAR 2004	Budapest	
+Nikoleta Kyriakopoulou	 Greece	17 FEB 2016	Stockholm	
+Angelica Bengtsson	 Sweden	24 FEB 2019	Clermont-Ferrand	
+17	4.80 m (15 ft 8+3⁄4 in)	Nicole Büchler	  Switzerland	17 MAR 2016	Portland	
+18	4.78 m (15 ft 8 in)	Robeilys Peinado	 Venezuela	19 FEB 2020	Liévin	
+Olivia Gruver	 United States	07 FEB 2021	Fayetteville	
+20	4.77 m (15 ft 7+3⁄4 in)	Silke Spiegelburg	 Germany	15 JAN 2012	Leverkusen	
+21	4.76 m (15 ft 7+1⁄4 in)	Monika Pyrek	 Poland	12 FEB 2006	Donetsk	
+22	4.75 m (15 ft 7 in)	Yuliya Golubchikova	 Russia	13 FEB 2008	Athens	
+22	4.75 m (15 ft 7 in) A	Kylie Hutson	 United States	02 MAR 2013	Albuquerque	
+22	4.75 m (15 ft 7 in)	Lisa Ryzih	 Germany	04 MAR 2017	Belgrade	
+Eliza McCartney	 New Zealand	03 MAR 2018	Birmingham	
+Michaela Meijer	 Sweden	10 FEB 2019	Bærum	
+Angelica Moser	  Switzerland	06 MAR 2021	Toruń	
+Six metres club
+The "six metres club" consists of pole vaulters who have reached at least 6.00.[16] In 1985 Sergey Bubka became the first pole vaulter to clear six metres.
+
+Mark	Athlete	Nation	Outdoors	Indoors	Year first
+cleared
+6 metres
+6.18	Armand Duplantis	 Sweden	6.15	6.18	2018
+6.16	Renaud Lavillenie	 France	6.05	6.16	2009
+6.15	Sergey Bubka	 Soviet Union /  Ukraine	6.14	6.15	1985
+6.06	Steve Hooker	 Australia	6.00	6.06	2008
+Sam Kendricks	 United States	6.06	6.01	2017
+6.05	Maksim Tarasov	 Russia	6.05	6.00	1997
+Dmitri Markov	 Belarus /  Australia	6.05	5.85	1998
+6.04	Brad Walker	 United States	6.04	5.86	2006
+6.03	Okkert Brits	 South Africa	6.03	5.90	1995
+Jeff Hartwig	 United States	6.03	6.02	1998
+Thiago Braz	 Brazil	6.03	5.93	2016
+6.02	Rodion Gataullin	 Soviet Union /  Russia	6.00	6.02	1989
+Piotr Lisek	 Poland	6.02	6.00	2017
+6.01	Igor Trandenkov	 Russia	6.01	5.90	1996
+Timothy Mack	 United States	6.01	5.85	2004
+Yevgeny Lukyanenko	 Russia	6.01	5.90	2008
+Björn Otto	 Germany	6.01	5.92	2012
+6.00	Tim Lobinger	 Germany	6.00	5.95	1997
+Jean Galfione	 France	5.98	6.00	1999
+Danny Ecker	 Germany	5.93	6.00	2001
+Toby Stevenson	 United States	6.00	5.81	2004
+Paul Burgess	 Australia	6.00	5.80	2005
+Shawnacy Barber	 Canada	5.93	6.00	2016
+Timur Morgunov	 Authorised Neutral Athletes	6.00	5.91	2018
+KC Lightfoot	 United States	5.82	6.00	2021
+Five metres club
+Three women have cleared 5 metres. Yelena Isinbayeva was the first to clear 5.00 m (16 ft 4+3⁄4 in) on July 22, 2005. On March 2, 2013, Jenn Suhr cleared 5.02 m (16 ft 5+1⁄2 in) indoors to become the second. Sandi Morris cleared 5.00 meters on September 9, 2016, to become the third.
+
+Mark	Athlete	Nation	Outdoors	Indoors	Year first
+cleared 5 metres
+
+5.06	Yelena Isinbayeva	 Russia	5.06	5.01	2005
+5.03	Jennifer Suhr	 United States	4.93	5.03	2013
+5.00	Sandi Morris	 United States	5.00	4.95	2016
+Milestones
+This is a list of the first time a milestone mark was cleared.[17]
+
+Mark	Athlete	Nation	Date
+13 ft (3.96 m)	Robert Gardner	 United States	1 June 1912
+4 m (13 ft 1+1⁄2 in)	Marc Wright	 United States	8 June 1912
+14 ft (4.27 m)	Sabin Carr	 United States	27 May 1927
+4.5 m (14 ft 9 in)	William Sefton[18]	 United States	29 May 1937
+15 ft (4.57 m)	Cornelius "Dutch" Warmerdam	 United States	13 April 1940
+16 ft (4.88 m)	John Uelses	 United States	31 March 1962
+5 m (16 ft 5 in)	Brian Sternberg	 United States	27 April 1963
+17 ft (5.18 m)	John Pennel	 United States	24 August 1963
+18 ft (5.49 m)	Christos Papanikolaou	 Greece	24 October 1970
+5.5 m (18 ft 1⁄2 in)	Kjell Isaksson	 Sweden	8 April 1972
+19 ft (5.79 m)	Thierry Vigneron	 France	20 June 1981
+6 m (19 ft 8 in)	Sergey Bubka	 Soviet Union	13 July 1985
+20 ft (6.10 m)	Sergey Bubka	 Soviet Union	16 March 1991 (indoors)
+5 August 1991 (outdoors)
+This is a list of the first-time milestones for women.
+
+Mark	Athlete	Nation	Date
+4 m (13 ft 1+1⁄2 in)	Zhang Chunzhen	 China	24 March 1991
+14 ft (4.27 m)	Emma George[19]	 Australia	17 December 1995
+4.5 m (14 ft 9 in)	Emma George	 Australia	8 February 1997
+15 ft (4.57 m)	Emma George[20]	 Australia	14 March 1998
+16 ft (4.88 m)	Svetlana Feofanova	 Russia	4 July 2004
+5 m (16 ft 5 in)	Yelena Isinbayeva	 Russia	22 July 2005
+Olympic medalists
+Men
+Games	Gold	Silver	Bronze
+edit
+1896 Athens
+details	William Hoyt
+ United States	Albert Tyler
+ United States	Evangelos Damaskos
+ Greece
+Ioannis Theodoropoulos
+ Greece
+1900 Paris
+details	Irving Baxter
+ United States	Meredith Colket
+ United States	Carl Albert Andersen
+ Norway
+1904 St. Louis
+details	Charles Dvorak
+ United States	LeRoy Samse
+ United States	Louis Wilkins
+ United States
+1908 London
+details	Edward Cook
+ United States	none awarded	Edward Archibald
+ Canada
+Clare Jacobs
+ United States
+Alfred Gilbert
+ United States
+Bruno Söderström
+ Sweden
+1912 Stockholm
+details	Harry Babcock
+ United States	Frank Nelson
+ United States	William Halpenny
+ Canada
+Frank Murphy
+ United States
+Marc Wright
+ United States
+Bertil Uggla
+ Sweden
+1920 Antwerp
+details	Frank Foss
+ United States	Henry Petersen
+ Denmark	Edwin Myers
+ United States
+1924 Paris
+details	Lee Barnes
+ United States	Glen Graham
+ United States	James Brooker
+ United States
+1928 Amsterdam
+details	Sabin Carr
+ United States	William Droegemueller
+ United States	Charles McGinnis
+ United States
+1932 Los Angeles
+details	Bill Miller
+ United States	Shuhei Nishida
+ Japan	George Jefferson
+ United States
+1936 Berlin
+details	Earle Meadows
+ United States	Shuhei Nishida
+ Japan	Sueo Ōe
+ Japan
+1948 London
+details	Guinn Smith
+ United States	Erkki Kataja
+ Finland	Bob Richards
+ United States
+1952 Helsinki
+details	Bob Richards
+ United States	Don Laz
+ United States	Ragnar Lundberg
+ Sweden
+1956 Melbourne
+details	Bob Richards
+ United States	Bob Gutowski
+ United States	Georgios Roubanis
+ Greece
+1960 Rome
+details	Don Bragg
+ United States	Ron Morris
+ United States	Eeles Landström
+ Finland
+1964 Tokyo
+details	Fred Hansen
+ United States	Wolfgang Reinhardt
+ United Team of Germany	Klaus Lehnertz
+ United Team of Germany
+1968 Mexico City
+details	Bob Seagren
+ United States	Claus Schiprowski
+ West Germany	Wolfgang Nordwig
+ East Germany
+1972 Munich
+details	Wolfgang Nordwig
+ East Germany	Bob Seagren
+ United States	Jan Johnson
+ United States
+1976 Montreal
+details	Tadeusz Ślusarski
+ Poland	Antti Kalliomäki
+ Finland	David Roberts
+ United States
+1980 Moscow
+details	Władysław Kozakiewicz
+ Poland	Tadeusz Ślusarski
+ Poland	none awarded
+Konstantin Volkov
+ Soviet Union
+1984 Los Angeles
+details	Pierre Quinon
+ France	Mike Tully
+ United States	Earl Bell
+ United States
+Thierry Vigneron
+ France
+1988 Seoul
+details	Sergey Bubka
+ Soviet Union	Radion Gataullin
+ Soviet Union	Grigoriy Yegorov
+ Soviet Union
+1992 Barcelona
+details	Maksim Tarasov
+ Unified Team	Igor Trandenkov
+ Unified Team	Javier García
+ Spain
+1996 Atlanta
+details	Jean Galfione
+ France	Igor Trandenkov
+ Russia	Andrei Tivontchik
+ Germany
+2000 Sydney
+details	Nick Hysong
+ United States	Lawrence Johnson
+ United States	Maksim Tarasov
+ Russia
+2004 Athens
+details	Timothy Mack
+ United States	Toby Stevenson
+ United States	Giuseppe Gibilisco
+ Italy
+2008 Beijing
+details	Steve Hooker
+ Australia	Yevgeny Lukyanenko
+ Russia	Derek Miles
+ United States
+2012 London
+details	Renaud Lavillenie
+ France	Björn Otto
+ Germany	Raphael Holzdeppe
+ Germany
+2016 Rio de Janeiro
+details	Thiago Braz
+ Brazil	Renaud Lavillenie
+ France	Sam Kendricks
+ United States
+2020 Tokyo
+details	Armand Duplantis
+ Sweden	Chris Nilsen
+ United States	Thiago Braz
+ Brazil
+Women
+Games	Gold	Silver	Bronze
+edit
+2000 Sydney
+details	Stacy Dragila
+ United States	Tatiana Grigorieva
+ Australia	Vala Flosadóttir
+ Iceland
+2004 Athens
+details	Yelena Isinbayeva
+ Russia	Svetlana Feofanova
+ Russia	Anna Rogowska
+ Poland
+2008 Beijing
+details	Yelena Isinbayeva
+ Russia	Jennifer Stuczynski
+ United States	Svetlana Feofanova
+ Russia
+2012 London
+details	Jennifer Suhr
+ United States	Yarisley Silva
+ Cuba	Yelena Isinbayeva
+ Russia
+2016 Rio de Janeiro
+details	Katerina Stefanidi
+ Greece	Sandi Morris
+ United States	Eliza McCartney
+ New Zealand
+2020 Tokyo
+details	Katie Nageotte
+ United States	Anzhelika Sidorova
+ ROC	Holly Bradshaw
+ Great Britain
+World Championships medalists
+Men
+Championships	Gold	Silver	Bronze
+1983 Helsinki
+details	 Sergey Bubka (URS)	 Konstantin Volkov (URS)	 Atanas Tarev (BUL)
+1987 Rome
+details	 Sergey Bubka (URS)	 Thierry Vigneron (FRA)	 Radion Gataullin (URS)
+1991 Tokyo
+details	 Sergey Bubka (URS)	 István Bagyula (HUN)	 Maksim Tarasov (URS)
+1993 Stuttgart
+details	 Sergey Bubka (UKR)	 Grigoriy Yegorov (KAZ)	 Maksim Tarasov (RUS)
+ Igor Trandenkov (RUS)
+1995 Gothenburg
+details	 Sergey Bubka (UKR)	 Maksim Tarasov (RUS)	 Jean Galfione (FRA)
+1997 Athens
+details	 Sergey Bubka (UKR)	 Maksim Tarasov (RUS)	 Dean Starkey (USA)
+1999 Seville
+details	 Maksim Tarasov (RUS)	 Dmitri Markov (AUS)	 Aleksandr Averbukh (ISR)
+2001 Edmonton
+details	 Dmitri Markov (AUS)	 Aleksandr Averbukh (ISR)	 Nick Hysong (USA)
+2003 Saint-Denis
+details	 Giuseppe Gibilisco (ITA)	 Okkert Brits (RSA)	 Patrik Kristiansson (SWE)
+2005 Helsinki
+details	 Rens Blom (NED)	 Brad Walker (USA)	 Pavel Gerasimov (RUS)
+2007 Osaka
+details	 Brad Walker (USA)	 Romain Mesnil (FRA)	 Danny Ecker (GER)
+2009 Berlin
+details	 Steve Hooker (AUS)	 Romain Mesnil (FRA)	 Renaud Lavillenie (FRA)
+2011 Daegu
+details	 Paweł Wojciechowski (POL)	 Lázaro Borges (CUB)	 Renaud Lavillenie (FRA)
+2013 Moscow
+details	 Raphael Holzdeppe (GER)	 Renaud Lavillenie (FRA)	 Björn Otto (GER)
+2015 Beijing
+details	 Shawnacy Barber (CAN)	 Raphael Holzdeppe (GER)	 Renaud Lavillenie (FRA)
+ Pawel Wojciechowski (POL)
+ Piotr Lisek (POL)
+2017 London
+details	 Sam Kendricks (USA)	 Piotr Lisek (POL)	 Renaud Lavillenie (FRA)
+2019 Doha
+details	 Sam Kendricks (USA)	 Armand Duplantis (SWE)	 Piotr Lisek (POL)
+Women
+Championships	Gold	Silver	Bronze
+1999 Seville
+details	 Stacy Dragila (USA)	 Anzhela Balakhonova (UKR)	 Tatiana Grigorieva (AUS)
+2001 Edmonton
+details	 Stacy Dragila (USA)	 Svetlana Feofanova (RUS)	 Monika Pyrek (POL)
+2003 Saint-Denis
+details	 Svetlana Feofanova (RUS)	 Annika Becker (GER)	 Yelena Isinbayeva (RUS)
+2005 Helsinki
+details	 Yelena Isinbayeva (RUS)	 Monika Pyrek (POL)	 Pavla Hamáčková (CZE)
+2007 Osaka
+details	 Yelena Isinbayeva (RUS)	 Kateřina Baďurová (CZE)	 Svetlana Feofanova (RUS)
+2009 Berlin
+details	 Anna Rogowska (POL)	 Chelsea Johnson (USA)
+ Monika Pyrek (POL)	none awarded
+2011 Daegu
+details	 Fabiana Murer (BRA)	 Martina Strutz (GER)	 Svetlana Feofanova (RUS)
+2013 Moscow
+details	 Yelena Isinbayeva (RUS)	 Jenn Suhr (USA)	 Yarisley Silva (CUB)
+2015 Beijing
+details	 Yarisley Silva (CUB)	 Fabiana Murer (BRA)	 Nikoleta Kyriakopoulou (GRE)
+2017 London
+details	 Ekaterini Stefanidi (GRE)	 Sandi Morris (USA)	 Robeilys Peinado (VEN)
+ Yarisley Silva (CUB)
+2019 Doha
+details	 Anzhelika Sidorova (ANA)	 Sandi Morris (USA)	 Katerina Stefanidi (GRE)
+World Indoor Championships medalists
+Men
+Games	Gold	Silver	Bronze
+1985 Paris[A]	 Sergey Bubka (URS)	 Thierry Vigneron (FRA)	 Vasiliy Bubka (URS)
+1987 Indianapolis
+details	 Sergey Bubka (URS)	 Earl Bell (USA)	 Thierry Vigneron (FRA)
+1989 Budapest
+details	 Radion Gataullin (URS)	 Grigoriy Yegorov (URS)	 Joe Dial (USA)
+1991 Seville
+details	 Sergey Bubka (URS)	 Viktor Ryzhenkov (URS)	 Ferenc Salbert (FRA)
+1993 Toronto
+details	 Radion Gataullin (RUS)	 Grigoriy Yegorov (KAZ)	 Jean Galfione (FRA)
+1995 Barcelona
+details	 Sergey Bubka (UKR)	 Igor Potapovich (KAZ)	 Okkert Brits (RSA)
+ Andrei Tivontchik (GER)
+1997 Paris
+details	 Igor Potapovich (KAZ)	 Lawrence Johnson (USA)	 Maksim Tarasov (RUS)
+1999 Maebashi
+details	 Jean Galfione (FRA)	 Jeff Hartwig (USA)	 Danny Ecker (GER)
+2001 Lisbon
+details	 Lawrence Johnson (USA)	 Tye Harvey (USA)	 Romain Mesnil (FRA)
+2003 Birmingham
+details	 Tim Lobinger (GER)	 Michael Stolle (GER)	 Rens Blom (NED)
+2004 Budapest
+details	 Igor Pavlov (RUS)	 Adam Ptáček (CZE)	 Denys Yurchenko (UKR)
+2006 Moscow
+details	 Brad Walker (USA)	 Alhaji Jeng (SWE)	 Tim Lobinger (GER)
+2008 Valencia
+details	 Yevgeny Lukyanenko (RUS)	 Brad Walker (USA)	 Steve Hooker (AUS)
+2010 Doha
+details	 Steve Hooker (AUS)	 Malte Mohr (GER)	 Alexander Straub (USA)
+2012 Istanbul
+details	 Renaud Lavillenie (FRA)	 Björn Otto (GER)	 Brad Walker (USA)
+2014 Sopot
+details	 Konstadinos Filippidis (GRE)	 Malte Mohr (GER)	 Jan Kudlička (CZE)
+2016 Portland
+details	 Renaud Lavillenie (FRA)	 Sam Kendricks (USA)	 Piotr Lisek (POL)
+2018 Birmingham
+details	 Renaud Lavillenie (FRA)	 Sam Kendricks (USA)	 Piotr Lisek (POL)
+A Known as the World Indoor Games
+Women
+Games	Gold	Silver	Bronze
+1997 Paris
+details	 Stacy Dragila (USA)	 Emma George (AUS)	 Cai Weiyan (CHN)
+1999 Maebashi
+details	 Nastja Ryshich (GER)	 Vala Flosadóttir (ISL)	 Nicole Humbert (GER)
+ Zsuzsanna Szabó-Olgyai (HUN)
+2001 Lisbon
+details	 Pavla Hamáčková (CZE)	 Svetlana Feofanova (RUS)
+ Kellie Suttle (USA)	none awarded
+2003 Birmingham
+details	 Svetlana Feofanova (RUS)	 Yelena Isinbayeva (RUS)	 Monika Pyrek (POL)
+2004 Budapest
+details	 Yelena Isinbayeva (RUS)	 Stacy Dragila (USA)	 Svetlana Feofanova (RUS)
+2006 Moscow
+details	 Yelena Isinbayeva (RUS)	 Anna Rogowska (POL)	 Svetlana Feofanova (RUS)
+2008 Valencia
+details	 Yelena Isinbayeva (RUS)	 Jennifer Stuczynski (USA)	 Fabiana Murer (BRA)
+ Monika Pyrek (POL)
+2010 Doha
+details	 Fabiana Murer (BRA)	 Svetlana Feofanova (RUS)	 Anna Rogowska (POL)
+2012 Istanbul
+details	 Yelena Isinbayeva (RUS)	 Vanessa Boslak (FRA)	 Holly Bleasdale (GBR)
+2014 Sopot
+details	 Yarisley Silva (CUB)	 Anzhelika Sidorova (RUS)
+ Jiřina Svobodová (CZE)	none awarded
+2016 Portland
+details	 Jennifer Suhr (USA)	 Sandi Morris (USA)	 Katerina Stefanidi (GRE)
+2018 Birmingham
+details	 Sandi Morris (USA)	 Anzhelika Sidorova (ANA)	 Katerina Stefanidi (GRE)
+Season's bests
+Men
+Year	Mark	Athlete	Place
+1970	5.49 m (18 ft 0 in)	 Christos Papanikolaou (GRE)	Athens
+1971	5.43 m (17 ft 9+3⁄4 in)	 Kjell Isaksson (SWE)	Siena
+1972	5.63 m (18 ft 5+1⁄2 in)	 Bob Seagren (USA)	Eugene
+1973	5.49 m (18 ft 0 in)	 Steve Smith (USA)	New York City
+1974	5.53 m (18 ft 1+1⁄2 in) A	 Steve Smith (USA)	Pocatello
+1975	5.65 m (18 ft 6+1⁄4 in)	 David Roberts (USA)	Gainesville
+1976	5.70 m (18 ft 8+1⁄4 in)	 David Roberts (USA)	Eugene
+1977	5.66 m (18 ft 6+3⁄4 in)	 Wladyslaw Kozakiewicz (POL)	Warsaw
+1978	5.71 m (18 ft 8+3⁄4 in)	 Mike Tully (USA)	Corvallis
+1979	5.65 m (18 ft 6+1⁄4 in)	 Patrick Abada (FRA)	Paris
+ Philippe Houvion (FRA)
+1980	5.78 m (18 ft 11+1⁄2 in)	 Wladyslaw Kozakiewicz (POL)	Moscow
+1981	5.81 m (19 ft 1⁄2 in)	 Vladimir Polyakov (URS)	Tbilisi
+1982	5.75 m (18 ft 10+1⁄4 in)	 Dave Volz (USA)	Nice
+ Jean-Michel Bellot (FRA)	Colombes
+1983	5.83 m (19 ft 1+1⁄2 in)	 Thierry Vigneron (FRA)	Rome
+1984	5.94 m (19 ft 5+3⁄4 in)	 Sergey Bubka (URS)	Rome
+1985	6.00 m (19 ft 8 in)	 Sergey Bubka (URS)	Paris
+1986	6.01 m (19 ft 8+1⁄2 in)	 Sergey Bubka (URS)	Moscow
+1987	6.03 m (19 ft 9+1⁄4 in)	 Sergey Bubka (URS)	Prague
+1988	6.06 m (19 ft 10+1⁄2 in)	 Sergey Bubka (URS)	Nice
+1989	6.03 m (19 ft 9+1⁄4 in) i	 Sergey Bubka (URS)	Osaka
+1990	6.05 m (19 ft 10 in) i	 Sergey Bubka (URS)	Donetsk
+1991	6.12 m (20 ft 3⁄4 in) i	 Sergey Bubka (URS)	Grenoble
+1992	6.13 m (20 ft 1+1⁄4 in)	 Sergey Bubka (UKR)	Tokyo
+Berlin
+1993	6.15 m (20 ft 2 in) i	 Sergey Bubka (UKR)	Donetsk
+1994	6.14 m (20 ft 1+1⁄2 in) A	 Sergey Bubka (UKR)	Sestriere
+1995	6.03 m (19 ft 9+1⁄4 in)	 Okkert Brits (RSA)	Cologne
+1996	6.02 m (19 ft 9 in)	 Sergey Bubka (UKR)	Atlanta
+1997	6.05 m (19 ft 10 in)	 Sergey Bubka (UKR)	Fukuoka
+1998	6.01 m (19 ft 8+1⁄2 in)	 Jeff Hartwig (USA)	Uniondale
+1999	6.05 m (19 ft 10 in)	 Maxim Tarasov (RUS)	Athens
+2000	6.03 m (19 ft 9+1⁄4 in)	 Jeff Hartwig (USA)	Jonesboro
+2001	6.05 m (19 ft 10 in)	 Dmitriy Markov (AUS)	Edmonton
+2002	6.02 m (19 ft 9 in) i	 Jeff Hartwig (USA)	Sindelfingen
+2003	5.95 m (19 ft 6+1⁄4 in)	 Romain Mesnil (FRA)	Castres
+2004	6.01 m (19 ft 8+1⁄2 in)	 Timothy Mack (USA)	Monaco
+2005	6.00 m (19 ft 8 in)	 Paul Burgess (AUS)	Perth
+2006	6.00 m (19 ft 8 in)	 Brad Walker (USA)	Jockgrim
+2007	5.95 m (19 ft 6+1⁄4 in)	 Brad Walker (USA)	Brisbane
+2008	6.04 m (19 ft 9+3⁄4 in)	 Brad Walker (USA)	Eugene
+2009	6.06 m (19 ft 10+1⁄2 in)	 Steve Hooker (AUS)	Boston
+2010	6.01 m (19 ft 8+1⁄2 in) i	 Steve Hooker (AUS)	Doha
+2011	6.03 m (19 ft 9+1⁄4 in) i	 Renaud Lavillenie (FRA)	Paris
+2012	6.01 m (19 ft 8+1⁄2 in)	 Björn Otto (GER)	Aachen
+2013	6.02 m (19 ft 9 in)	 Renaud Lavillenie (FRA)	London
+2014	6.16 m (20 ft 2+1⁄2 in) i	 Renaud Lavillenie (FRA)	Donetsk
+2015	6.05 m (19 ft 10 in)	 Renaud Lavillenie (FRA)	Eugene
+2016	6.03 m (19 ft 9+1⁄4 in)	 Thiago Braz (BRA)	Rio de Janeiro
+6.03 m (19 ft 9+1⁄4 in) i	 Renaud Lavillenie (FRA)	Jablonec
+2017	6.00 m (19 ft 8 in) i	 Piotr Lisek (POL)	Potsdam
+6.00 m (19 ft 8 in)	 Sam Kendricks (USA)	Sacramento
+2018	6.05 m (19 ft 10 in)	 Armand Duplantis (SWE)	Berlin
+2019	6.06 m (19 ft 10+1⁄2 in)	 Sam Kendricks (USA)	Des Moines
+2020	6.18 m (20 ft 3+1⁄4 in) i	 Armand Duplantis (SWE)	Glasgow
+2021	6.10 m (20 ft 0 in)	 Armand Duplantis (SWE)	Hengelo
+Women
+Year	Mark	Athlete	Place
+1991	4.05 m (13 ft 3+1⁄4 in)	 Zhang Chunzhen (CHN)	Guangzhou
+1992	4.05 m (13 ft 3+1⁄4 in)	 Sun Caiyun (CHN)	Nanjing
+1993	4.11 m (13 ft 5+3⁄4 in)	 Sun Caiyun (CHN)	Guangzhou
+1994	4.12 m (13 ft 6 in)	 Sun Caiyun (CHN)	Guangzhou
+1995	4.28 m (14 ft 1⁄2 in)	 Emma George (AUS)	Perth
+1996	4.45 m (14 ft 7 in)	 Emma George (AUS)	Sapporo
+1997	4.55 m (14 ft 11 in)	 Emma George (AUS)	Melbourne
+1998	4.59 m (15 ft 1⁄2 in)	 Emma George (AUS)	Brisbane
+1999	4.60 m (15 ft 1 in)	 Emma George (AUS)	Sydney
+ Stacy Dragila (USA)	Seville
+2000	4.63 m (15 ft 2+1⁄4 in)	 Stacy Dragila (USA)	Sacramento
+2001	4.81 m (15 ft 9+1⁄4 in)	 Stacy Dragila (USA)	Palo Alto
+2002	4.78 m (15 ft 8 in)	 Svetlana Feofanova (RUS)	Stockholm
+2003	4.82 m (15 ft 9+3⁄4 in)	 Yelena Isinbayeva (RUS)	Gateshead
+2004	4.92 m (16 ft 1+1⁄2 in)	 Yelena Isinbayeva (RUS)	Brussels
+2005	5.01 m (16 ft 5 in)	 Yelena Isinbayeva (RUS)	Helsinki
+2006	4.91 m (16 ft 1+1⁄4 in)	 Yelena Isinbayeva (RUS)	London
+Donetsk
+2007	4.93 m (16 ft 2 in) i	 Yelena Isinbayeva (RUS)	Donetsk
+2008	5.05 m (16 ft 6+3⁄4 in)	 Yelena Isinbayeva (RUS)	Beijing
+2009	5.06 m (16 ft 7 in)	 Yelena Isinbayeva (RUS)	Zürich
+2010	4.89 m (16 ft 1⁄2 in)	 Jennifer Suhr (USA)	Des Moines
+2011	4.91 m (16 ft 1+1⁄4 in)	 Jennifer Suhr (USA)	Rochester
+2012	5.01 m (16 ft 5 in) i	 Yelena Isinbayeva (RUS)	Stockholm
+2013	5.02 m (16 ft 5+1⁄2 in) i A	 Jennifer Suhr (USA)	Albuquerque
+2014	4.80 m (15 ft 8+3⁄4 in)	 Fabiana Murer (BRA)	New York City
+2015	4.91 m (16 ft 1+1⁄4 in)	 Yarisley Silva (CUB)	Beckum
+2016	5.03 m (16 ft 6 in) i	 Jenn Suhr (USA)	Brockport
+2017	4.91 m (16 ft 1+1⁄4 in)	 Katerina Stefanidi (GRE)	London
+2018	4.95 m (16 ft 2+3⁄4 in)	 Sandi Morris (USA)	Greenville
+2019	4.95 m (16 ft 2+3⁄4 in)	 Anzhelika Sidorova (ANA)	Doha
+2020	4.95 m (16 ft 2+3⁄4 in) i	 Anzhelika Sidorova (ANA)	Moscow
+2021	4.95 m (16 ft 2+3⁄4 in)	 Katie Nageotte (USA)	Eugene
+Notes and references
+ Rosenbaum, Mike. Yelena Isinbayeva: Pole Vault Record-Breaker. About Track and Field. Retrieved on 25 January 2014.
+ Rudman, Steve (31 May 2013). Huskies vault legend Brian Sternberg (1943-13). Sports Press NW. Retrieved on 2014-01-25.
+ "Info". Polsstokverspringen/ Fierljeppen Holland. 5 September 2012. Archived from the original on 2 October 2012. Retrieved 7 September 2012.
+ Jan., Johnson (2007). Illustrated history of the pole vault. VerSteeg, Russ., Kring, Ray. Norwich, CT: [publisher not identified]. p. 19. ISBN 9780979174605. OCLC 191809409.
+ Turnbull, Simon (13 June 2009). Kate Dennison: 'It helps being a little bit crazy'. The Independent. Retrieved on 2009-06-15.
+ Leutzinger, Dick (23 May 1963). "Fiber glass brings better – but sloppier – vaults". Eugene Register-Guard. (Oregon). p. 3D.
+ "Man who broke 15 feet defends fiberglass pole". Ocala Star-Banner. (Florida). Associated Press. 7 February 1962. p. 10.
+ "12th IAAF World Championships In Athletics: IAAF Statistics Handbook. Berlin 2009" (PDF). Monte Carlo: IAAF Media & Public Relations Department. 2009. p. 546. Archived from the original (PDF) on 29 June 2011. Retrieved 17 August 2009.
+ McCormick, Matthew. "Soaring to New Heights: The Evolution of Pole Vaulting and Pole Materials" Archived 26 February 2014 at the Wayback Machine. Illumin. Retrieved on 25 January 2014.
+ McGinnis, Peter (December 2015). "Mechanics of the pole vault" (PDF). usatf.org.
+ "How to Do the Pole Vault in Track and Field". ThoughtCo. Retrieved 2 May 2018.
+ Pole Vault - men - senior - outdoor. World Athletics. Retrieved on 2021-07-09.
+ Pole Vault - men - senior - indoor. World Athletics. Retrieved on 2021-07-09.
+ Pole Vault - women - senior - outdoor. World Athletics. Retrieved on 2021-07-09.
+ Pole Vault - women - senior - indoor. World Athletics. Retrieved on 2021-07-09.
+ US unit calculator for unofficial mark conversions in athletic events, hosted by USATF.org
+ "Track and Field Statistics". trackfield.brinkster.net. Retrieved 25 January 2019.
+ Note: Earle Meadows cleared the same height minutes later in the same competition
+ Note: George cleared 4.28 m (14 ft 1⁄2 in)
+ Note: George cleared 4.58 m (15 ft 1⁄4 in)

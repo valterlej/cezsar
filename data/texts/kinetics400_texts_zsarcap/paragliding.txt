@@ -1,0 +1,426 @@
+Paragliding
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Not to be confused with Parasailing or Hang gliding.
+Paragliding
+Paragliding 1350361.jpg
+Paragliding in Turkey (Advance canopy)
+Highest governing body	Fédération Aéronautique Internationale
+Characteristics
+Contact	No
+Mixed gender	Yes
+Type	Air sports
+Presence
+Country or region	Worldwide
+Olympic	No
+World Games	2013
+
+Governador Valadares, Brazil is known internationally for the World Paragliding Championships that has been held at Ibituruna Peak (1123 metres)
+
+Paragliding with instructor over Lake Sils St Moritz (approx 3000 metres) 2018
+Paragliding is the recreational and competitive adventure sport of flying paragliders: lightweight, free-flying, foot-launched glider aircraft with no rigid primary structure.[1] The pilot sits in a harness or lies supine in a cocoon-like 'speed bag' suspended below a fabric wing. Wing shape is maintained by the suspension lines, the pressure of air entering vents in the front of the wing, and the aerodynamic forces of the air flowing over the outside.
+
+Despite not using an engine, paraglider flights can last many hours and cover many hundreds of kilometres, though flights of one to two hours and covering some tens of kilometres are more the norm. By skillful exploitation of sources of lift, the pilot may gain height, often climbing to altitudes of a few thousand metres.
+
+
+Contents
+1	History
+2	Equipment
+2.1	Wing
+2.2	Harness
+2.3	Instruments in paragliding
+3	Ground handling
+3.1	Location
+4	Flying
+4.1	Launching
+4.1.1	Forward launch
+4.1.2	Reverse launch
+4.1.3	Towed launch
+4.2	Landing
+4.2.1	Traffic pattern
+4.2.2	Techniques
+4.3	Control
+4.3.1	Fast descents
+4.4	Soaring
+4.5	Thermal flying
+4.6	Cross-country flying
+4.7	In-flight wing deflation (collapse)
+5	As a competitive sport
+6	Safety
+7	Fitness and age
+8	Instruction
+9	World records
+10	Related activities
+10.1	Sky diving
+10.2	Hang gliding
+10.3	Powered hang glider
+10.4	Powered paragliding
+10.5	Speed flying
+10.6	Gliding
+11	National organizations
+12	Notes
+13	References
+14	Further reading
+15	External links
+History
+In 1966, Canadian Domina Jalbert was granted a patent for a multi-cell wing type aerial device—"a wing having a flexible canopy constituting an upper skin and with a plurality of longitudinally extending ribs forming in effect a wing corresponding to an airplane wing airfoil ... More particularly the invention contemplates the provision of a wing of rectangular or other shape having a canopy or top skin and a lower spaced apart bottom skin", a governable gliding parachute with multi-cells and controls for glide.[2]
+
+In 1954, Walter Neumark predicted (in an article in Flight magazine) a time when a glider pilot would be "able to launch himself by running over the edge of a cliff or down a slope ... whether on a rock-climbing holiday in Skye or skiing in the Alps."[3]
+
+In 1961, the French engineer Pierre Lemongine produced improved parachute designs that led to the Para-Commander (PC). The Para-Commander had cutouts at the rear and sides that enabled it to be towed into the air and steered, leading to parasailing/parascending.
+
+Domina Jalbert invented the parafoil, which had sectioned cells in an aerofoil shape; an open leading edge and a closed trailing edge, inflated by passage through the air – the ram-air design. He filed US Patent 3131894 on January 10, 1963.[4]
+
+
+Land-based practice: Kiting
+About that time, David Barish was developing the sail wing (single-surface wing) for recovery of NASA space capsules—"slope soaring was a way of testing out ... the Sail Wing."[5] After tests on Hunter Mountain, New York, in September 1965, he went on to promote slope soaring as a summer activity for ski resorts.[6][7]
+
+Author Walter Neumark wrote Operating Procedures for Ascending Parachutes, and in 1973 he and a group of enthusiasts with a passion for tow-launching PCs and ram-air parachutes broke away from the British Parachute Association to form the British Association of Parascending Clubs (which later became the British Hang Gliding and Paragliding Association). In 1997, Neumark was awarded the Gold Medal of the Royal Aero Club of the UK. Authors Patrick Gilligan (Canada) and Bertrand Dubuis (Switzerland) wrote the first flight manual, The Paragliding Manual in 1985, coining the word paragliding.
+
+These developments were combined in June 1978 by three friends, Jean-Claude Bétemps, André Bohn and Gérard Bosson, from Mieussy, Haute-Savoie, France. After inspiration from an article on slope soaring in the Parachute Manual magazine by parachutist and publisher Dan Poynter,[7] they calculated that on a suitable slope, a "square" ram-air parachute could be inflated by running down the slope; Bétemps launched from Pointe du Pertuiset, Mieussy, and flew 100 m. Bohn followed him and glided down to the football pitch in the valley 1000 metres below.[8] Parapente (pente being French for 'slope') was born.
+
+From the 1980s, equipment has continued to improve, and the number of paragliding pilots and established sites has continued to increase. The first (unofficial) Paragliding World Championship was held in Verbier, Switzerland, in 1987,[9] though the first officially sanctioned FAI World Paragliding Championship was held in Kössen, Austria, in 1989.[10]
+
+Europe has seen the greatest growth in paragliding, with France alone registering in 2011 over 25,000 active pilots.[11]
+
+Equipment
+Wing
+Cross section of a paraglider
+Transverse cross section showing parts of a paraglider:
+upper surface
+lower surface
+rib
+diagonal rib
+upper line cascade
+middle line cascade
+lower line cascade
+risers
+The paraglider wing or canopy is usually what is known in engineering as a ram-air airfoil. Such wings comprise two layers of fabric that are connected to internal supporting material in such a way as to form a row of cells. By leaving most of the cells open only at the leading edge, incoming air keeps the wing inflated, thus maintaining its shape. When inflated, the wing's cross-section has the typical teardrop aerofoil shape. Modern paraglider wings are made of high-performance non-porous materials such as ripstop polyester[12] or nylon fabric.[note 1]
+
+In some modern paragliders (from the 1990s onwards), especially higher-performance wings, some of the cells of the leading edge are closed to form a cleaner aerodynamic profile. Holes in the internal ribs allow a free flow of air from the open cells to these closed cells to inflate them, and also to the wingtips, which are also closed.[13]
+
+The pilot is supported underneath the wing by a network of suspension lines. These start with two sets of risers made of short (40 cm (16 in)) lengths of strong webbing. Each set is attached to the harness by a carabiner, one on each side of the pilot, and each riser of a set is generally attached to lines from only one row of its side of wing. At the end of each riser of the set, there is a small delta maillon with a number (2–5) of lines attached, forming a fan. These are typically 4–5 m (13–16 ft) long, with the end attached to 2–4 further lines of around 2 m (6.6 ft) m, which are again joined to a group of smaller, thinner lines. In some cases this is repeated for a fourth cascade.
+
+The top of each line is attached to small fabric loops sewn into the structure of the wing, which are generally arranged in rows running span-wise (i.e., side to side). The row of lines nearest the front are known as the A lines, the next row back the B lines, and so on.[14] A typical wing will have A, B, C and D lines, but recently, there has been a tendency to reduce the rows of lines to three, or even two (and experimentally to one), to reduce drag.
+
+Paraglider lines are usually made from UHMW polythene or aramid.[14] Although they look rather slender, these materials are immensely strong. For example, a single 0.66 mm-diameter line (about the thinnest used) can have a breaking strength of 56 kgf (550 N).[15]
+
+Paraglider wings typically have an area of 20–35 square metres (220–380 sq ft) with a span of 8–12 metres (26–39 ft) and weigh 3–7 kilograms (6.6–15.4 lb). Combined weight of wing, harness, reserve, instruments, helmet, etc. is around 12–22 kilograms (26–49 lb).
+
+The glide ratio of paragliders ranges from 9.3 for recreational wings to about 11.3 for modern competition models,[16] reaching in some cases up to 13.[17] For comparison, a typical skydiving parachute will achieve about 3:1 glide. A hang glider ranges from 9.5 for recreational wings to about 16.5 for modern competition models. An idling (gliding) Cessna 152 light aircraft will achieve 9:1. Some sailplanes can achieve a glide ratio of up to 72:1.
+
+The speed range of paragliders is typically 20–75 kilometres per hour (12–47 mph), from stall speed to maximum speed. Beginner wings will be in the lower part of this range, high-performance wings in the upper part of the range.[note 2]
+
+For storage and carrying, the wing is usually folded into a stuffsack (bag), which can then be stowed in a large backpack along with the harness. For pilots who may not want the added weight or fuss of a backpack, some modern harnesses include the ability to turn the harness inside out such that it becomes a backpack.
+
+Paragliders are unique among human-carrying aircraft in being easily portable. The complete equipment packs into a rucksack and can be carried easily on the pilot's back, in a car, or on public transport.[14] In comparison with other air sports, this substantially simplifies travel to a suitable takeoff spot, the selection of a landing place and return travel.
+
+Tandem paragliders, designed to carry the pilot and one passenger, are larger but otherwise similar. They usually fly faster with higher trim speeds, are more resistant to collapse, and have a slightly higher sink rate compared to solo paragliders.
+
+Harness
+
+A pilot with harness (light blue), performing a reverse launch
+
+The pilot is loosely and comfortably buckled into a harness, which offers support in both the standing and sitting positions. Most harnesses have foam or airbag protectors underneath the seat and behind the back to reduce the impact on failed launches or landings. Modern harnesses are designed to be as comfortable as a lounge chair in the sitting or reclining position. Many harnesses even have an adjustable lumbar support. A reserve parachute is also typically connected to a paragliding harness.
+
+Harnesses also vary according to the need of the pilot, and thereby come in a range of designs, mostly:
+
+training harness for beginners
+pax harness for tandem passengers that often also doubles as a training harness
+XC harness for long-distance cross-country flights
+all-round harness for basic to intermediate pilots
+pod harness for intermediate to pro pilots that focus on XC
+acro harnesses, special designs for acrobatic pilots
+kids tandem harnesses are also now available with special child-proof locks
+Instruments in paragliding
+Most pilots use variometers, radios, and, increasingly, GNSS units when they are flying.
+
+Variometer
+Main article: Variometer
+The main purpose of a variometer is in helping a pilot find and stay in the "core" of a thermal to maximise height gain and, conversely, to indicate when a pilot is in sinking air and needs to find rising air. Humans can sense the acceleration when they first hit a thermal, but cannot detect the difference between constant rising air and constant sinking air. Modern variometers are capable of detecting rates of climb or sink of 1 cm per second. A variometer indicates climb rate (or sink-rate) with short audio signals (beeps, which increase in pitch and tempo during ascent, and a droning sound, which gets deeper as the rate of descent increases) and/or a visual display. It also shows altitude: either above takeoff, above sea level, or (at higher altitudes) flight level.
+
+Radio
+Radio communications are used in training, to communicate with other pilots, and to report where and when they intend to land. These radios normally operate on a range of frequencies in different countries—some authorised,[18][19] some illegal but tolerated locally. Some local authorities (e.g., flight clubs) offer periodic automated weather updates on these frequencies. In rare cases, pilots use radios to talk to airport control towers or air traffic controllers. Many pilots carry a cell phone so they can call for pickup should they land away from their intended point of destination.
+
+GNSS
+GNSS is a necessary accessory when flying competitions, where it has to be demonstrated that way-points have been correctly passed. The recorded GNSS track of a flight can be used to analyze flying technique or can be shared with other pilots. GNSS is also used to determine drift due to the prevailing wind when flying at altitude, providing position information to allow restricted airspace to be avoided and identifying one's location for retrieval teams after landing out in unfamiliar territory. GNSS is integrated with some models of variometer. This is not only more convenient, but also allows for a three-dimensional record of the flight. The flight track can be used as proof for record claims, replacing the old method of photo documentation.
+
+Increasingly, smart phones are used as the primary means of navigation and flight logging, with several applications available to assist in air navigation. They are also used to co-ordinate tasks in competitive paragliding and facilitate retrieval of pilots returning to their point of launch. External variometers are typically used to assist in accurate altitude information.
+
+Ground handling
+Paraglider ground handling, also known as kiting, is the practice of handling the paraglider on land. The primary purpose of ground handling is to practice the skills necessary for launching and landing. However, ground handling could be considered a fun and challenging sport in and of itself.
+
+Ground handling is considered an essential part of most paragliding wing management training. It needs to be remembered that in any sort of stumble or tumble, the head is at risk and a helmet is therefore always advisable.
+
+It is highly recommended that low hour pilots, ground-handling, should be wearing a formal harness with leg and waist straps firmly fitted and fastened. Since 2015 the standard harness has become an inflatable type. This forms a protective cushion when, during flight, air is forced through a check valve and retained in a chamber behind and under the pilot. In ground-handling practice the amount of air passing through the check valve may be very slight. In an accident where the pilot has been lifted and dumped while facing downwind, the protection offered by an inflatable harness is likely to be minimal. The old fashioned foam type of harness has a special value in that sort of situation.
+
+Location
+The ideal launch training site for novices with standard wings has the following characteristics:
+
+Measured steady wind strength: 1 m/s to 4 m/s (3.6-14 km/h: 1.9-7.7 knots/h: 2.2-8.9 mph)
+The even, flat, surface should slope slightly downwards (2 or three degrees) from down-wind to up-wind (providing a small vertical lift component).
+The site must be isolated from uninvolved visitors.
+Free of obstructions that might create a trip or snag hazard.
+Soft surface, such as grass or sand, to reduce damage to the handler and wing in case of falls.
+Novices should wear a harness and helmet and be accompanied by an appropriate adult.
+As pilots progress, they may challenge themselves by kiting over and around obstacles, in strong or turbulent wind, and on greater slopes.
+
+Flying
+3d CAD drawing of a paraglider
+3d CAD drawing of a paraglider showing the upper surface in green, the lower surface in blue and the leading edge openings in pink. Only the left half of the suspension cone is shown.
+Launching
+
+Paraglider towed launch, Mirosławice, Poland
+
+A paramotor landing at Azheekkod beach, India
+As with all aircraft, launching and landing are done into wind. The wing is placed into an airstream, either by running or being pulled, or an existing wind. The wing moves up over the pilot into a position in which it can carry the passenger. The pilot is then lifted from the ground and, after a safety period, can sit down into his harness. Unlike skydivers, paragliders, like hang gliders, do not jump at any time during this process. There are two launching techniques used on higher ground[20] and one assisted launch technique used in flatland areas:
+
+Forward launch
+In low winds, the wing is inflated with a forward launch, where the pilot runs forward with the wing behind so that the air pressure generated by the forward movement inflates the wing.
+
+It is often easier, because the pilot only has to run forward, but the pilot cannot see his wing until it is above him, where he has to check it in a very short time for correct inflation and untangled lines before the launch.
+
+Reverse launch
+File:Paraglider launch Mam Tor.ogv
+Paraglider reverse launch, Mam Tor, England
+In higher winds, a reverse launch is used, with the pilot facing the wing to bring it up into a flying position, then turning around under the wing and running to complete the launch.
+
+Reverse launches have a number of advantages over a forward launch. It is more straightforward to inspect the wing and check if the lines are free as it leaves the ground. In the presence of wind, the pilot can be tugged toward the wing, and facing the wing makes it easier to resist this force and safer in case the pilot slips (as opposed to being dragged backwards). However, the movement pattern is more complex than forward launch, and the pilot has to hold the brakes in a correct way and turn to the correct side so he does not tangle the lines. These launches are normally attempted with a reasonable wind speed, making the ground speed required to pressurise the wing much lower.
+
+The launch is initiated by the hands raising the leading edge with the As. As it rises the wing is controlled more by centring the feet than by use of the brakes or Cs. With mid level wings (EN C and D) the wing may try to "overshoot" the pilot as it nears the top. This is checked with Cs or brakes. The wing becomes increasingly sensitive to the Cs and brakes as its internal air pressure rises. This is usually felt from increasing lift of the wing applying harness pressure to the "seat of the pants". That pressure indicates that the wing is likely to remain stable when the pilot pirouettes to face the wind.
+
+The next step in the launch is to bring the wing into the lift zone. There are two techniques for accomplishing this depending on wind conditions. In light wind this is usually done after turning to the front, steering with the feet towards the low wing tip, and applying light brakes in a natural sense to keep the wing horizontal. In stronger wind conditions it is often found to be easier to remain facing downwind while moving slowly and steadily backwards into the wind.
+
+Knees bent to load the wing, foot adjustments to remain central and minimum use of Cs or Brakes to keep the wing horizontal. Pirouette when the feet are close to lifting. This option has two distinct advantages. a) The pilot can see the wing centre marker (an aid to centring the feet) and, if necessary, b) the pilot can move briskly towards the wing to assist with an emergency deflation.
+
+With either method it is essential to check "traffic" across the launch face before committing to flight.
+
+The A's and C's technique described above is well suited to low-hours pilots, on standard wings, in wind strengths up to 10 knots. It is particularly recommended for kiting. As wind speed increases (above ten knots), especially on steep ridges, the use of the C's introduces the potential to be lifted before the wing is overhead due to the increased angle of attack. That type of premature lift often results in the pilot's weight swinging downwind rapidly, resulting in a frontal tuck (due to excess A line loads). In that situation the pilot commonly drops vertically and injuries are not uncommon. In ridge soaring situations above ten knots it is almost always better to lift the wing with A's only and use the brakes to stop any potential overshoot. The brakes do not usually increase the angle of attack as much C's. As wind strength increases it becomes more important than ever for the pilot to keep the wing loaded by bending the knees and pushing the shoulders forward. Most pilots will find that when their hands are vertically under the brake line pulleys they are able reduce trailing edge drag to the absolute minimum. That is not so easy for most, when the arms are thrust rearwards.
+
+Towed launch
+File:Parapente.ogv
+Paraglider launching in Araxá, Brazil
+File:Mussel Rock Gliding Bluffs - Pacifica, California.webm
+A paragliding flight over the Mussel Rock Gliding Bluffs in Pacifica, California
+In flatter countryside, pilots can also be launched with a tow. Once at full height (towing can launch pilots up to 3000 feet altitude), the pilot pulls a release cord, and the towline falls away. This requires separate training, as flying on a winch has quite different characteristics from free flying. There are two major ways to tow: pay-in and pay-out towing. Pay-in towing involves a stationary winch that winds in the towline and thereby pulls the pilot in the air. The distance between winch and pilot at the start is around 500 metres or more. Pay-out towing involves a moving object, like a car or a boat, that pays out line slower than the speed of the object, thereby pulling the pilot up in the air. In both cases, it is very important to have a gauge indicating line tension to avoid pulling the pilot out of the air. Another form of towing is static line towing. This involves a moving object, like a car or a boat, attached to a paraglider or hang glider with a fixed-length line. This can be very dangerous, because now the forces on the line have to be controlled by the moving object itself, which is almost impossible to do, unless stretchy rope and a pressure/tension meter (dynamometer) is used. Static line towing with stretchy rope and a load cell as a tension meter has been used in Poland, Ukraine, Russia, and other Eastern European countries for over twenty years (under the name Malinka) with about the same safety record as other forms of towing.[21] One more form of towing is hand towing. This is where 1−3 people pull a paraglider using a tow rope of up to 500 feet. The stronger the wind, the fewer people are needed for a successful hand tow.[22] Tows up to 300 feet have been accomplished, allowing the pilot to get into a lift band of a nearby ridge or row of buildings and ridge-soar in the lift the same way as with a regular foot launch.[23]
+
+Landing
+Landing a paraglider, as with all unpowered aircraft which cannot abort a landing, involves some specific techniques and traffic patterns.[24] Paragliding pilots most commonly lose their height by flying a figure 8 over a landing zone until the correct height is achieved, then line up into the wind and give the glider full speed. Once the correct height (about a metre above ground) is achieved the pilot will stall the glider in order to land.
+
+Traffic pattern
+Unlike during launch, where coordination between multiple pilots is straightforward, landing involves more planning, because more than one pilot might have to land at the same time. Therefore, a specific traffic pattern has been established. Pilots line up into a position above the airfield and to the side of the landing area, which is dependent on the wind direction, where they can lose height (if necessary) by flying circles. From this position, they follow the legs of a flightpath in a rectangular pattern to the landing zone: downwind leg, base leg, and final approach. This allows for synchronization between multiple pilots and reduces the risk of collisions, because a pilot can anticipate what other pilots around him are going to do next.
+
+Techniques
+Landing involves lining up for an approach into wind and, just before touching down, flaring the wing to minimise vertical and/or horizontal speed. This consists of gently going from 0% brake at around two metres to 100% brake when touching down on the ground.
+
+During the approach descent, at around four metres before touching ground, some momentary braking (50% for around two seconds) can be applied then released, thus using forward pendular momentum to gain speed for flaring more effectively and approaching the ground with minimal vertical speed.
+
+In light winds, some minor running is common. In moderate to medium headwinds, the landings can be without forward speed, or even going backwards with respect to the ground in strong winds. Landing with winds which force the pilot backwards are particularly hazardous as there is a potential to tumble and be dragged. While the wing is vertically above the pilot there is potential for a reduced risk deflation. This involves taking the leading edge lines (As) in each hand at the mallion/riser junction and applying the pilot's full weight with a deep knee bend action. In almost every case the wing's leading edge will fly forward a little and then tuck. It is then likely to collapse and descend upwind of the pilot. On the ground it will be restrained by the pilot's legs.
+
+Landing in winds which are too strong for the wing is to be avoided wherever possible. During approach to the intended landing site this potential problem is often obvious and there may be opportunities to extend the flight to find a more sheltered landing area. On every landing it is desirable to have the wing remain flyable with a small amount of forward momentum. This makes deflation much more controllable. While the midsection lines (Bs) are vertical there is much less chance of the wing moving downwind fast. The common deflation cue comes from a vigorous tug on the rear risers' lines (Cs or Ds). Promptly rotate to face down wind, maintain pressure on the rear risers and take brisk steps towards the wing as it falls. With practice there is potential for precision enabling safe trouble-free landing.
+
+For strong winds during the landing approach, flapping the wing (symmetrical pulsing of brakes) is a common option on final. It reduces the wing's lift performance. The descent rate is increases by the alternate application and release of the brakes about once per second. (The amount of brake applied in each cycle being variable but about 25%.) The system depends on the pilot's wing familiarity. The wing must not become stalled. This should be established with gentle applications in flight, at a safe height, in good conditions and with an observer providing feedback. As a rule the manufacturer has set the safe-brake-travel-range based on average body proportions for pilots in the approved weight range. Making changes to that setting should be undertaken in small increases, with tell-tale marks showing the variations and a test flight to confirm the desired effect. Shortening the brake lines can produce the problematic effect of making the wing sluggish. Lengthening brakes excessively can make it hard to bring the wing to a safe touchdown speed.
+
+Alternative approach techniques for landing in strong winds include the use of a speed bar and big ears. A speed bar increases wing penetration and adds a small increase in the vertical descent rate. This makes it easier to adjust descent rates during a formal circuit. In an extreme situation it might be advisable to stand on the speed bar, after shifting out of the harness, and stay on it till touchdown and deflation. Big ears are commonly applied during circuit height management. The vertical descent speed is increased and that advantage can be used to bring the glider to an appropriate circuit joining height. Most manufacturers change the operation technique for big ears in advanced models. It is common for Big Ears in C-rated gliders to remain folded in after the control line is released. In those cases the wing can be landed with reasonable safety with big ears deployed. In those wing types it usually takes two or three symmetrical pumps with brakes, over a second or two, to re-inflate the tips. In lower rated wings the Big Ears need the line to remain held to hold the ears in. While they are held-in the wing tends to respond to weight shift slightly better (due to reduced effective area) on the roll axis. They auto re-inflate when the line is released. In general those wings are better suited to the situation where the ears are pulled in simply to get rid of excess height. Full-wing flight should then be resumed during base leg or several seconds before touch down. Wing familiarity is a key ingredient in applying these controls. Pilots should practise in medium conditions in a safe area, at a safe height and with options for landing.
+
+Control
+
+Speedbar mechanism
+Brakes: controls held in each of the pilot's hands connect to the trailing edge of the left and right sides of the wing. These controls are called brakes and provide the primary and most general means of control in a paraglider. The brakes are used to adjust speed, to steer (in addition to weight shift), and to flare (during landing).
+
+Weight shift: in addition to manipulating the brakes, a paraglider pilot must also lean in order to steer properly. Such weight shifting can also be used for more limited steering when brake use is unavailable, such as when under "big ears" (see below). More advanced control techniques may also involve weight shifting.
+
+Speed bar: a kind of foot control called the speed bar (also accelerator) attaches to the paragliding harness and connects to the leading edge of the paraglider wing, usually through a system of at least two pulleys (see animation in margin). This control is used to increase speed and does so by decreasing the wing's angle of attack. This control is necessary because the brakes can only slow the wing from what is called trim speed (no brakes applied). The accelerator is needed to go faster than this.
+
+More advanced means of control can be obtained by manipulating the paraglider's risers or lines directly. Most commonly, the lines connecting to the outermost points of the wing's leading edge can be used to induce the wingtips to fold under. The technique, known as "big ears", is used to increase the rate of descent (see picture and the full description below). The risers connecting to the rear of the wing can also be manipulated for steering if the brakes have been severed or are otherwise unavailable. For ground-handling purposes, a direct manipulation of these lines can be more effective and offer more control than the brakes. The effect of sudden wind blasts can be countered by directly pulling on the risers and making the wing unflyable, thereby avoiding falls or unintentional takeoffs.
+
+Fast descents
+Problems with getting down can occur when the lift situation is very good or when the weather changes unexpectedly. There are three possibilities for rapidly reducing altitude in such situations, each of which has benefits and issues to be aware of. The "big ears" manoeuvre induces descent rates of 2.5 to 3.5 m/s, 4–6 m/s with additional speed bar. It is the most controllable of the techniques and the easiest for beginners to learn. The B-line stall induces descent rates of 6–10 m/s. It increases loading on parts of the wing (the pilot's weight is mostly on the B-lines, instead of spread across all the lines). Finally, a spiral dive offers the fastest rate of descent, at 7–25 m/s. It places greater loads on the wing than other techniques do and requires the highest level of skill from the pilot to execute safely.
+
+Big ears
+
+Paraglider in "Big Ears" manoeuvre
+Pulling on the outer A-lines during non-accelerated, normal flight folds the wing tips inwards, which substantially reduces the glide angle with only a small decrease in forward speed. As the effective wing area is reduced, the wing loading is increased, and it becomes more stable. However, the angle of attack is increased, and the craft is closer to stall speed, but this can be ameliorated by applying the speed bar, which also increases the descent rate. When the lines are released, the wing re-inflates. If necessary, a short pumping on the brakes helps reentering normal flight. Compared to the other techniques, with big ears, the wing still glides forward, which enables the pilot to leave an area of danger. Even landing this way is possible, e.g., if the pilot has to counter an updraft on a slope.
+B-line stall
+In a B-line stall, the second set of risers from the leading-edge/front (the B-lines) are pulled down independently of the other risers, with the specific lines used to initiate a stall. This puts a spanwise crease in the wing, thereby separating the airflow from the upper surface of the wing. It dramatically reduces the lift produced by the canopy and thus induces a higher rate of descent. This can be a strenuous manoeuvre, because these B-lines have to be held in this position, and the tension of the wing puts an upwards force on these lines. The release of these lines has to be handled carefully not to provoke a too fast forward shooting of the wing, which the pilot then could fall into. This is less popular now as it induces high loads on the internal structure of the wing.
+Spiral dive
+The spiral dive is the most rapid form of controlled fast descent; an aggressive spiral dive can achieve a sink rate of 25 m/s. This manoeuvre halts forward progress and brings the flier almost straight down. The pilot pulls the brakes on one side and shifts his weight onto that side to induce a sharp turn. The flight path then begins to resembles a corkscrew. After a specific downward speed is reached, the wing points directly to the ground. When the pilot reaches his desired height, he ends this manoeuvre by slowly releasing the inner brake, shifting his weight to the outer side and braking on this side. The release of the inner brake has to be handled carefully to end the spiral dive gently in a few turns. If done too fast, the wing translates the turning into a dangerous upward and pendular motion.
+Spiral dives put a strong G-force on the wing and glider and must be done carefully and skilfully. The G-forces involved can induce blackouts, and the rotation can produce disorientation. Some high-end gliders have what is called a "stable spiral problem".[25] After inducing a spiral and without further pilot input, some wings do not automatically return to normal flight and stay inside their spiral. Serious injury and fatal accidents have occurred when pilots could not exit this manoeuvre and spiralled into the ground.
+The rate of rotation in a spiral dive can be reduced by using a drogue chute, deployed just before the spiral is induced. This reduces the G forces experienced.[26]
+
+Soaring
+
+Ridge soaring along the California coast
+Soaring flight is achieved by using wind directed upwards by a fixed object such as a dune or ridge. In slope soaring, pilots fly along the length of a slope feature in the landscape, relying on the lift provided by the air, which is forced up as it passes over the slope. Slope soaring is highly dependent on a steady wind within a defined range (the suitable range depends on the performance of the wing and the skill of the pilot). Too little wind, and insufficient lift is available to stay airborne (pilots end up scratching along the slope). With more wind, gliders can fly well above and forward of the slope, but too much wind, and there is a risk of being blown back over the slope. A particular form of ridge soaring is called condo soaring, where pilots soar a row of buildings that form an artificial ridge. This form of soaring is particularly used in flat lands where there are no natural ridges, but there are plenty of man-made building ridges.
+
+Thermal flying
+
+Paragliders in the air at Torrey Pines Gliderport
+When the sun warms the ground, the ground will radiate some of its heat to a thin layer of air situated just above it. Air has very poor thermal conductivity and most of the heat transfer in it will be convective - forming rising columns of hot air, called thermals. If the terrain is not uniform, it will warm some features more than others (such as rock faces or large buildings) and these thermals will tend to always form at the same spot, otherwise they will be more random. Sometimes these may be a simple rising column of air; more often, they are blown sideways in the wind and will break off from the source, with a new thermal forming later.
+
+Once a pilot finds a thermal, he begins to fly in a circle, trying to centre the circle on the strongest part of the thermal (the "core"), where the air is rising the fastest. Most pilots use a vario-altimeter ("vario"), which indicates climb rate with beeps and/or a visual display, to help core in on a thermal.
+
+Often there is strong sink surrounding thermals, and there is also strong turbulence resulting in wing collapses as a pilot tries to enter a strong thermal. Good thermal flying is a skill that takes time to learn, but a good pilot can often core a thermal all the way to cloud base.
+
+Cross-country flying
+Once the skills of using thermals to gain altitude have been mastered, pilots can glide from one thermal to the next to go cross country. Having gained altitude in a thermal, a pilot glides down to the next available thermal.
+
+Potential thermals can be identified by land features that typically generate thermals or by cumulus clouds, which mark the top of a rising column of warm, humid air as it reaches the dew point and condenses to form a cloud.
+
+Cross-country pilots also need an intimate familiarity with air law, flying regulations, aviation maps indicating restricted airspace, etc.
+
+In-flight wing deflation (collapse)
+Since the shape of the wing (airfoil) is formed by the moving air entering and inflating the wing, in turbulent air, part or all of the wing can deflate (collapse). Piloting techniques referred to as active flying will greatly reduce the frequency and severity of deflations or collapses. On modern recreational wings, such deflations will normally recover without pilot intervention. In the event of a severe deflation, correct pilot input will speed recovery from a deflation, but incorrect pilot input may slow the return of the glider to normal flight, so pilot training and practice in correct response to deflations are necessary.
+
+For the rare occasions when it is not possible to recover from a deflation (or from other threatening situations such as a spin), most pilots carry a reserve (rescue, emergency) parachute (or even two); however, most pilots never have cause to "throw" their reserve. Should a wing deflation occur at low altitude, i.e., shortly after takeoff or just before landing, the wing (paraglider) may not recover its correct structure rapidly enough to prevent an accident, with the pilot often not having enough altitude remaining to deploy a reserve parachute [with the minimum altitude for this being approximately 60 m (200 ft), but typical deployment to stabilization periods using up 120–180 m (390–590 ft) of altitude] successfully. Different packing methods of the reserve parachute affect its deploying time.
+
+Low-altitude wing failure can result in serious injury or death due to the subsequent velocity of a ground impact whereas a higher altitude failure may allow more time to regain some degree of control in the descent rate and, critically, deploy the reserve if needed. In-flight wing deflation and other hazards are minimized by flying a suitable glider and choosing appropriate weather conditions and locations for the pilot's skill and experience level.
+
+As a competitive sport
+
+An Ozone Enzo 3, a wing commonly seen at competitions
+There are various disciplines of competitive paragliding:
+
+Cross-country flying is the classical form of paragliding competitions with championships in club, regional, national and international levels (see PWC).
+Aerobatic competitions demand the participants to perform certain manoeuvres. Competitions are held for individual pilots as well as for pairs that show synchronous performances. This form is the most spectacular for spectators on the ground to watch.
+Hike & Fly competitions, in which a certain route has to be flown or hiked only over several days: Red Bull X-Alps—the unofficial world championship in this category of competition—first launched in 2003 and has since taken place every other year.
+In addition to these organized events it is also possible to participate in various online contests that require participants to upload flight track data to dedicated websites like OLC.
+
+Safety
+File:Decolagemparapente.ogv
+Paraglider launch video in Araxá, Brazil
+Paragliding, like any extreme sport, is a potentially dangerous activity. In the United States, for example, in 2010 (the last year for which details are available[27]), one paraglider pilot died. This is an equivalent rate of one in 5,000 pilots. Over the years 1994−2010, an average of seven in every 10,000 active paraglider pilots have been fatally injured, though with a marked improvement in recent years. In France (with over 25,000 registered fliers), two of every 10,000 pilots were fatally injured in 2011 (a rate that is not atypical of the years 2007−2011), although around six of every 1,000 pilots were seriously injured (more than two-day hospital stay).[11]
+
+The potential for injury can be significantly reduced by training and risk management. The use of proper equipment such as a wing designed for the pilot's size and skill level,[28] as well as a helmet, a reserve parachute,[29] and a cushioned harness[30] also minimize risk. Pilot safety is influenced by an understanding of the site conditions such as air turbulence (rotors), strong thermals, gusty wind, and ground obstacles such as power lines. Sufficient pilot training in wing control and emergency manoeuvres from competent instructors can minimize accidents. Many paragliding accidents are the result of a combination of pilot error and poor flying conditions.
+
+SIV, short for Simulation d’Incident en Vol (simulation of incident in flight) instruction offers training in managing and preventing unstable and potentially dangerous situations such as collapses, full stalls, and cravattes. These courses are typically led by a specially trained instructor over large bodies of water, with the student usually being instructed via radio. Students will be taught how to induce dangerous situations, and thus learn how to both avoid and remedy them once induced. This course is recommended to pilots who are looking to move to more high performance and less stable wings, which is a natural progression for most pilots. In some countries a SIV course is a basic requirement of initial pilot training. In the event of an unrecoverable manoeuvre resulting in water landing, a rescue boat is typically dispatched to collect the pilot. Other added safety features may include buoyancy aids or secondary reserve parachutes. These courses are not considered essential for novice level flying.
+
+Fitness and age
+Paragliding in ordinary circumstances is not especially demanding in terms of strength. It sometimes needs a Pilot to walk with equipment to and from a launch site and this occasionally requires assistance from a friend or colleague. Age is more significant in people past their fifties. This especially relates to those with artificial joints. An unexpected or heavy landing can put enormous pressure on the bones which serve as anchors for hips and knee joints. Due to increasing loss of bone density in senior pilots, there is an increased risk that during a bad landing a bone may shatter and this considerably complicates moving to an appropriate treatment centre. Currently surgeons often rate these prosthetic joints as being suitable only for smooth, steady, work loads. But even for those with ordinary knees and hips there is often a stiffness in walking and running which has a negative effect on launching. Pilots who recognise this minor debility usually avoid strong wind launches, which may demand the pilot to move briskly towards the wing during inflation.
+
+There are pilots still flying while in their nineties but these are exceptional and they may very well depend on specific assistance. It is important that you consult your doctor if you have any doubts about your continued flying following any serious health event. It is especially important to carry, in your flight pack, an up to date list of details relating to medications and major health issues.
+
+Instruction
+Most popular paragliding regions have a number of schools, generally registered with and/or organized by national associations. Certification systems vary widely between countries, though around 10 days instruction to basic certification is standard.
+
+
+Flying above Stubaital, Austria
+
+Tandem Paragliding at Painan, Indonesia
+
+Tandem Paraglading in Elgeyo Escarpment
+There are several key components to a paragliding pilot certification instruction program. Initial training for beginning pilots usually begins with some amount of ground school to discuss the basics, including elementary theories of flight as well as basic structure and operation of the paraglider.
+
+Students then learn how to control the glider on the ground, practising take-offs and controlling the wing 'overhead'. Low, gentle hills are next where students get their first short flights, flying at very low altitudes, to get used to the handling of the wing over varied terrain. Special winches can be used to tow the glider to low altitude in areas that have no hills readily available.
+
+As their skills progress, students move on to steeper/higher hills (or higher winch tows), making longer flights, and learning to turn the glider, control the glider's speed, then moving on to 360° turns, spot landings, ‘big ears’ (used to increase the rate of descent for the paraglider), and other more advanced techniques. Training instructions are often provided to the student via radio, particularly during the first flights.
+
+A third key component to a complete paragliding instructional program provides substantial background in the key areas of meteorology, aviation law, and general flight area etiquette.
+
+To give prospective pilots a chance to determine if they would like to proceed with a full pilot training program, most schools offer tandem flights, in which an experienced instructor pilots the paraglider with the prospective pilot as a passenger. Schools often offer pilot's families and friends the opportunity to fly tandem, and sometimes sell tandem pleasure flights at holiday resorts.
+
+Most recognised courses lead to a national licence and an internationally recognised International Pilot Proficiency Information/Identification card. The IPPI specifies five stages of paragliding proficiency, from the entry level ParaPro 1[31] to the most advanced stage 5. Attaining a level of ParaPro 3 typically allows the pilot to fly solo or without instructor supervision.
+
+World records
+FAI (Fédération Aéronautique Internationale) world records:[32]
+
+Straight distance – 582 km (362 mi): Marcel Prieto (Brazil),[33][34] Rafael de Maraes Barros (Brazil)[35][36] and Rafael Monteiro Saladini (Brazil);[37][38] Tacima (Brazil) – Paraíba (Brazil) – 10 October 2019
+Straight distance (female) – 552.4 km (343.2 mi): Yael Margelisch (Switzerland); Caicó (Brazil) – 12 October 2019 flying an Enzo 3[39][40]
+Straight distance to declared goal – 478.6 km (297.4 mi): Jouni Makkonen (Finland); Brazil; 11 October 2018, flying an Enzo 3[41]
+Gain of height – 5,854 m (19,206 ft): Antoine Girard (France); Aconcagua (Argentina); 15 February 2019, flying an Ozone LM6[42]
+Others:
+
+Highest flight – 9,947 m (32,635 ft) : Ewa Wisnierska; between Barraba and Niagra (Australia).[43]
+Related activities
+Sky diving
+Parachutes have the most resemblance with paragliders but the sports are very different. Whereas with sky diving the parachute is a tool to safely return to earth after free fall, the paraglider allows longer flights and the use of thermals.
+
+Hang gliding
+Hang gliding is a close cousin, and hang glider and paraglider launches are often found in proximity to one another.[44] Despite the considerable difference in equipment, the two activities offer similar pleasures, and some pilots are involved in both sports.
+
+Powered hang glider
+Foot-launched powered hang gliders are powered by an engine and propeller in pusher configuration. An ordinary hang glider is used for its wing and control frame, and the pilot can foot-launch from a hill or from flat ground.
+
+Powered paragliding
+Powered paragliding is the flying of paragliders with a small engine known as a paramotor attached. Powered paragliding is known as paramotoring and requires extra training alongside regular paragliding training. It is often recommended to become competent in paragliding prior to learning to paramotor in order to know fully what one is doing.
+
+Speed flying
+Speed flying, or speed riding, is the separate sport of flying paragliders of a reduced size. These wings have increased speed, though they are not normally capable of soaring flight. The sport involves taking off on skis or on foot and swooping rapidly down in close proximity to a slope, even periodically touching it if skis are used. These smaller wings are also sometimes used where wind speeds are too high for a full-sized paraglider, although this is invariably at coastal sites where the wind is laminar and not subject to as much mechanical turbulence as inland sites.
+
+Gliding
+Just like sailplanes and hang gliders, paragliders use thermals to extend the time in the air. Air speed, glide ratio and flight distances are superior to the ones achieved by paragliders. Paragliders on the other hand are able to also facilitate thermals that are too small (because of the much larger turn radius) or too weak for gliding.
+
+Paragliding can be of local importance as a commercial activity.[45][46] Paid accompanied tandem flights are available in many mountainous regions, both in the winter and in the summer. In addition, there are many schools offering courses[47] and guides who lead groups of more experienced pilots exploring an area. Finally, there are the manufacturers and the associated repair and after-sales services. Paraglider-like wings also find other uses, for example, in ship propulsion and wind energy exploitation, and are related to some forms of power kite. Kite skiing uses equipment similar to paragliding sails.
+
+National organizations
+United States Hang Gliding and Paragliding Association (USHPA) – United States
+British Hang Gliding and Paragliding Association (BHPA) – United Kingdom
+Flyability – BHPA associated charity for disabled paragliding and hang gliding
+Fédération Française de Vol Libre (FFVL) – France[48]
+Association of Paragliding Pilots and Instructors (APPI)[49]
+Hang Gliding and Paragliding Association of Canada (HPAC) – Canada[50]
+Federación Argentina de Vuelo Libre (FAVL) – Argentina[51]
+Deutscher Hängegleiter Verband (DHV) (Eng. German hang gliding association) – Germany[52]
+Sports Aviation Federation of Australia (SAFA), previously known as the Hang Gliding Federation of Australia (HGFA) – Australia
+Swiss Hang Gliding Association (SHV/FSVL) – Switzerland[53]
+Georgian Paragliding Federation (GPF) – Georgia
+South African Hang Gliding and Paragliding Association - SAHPA – South Africa [54]
+Notes
+ e.g. Gelvenor OLKS
+ Note:The range for safe flying will be somewhat smaller.
+References
+ Whittall, Noel (2002), Paragliding: The Complete 'Guide, Airlife Pub, ISBN 1-84037-016-5
+ US 3285546A, Domina C. Jalbert, "Multi-cell wing type aerial device", issued 1966-11-15
+ Walter Neumark, "The Future of Soaring", Flight magazine, 14 May 1954
+ "History of Paragliding". Circlinghawk.com. Archived from the original on 2009-09-13. Retrieved 2010-05-18.
+ "Pilot Profile: David Barish, the Probable Inventor of the Paraglider". Ushpa.aero. Retrieved 2019-10-14.
+ Note: apparently without great success
+ "David Barish, The Forgotten Father of Paragliding". Flyaboveall.com. Archived from the original on 2010-10-29. Retrieved 2010-05-18.
+ Jean-Claude Bétemps: “J’ai inventé le parapente” Archived 2008-02-19 at the Wayback Machine
+ "Catalogue collectif suisse des affiches" (in French). Archived from the original on 2016-11-20. Retrieved 2013-04-17.
+ "1st FAI world Paragliding Championship". FAI.
+ "2011 FFVL Member Accident Report" (PDF) (in French). French Federation of Free Flight (FFVL). Retrieved 18 January 2012.
+ Dan Poynter (1 May 1991). The Parachute Manual: A Technical Treatise on Aerodynamic Decelerators. Para Publishing. p. 77. ISBN 978-0-915516-80-3. Retrieved 28 December 2012.
+ Paraglider wing information; para2000.org
+ Pagen, Dennis (1990), Paragliding Flight: Walking on Air, Pagen Books, ISBN 0-936310-09-X
+ Steve Uzochukwu, Paragliding lines, Skywings Magazine, archived from the original on 2011-10-29
+ FAI Website "Archived copy". Archived from the original on 2010-05-12. Retrieved 2010-05-06.
+ U6 at glide ratio competition 2013 http://www.aircross.eu/net/u6-made-longest-flight-at-glide-ratio-competition-2013/?lang=en
+ USHPA Frequencies Archived 2013-10-22 at the Wayback Machine, Authorized USHPA frequencies
+ USHPA Radio Authorizations, USHPA Handbook
+ Peter Cröniger (July 2007). "Aufziehen Kontrollieren Starten" (PDF) (in German). DHV. pp. 41–42. Retrieved 5 December 2014.
+ "Малинка. Суть процесса и принцип организации буксировки. :: Форумы Paraplan.Ru".
+ Greg Flymeister (3 June 2014). "15-second hand-tow launch" – via YouTube.
+ Greg Flymeister (11 January 2014). "One Flew Over Florida Coast II" – via YouTube.
+ Peter Cröniger (March 2011). "Perfekte Landeeinteilung für Gleitschirm und Drachen" (pdf). DHV-Info (in German). DHV (169): 61–65. Retrieved 5 December 2014.
+ "Ozone Paragliders > InfoZone > Tipps und Ratschläge".
+ "PRODUCTS THE ANTI-G :: INFO". Ozone. Retrieved 23 March 2017.
+ Steed, Mike. "2010 US Paragliding Injury Summary". The United States Hang Gliding and Paragliding Association. Retrieved 15 October 2019.
+ "EN 926-2:2005".
+ "EN 12491:2001".
+ "EN 1651:1999".
+ "Paragliding 101: Nepali Style". Retrieved 2012-03-17.
+ "FAI Hang Gliding and Paragliding World Records".
+ "Marcelo Prieto (BRA) (19123)". www.fai.org. 2019-10-14. Retrieved 2020-12-11.
+ "Marcelo Prieto (Ceceu) • 10.10.2019 • − 588.60 km". www.xcontest.org. Retrieved 2020-12-11.
+ "Rafael de Moraes Barros (BRA) (19125)". www.fai.org. 2019-10-14. Retrieved 2020-12-11.
+ "Rafael Barros • 10.10.2019 • − 588.31 km". www.xcontest.org. Retrieved 2020-12-11.
+ "Rafael Monteiro Saladini (BRA) (19127)". www.fai.org. 2019-10-14. Retrieved 2020-12-11.
+ "Rafael Saladini • 10.10.2019 • − 588.45 km". www.xcontest.org. Retrieved 2020-12-11.
+ "FAI Record ID #19132". 2019-12-16.
+ "Paragliding world records tumble over four days in Brazil". 2019-12-16.
+ "FAI Record ID #18723". 2019-03-01.
+ "Fai Record ID #18853". 2019-11-02.
+ "Ewa sucked into storm and lives to tell". 26 July 2016.
+ French Sites Guide (in French), FFVL
+ Paragliding in the Annecy Basin (PDF) (in French), DRDJS Rhone Alpes, archived from the original (PDF) on December 3, 2010, retrieved October 30, 2011
+ Kohli, M.S. (2004), Mountains of India: Tourism, Adventure, Pilgrimage, Indus Publishing, pp. 289–90, ISBN 978-81-7387-135-1
+ British Schools, BHPA, archived from the original on 2011-10-04
+ "FFVL.FR - Site officiel de la Fédération Française de Vol Libre". federation.ffvl.fr.
+ "APPI : Association of Paragliding Pilots and Instructors". appifly.org.
+ "Hang Gliding and Paragliding Association of Canada". www.hpac.ca.
+ "FAVL.com.ar - Official site of the National Hang Gliding and Paragliding Association of Argentina". favl.com.ar.
+ "DHV Hanggliding and Paragliding in Germany: Home English". www.dhv.de.
+ "Schweizerischer Hängegleiter-Verband".
+ "SAHPA".
+Further reading

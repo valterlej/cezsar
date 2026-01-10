@@ -1,0 +1,65 @@
+Pushing and Pulling Safely: 4 Tips to Prevent Cart-Handling Injuries and Back Pain
+2/4/21
+Grainger Editorial Staff
+
+
+Maneuvering a utility cart can be hard on your body. When you're pushing, pulling or turning a heavy cart to get it where it needs to be, your joints are subject to compression, torque and shearing forces. Over time, this may lead to lower-back pain, knee strain or other musculoskeletal disorders (MSDs).
+
+Good ergonomic practices can help prevent MSDs for people who push or pull carts as part of their work. Regardless of the type of cart you choose, these four tips are a great place to start:
+
+Lighten the Load
+
+The total weight of the cart being handled is the single factor that has the greatest influence on the amount of strain on the worker, according to research published in Safety and Heath at Work.
+
+Reducing the maximum weight of the loads that workers routinely handle is likely to lower the risk for MSDs. If it's not possible to reduce total cart weight, consider using powered equipment such as a tugger to assist.
+Keep It Rolling
+
+Carts that roll easily are easier to maneuver without straining muscles and joints. Lubrication and other regular preventive maintenance of casters and wheels can help keep things moving. An under-inflated pneumatic tire or a wheel that's binding instead of rolling freely can cause unneeded strain on the person moving the cart.
+
+The size of the wheels and the material they're made from also influences how easy it is to move the cart. In general, larger wheels made from harder material make carts easier to move because they lower the carts' starting resistance and rolling resistance.
+Get a Grip
+
+Handle configuration and design also have an influence on how taxing it is to move a cart, according to research published in Safety and Health at Work. Unfortunately, there's no one-size-fits-all solution to this problem. It's not just that different people have different optimal grip heights. Even for the same person, there will be different optimal grip heights and positions depending on the task (pushing vs. pulling vs. turning, for example).
+
+Handles that offer a larger range of different grip positions and heights can give workers a greater opportunity to switch between grips to reduce the strain on their joints and muscles. Ergonomic handle designs often include raised and angled portions allowing for many different grips, and there are metal carts with ergonomic handles as well as plastic carts with ergonomic handles. Handles covered with high-friction materials can also be easier to use.
+Don't Take It Too Far 
+
+As much as possible, limit the distance heavy utility carts are pushed or pulled. An article published in EHS Today recommends 200 feet as a maximum distance, suggesting that powered trucks or conveyors be considered for longer distances.
+Experience Counts
+
+These four tips are a great place to start, but keep one thing in mind: there's no replacement for experience.
+
+Studies have found that experienced workers have better technique when they push and pull carts, reducing the strain on their bodies and helping to reduce the risk of injury.
+
+Research cited in Safety and Health at Work found that experienced workers create a hinge movement that allows them to lean in against the weight when pushing and to lean back against the weight when pulling. However, the researchers could not determine whether good technique can be taught to inexperienced workers or whether it comes only from long-term hands-on experience doing the work.
+
+ 
+
+Frequently Asked Questions
+Q: What kind of maintenance do utility cart casters and wheels need?
+
+A: Many manufacturers recommend regular preventive maintenance for utility cart casters and wheels, typically including steps such as these:
+
+Lubricate non-sealed bearings and friction points at least once every six months, and more often in harsh environments or when the cart is washed.
+Check that the casters are tightly fastened to the cart and not damaged or bent
+Replace any excessively or unevenly worn wheels. Uneven wear can be a sign that foreign materials are causing the wheel to bind.
+Consult the caster manufacturer for more maintenance procedures.
+
+Q: What's the best height for a utility cart handle?
+
+A: There's no single best handle height that will work for every person in every situation. A person's ideal grip will likely change depending on their height and how they're maneuvering the cart—whether they're pushing or pulling it, for example. Research published in Safety and Heath at Work recommends that handles should allow for a variety of grip positions between a person's hip and shoulder height.
+
+Q: Is it better to push or to pull a cart?
+
+A: Pushing is sometimes recommended as a better alternative to pulling when both are possible. For example, an OSHA ergonomics e-tool for electrical contractors recommends that pulling be avoided when possible. However, in 2017, researchers reviewed many studies and found that there's evidence to support a preference for either pushing or pulling, depending on which strain factor is being focused on. In other words, pushing and pulling put different kinds of strain on the muscles and joints, and there isn't enough evidence to support a blanket preference for one over the other
+
+Q: What factors influence how difficult it is to push or pull a cart?
+
+A: The weight of the load has the biggest influence on how physically taxing it is to push or pull a cart, but there are other factors to consider:
+
+The size, composition and condition of the cart's wheels
+The floor material
+The presence of ramps or obstacles
+The need to perform precise maneuvers, especially in tight spaces
+The distance that the cart needs to be moved
+Changes in any of these areas can help improve the overall ergonomic design of the work.

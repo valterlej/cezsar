@@ -1,0 +1,1 @@
+Hurdling is running and jumping over obstacles (hurdles) at speed in a track race.

@@ -1,0 +1,168 @@
+Sniffing (behavior)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Sniffing is a perceptually-relevant behavior, defined as the active sampling of odors through the nasal cavity for the purpose of information acquisition. This behavior, displayed by all terrestrial vertebrates, is typically identified based upon changes in respiratory frequency and/or amplitude,[1][2] and is often studied in the context of odor guided behaviors and olfactory perceptual tasks. Sniffing is quantified by measuring intra-nasal pressure or flow or air[3][4][5][6] or, while less accurate, through a strain gauge on the chest to measure total respiratory volume.[7] Strategies for sniffing behavior vary depending upon the animal, with small animals (rats, mice, hamsters) displaying sniffing frequencies ranging from 4 to 12 Hz[2][3][8] but larger animals (humans) sniffing at much lower frequencies, usually less than 2 Hz.[7][9] Subserving sniffing behaviors, evidence for an "olfactomotor" circuit in the brain exists,[10][11] wherein perception or expectation of an odor can trigger brain respiratory center to allow for the modulation of sniffing frequency and amplitude and thus acquisition of odor information. Sniffing is analogous to other stimulus sampling behaviors, including visual saccades, active touch, and whisker movements in small animals (viz., whisking).[12][13] Atypical sniffing has been reported in cases of neurological disorders, especially those disorders characterized by impaired motor function and olfactory perception.[14][15]
+
+
+Contents
+1	Background and history of sniffing
+1.1	Background
+1.2	History
+2	Methods for quantifying sniffing
+2.1	Video
+2.2	Chest strain
+2.3	Nasal microphone
+2.4	Nasal thermocouple and nasal pressure sensor
+3	Sniffing in small animals
+3.1	Sniffing in semi-aquatic animals
+3.2	Sniffing and control of odor input to the brain
+4	Sniffing in humans
+5	Neural control of sniffing
+6	Relation of sniffing to other stimulus sampling behaviors
+7	Relevance to neurological disorders
+8	See also
+9	References
+10	Further reading
+10.1	Books
+10.2	Publications
+11	External links
+Background and history of sniffing
+Background
+The behavior of sniffing incorporates changes in air flow within the nose. This can involve changes in the depth of inhalation and the frequency of inhalations. Both of these entail modulations in the manner whereby air flows within the nasal cavity and through the nostrils. As a consequence, when the air being breathed is odorized, odors can enter and leave the nasal cavity with each sniff. The same applies regardless of what gas is being inhaled, including toxins and solvents, and other industrial chemicals which may be inhaled as a form of drug or substance abuse.[16]
+
+The act of sniffing is considered distinct from respiration on several grounds. In humans, one can assess the occurrence of a sniff based upon volitional control of air movement through the nose.[17] In these cases, human subjects can be asked to inhale for a certain amount of time, or in a particular pattern.[7] Some animals are obligate nasal breathers, wherein the only air for respiration must arrive into the lungs via the nose. This includes rats and mice. Thus, in these animals the distinction between a breath and a sniff is not clear and could be argued to be indistinguishable.[18] (See sniffing in small animals.)
+
+Sniffing is observed among all terrestrial vertebrates, wherein they inhale environmental air.[19] Sniffing may also occur in underwater environments wherein an animal may exhale air from within its lungs and nasal cavity to acquire odors within an aquatic environment and then re-inhale this air.[20] (See sniffing in small animals.)
+
+While sniffing behavior is often observed and discussed within the context of acquiring odor information, sniffing is also displayed during the performance of motivated behaviors and upon deep brain electrical stimulation of brain reward centers. For instance, prior to obtaining a food reward, mice and rabbits increase their sniffing frequency[3][21] in a manner independent of seeking odor information. Sniffing behavior is also displayed by animals upon involuntary electrical stimulation of numerous brain structures.[22] Thus, while sniffing is often considered a critical part of olfaction, its link with motivated and reward behaviors suggests it plays a role in other behaviors.
+
+History
+Studies into the perceptual correlates of sniffing on human olfaction did not reach the mainstream scientific community until the 1950s. Frank Jones, an American psychologist, published a paper demonstrating the interplay between parameters of sniffing and odor detection thresholds. He found that deep sniffs, consisting of a large volume of air, allowed for consistent and accurate detection of odors.[23]
+
+One of the earliest reports of exploring sniffing in non-human animals was provided by Welker in his 1964 article, Analysis of sniffing in the albino rat.[1] In this study, Welker used video recordings of rats during presentation with odors and other stimuli to explore the chest movements as an index of sniffing. This was the first paper to report that rats can sniff at frequencies reaching 12 Hz upon detection of odors and during free exploration. This paper also provided early evidence that the rhythm of sniffing was coupled with other sensory behaviors, such as whisking, or the movement of the whiskers.
+
+While behavioral and psycho-physical studies into sniffing and its influence on odor perception began to surface, much less work was being performed to explore the influence of sniffing behaviors on the physiological processing of odors within the brain. Early recordings from the olfactory bulbs of hedgehogs by Lord Edgar Adrian, who previously won the 1932 Nobel Prize along with Sir Charles Sherrington for their work on the functions of neurons, revealed that neural oscillations within the hedgehog olfactory bulb were entrained to the respiratory cycle.[24] Further, odor-evoked oscillations (including an exhaled puff from a pipe), were amplified along with the respiratory cycle. These data gave evidence that information processing within the brain, particularly that of odors, was linked with respiration - establishing the integral nature of sniffing for the physiological processing of odors. About 20 years later, Max Mozell published a series of studies wherein he further proposed that the flow rate and the sorption properties of odorants interplay to affect the location of odorant binding to olfactory receptor neurons in the nose and consequentially odor input to the brain.[25] Later, evidence that single neurons in the olfactory bulb, the brain's first relay station for odor information, are entrained with respiration was presented, establishing a solid basis for the control of odor input to the brain and the processing of odors by sniffing.[26]
+
+Methods for quantifying sniffing
+There are multiple methods available for measuring sniffing. While these methods are applicable for most animal models (mice to humans), selection of appropriate sniff measurement methods should be determined by experimental need for precision.
+
+Video
+Perhaps the simplest method for determining the moment of sniffing is video-based. High resolution video of small animals (e.g., rats) during immobile respiration enables approximations of sniffing, including identification of individual sniff events.[1] Similar methods can be employed to identify fast, high frequency sniffing during states of arousal and stimulus investigation.[1] This method, however, does not provide direct evidence for sniffing and is not reliable in larger animals (rabbits to humans).
+
+Chest strain
+Sensors to measure chest expansion during inhalation provide direct information of sniff cycles.[27] These methods include mechanical and optical devices. Mechanical devices for sniffing measurements are piezo foils placed under the chests of small animals and strain gauge around the chests of larger animals. In both cases, a positive increase in signal output (voltage) can be identified and used to index inhalation events. Alternatively, a photo transducer can be placed on the opposite side of an animal's chest from a light source (e.g., a Light-emitting diode). In this design, a decrease in signal reflects inhalation (chest expansion) as the chest would interrupt the light passage to the photo transducer.
+
+Nasal microphone
+As a direct measurement of sniffing, early studies favored the use of microphones placed/secured external to the anterior nares, the external openings of the nasal cavity. This method has advantages to directly index air leaving the nares (increase in microphone output), yet is mostly non-invasive. Due to this non-invasive nature of microphone measures, these methods have been employed in dogs during odor tracking exercises[28] and are useful for measuring sniffing on a temporary basis in other large animals.
+
+Nasal thermocouple and nasal pressure sensor
+The most precise methods to date to measure sniffing involve direct intranasal measures through use of a temperature probe, called a thermocouple, or a pressure sensor. These can be inserted temporarily into the nares or implanted surgically.[4][6] The basic principles of operation are shared between the temperature and pressure devices. Inhalation of ambient air provides cool temperature into the nasal cavity, whereas exhalation of inhaled air provides warm temperature into the nasal cavity and simultaneously an increase in intranasal pressure as air from the lungs is forced out of the nostrils. Placement of these sensors close to the olfactory epithelium of animals allows measures of odorized air transients as they reach the olfactory receptors[4][29] and thus are common methods for measuring sniffing in the context of sensory neuroscience and psychological studies.
+
+Sniffing in small animals
+The earliest published study of sniffing behavior in small animals was performed in laboratory rats using video-based measures.[1] In this study robust changes in respiratory frequency were reported to occur during exploration of an open arena and novel odors. Resting respiration occurs ~2 times/second (Hz), and increases to about 12 Hz are noted during states of exploration and arousal. Similar transitions in sniffing frequency are observed in freely exploring mice,[3] which, however, maintain generally higher sniffing frequencies than rats (3 [rest] to 15 Hz [exploration] vs 2 to 12 Hz).
+
+Transitions in sniffing frequency are observed in animals performing odor-guided tasks. Studies of recording sniffing in the context of odor-guided tasks involve implanting intranasal temperature and pressure sensors into the nasal cavity of animals and either measuring odor-orienting responses (fast sniffing)[29] or sniffing during performance in operant odor-guided tasks.[3][4][30][31] Alternatively, animals can be conditioned to insert their snouts into an air-tight chamber with a pressure transducer embedded within to access nasal transients, while simultaneously odors are presented to measure responses while nose-poking.[2]
+
+Notably, several studies have reported that modulation in sniffing frequency may be just as great in context of anticipation of odor sampling as during sampling of odors.[18][31] Similar changes in sniffing frequency are even seen in animals presented with novel auditory stimuli,[32] suggesting a relationship between sniffing and arousal.
+
+Sniffing in semi-aquatic animals
+While sniffing is generally thought to occur solely in terrestrial animals, semi-aquatic rodents (American water shrew) also display sniffing behaviors during underwater odor-guided tasks.[20] Shrews inhale-exhale small amounts of air in a precise and coordinated fashion while tracking an underwater odor trail. This occurs through the inhalation of air above ground, to allow air to volatize odors in an environment otherwise void of air.
+
+Sniffing and control of odor input to the brain
+Measurements of sniffing simultaneously with physiological measures from olfactory centers in the brain have provided information on how sniffing modulates the access and processing of odors at the neural level. Inhalation is necessary for odor input to the brain.[29] Further, odor input through the brain is temporally linked to the respiratory cycle, with bouts of activity occurring with each inhalation.[26] This linkage between sniffing frequency and odor processing provides a mechanism for the control of odor input into the brain by respiratory frequency[4] and possibly amplitude, though this is not well established.
+
+Sniffing in humans
+The nature of sniffing regulates odor perception in humans[7][23] and in fact, in humans, a single sniff is often sufficient for optimal odor perception.[33] For instance, a deep, steady inhalation of a faint odor allows a more potent percept than a shallow inhalation. Similarly, more frequent sniffs provide a faster percept of the odor environment than only sniffing once every 3 seconds. These examples have been supported by empirical studies (see above) and have provided insights into methods whereby humans may change their sniffing strategies to modulate odor perception.[7][23][33]
+
+Odor inhalation evokes activity throughout olfactory structures in humans.[9] Neuroimaging studies lack resolution to determine the impacts of sniffing frequency on the structure of odor input through the brain, although imaging studies have revealed that the motor act of sniffing is anatomically independent of sniff-evoked odor perception.[9] Implications for this include the shared but distributed pathways for odor processing in the brain.
+
+Neural control of sniffing
+Sniffing is fundamentally controlled by respiratory centers in the brainstem, including the Pre-Botzinger complex which governs inhalation/exhalation patterns.[34] Activity from respiratory brain stem structures then modulates nervous activity to control lung contraction. To exert changes to respiration, and thereby evoke sniffing behavior, volitional centers in the cerebral cortex must stimulate brain stem structures. It is through this simple pathway that the decision to inhale or sniff may occur.
+
+The rapid modulation of sniffing upon inhalation of a novel odor or an irritating odor is evidence for an "olfactomotor" loop in the brain.[10][35] In this loop, novel odor-evoked sniffing behavior can occur rapidly upon perception of a novel odor, one of interest, or an odor which is aversive.
+
+Relation of sniffing to other stimulus sampling behaviors
+Sniffing, as an active sampling behavior, is often grouped along with other behaviors utilized to acquire sensory stimuli. For instance, sniffing has been compared to rapid eye movements, or saccades, in the ability for both methods to provide rapid "snapshots" of information to the brain.[12] This analogy, though, may be imprecise since small animals (e.g., mice) make odor-based decisions (through sniffing) while also making visual decisions, yet do not saccade. Sniffing is also fundamentally similar to active touch, including swiping ones finger along a surface to scan texture.
+
+In part due to the interrelatedness of the respiratory brain stem structures with other central pattern generators responsible for governing some other active sampling behaviors, sniffing in animals often occurs at similar frequencies (2 to 12 Hz) and in a phasic relationship to the active sampling behaviors of whisking and licking.[1] Whisking and sniffing are tightly correlated in their occurrence,[1] with sniff inhalations occurring during whisker protraction. Due to the metabolic need to coordinate breathing and swallowing, small animals (rats and mice) often lick at similar frequencies of sniffing (4 to 8 Hz) and swallow in between inhalations or during brief periods of apnea (cessation of breathing).[36]
+
+Relevance to neurological disorders
+Few studies have explored the impact of neurological disorders on sniffing behavior, although numerous neurological disorders affect respiration. Humans with Parkinson's disease have abnormal sniffing capabilities (i.e., reduced volume and flow rate) which may underlie olfactory perceptual impairments in the disease.[14] Studies into sniffing in mouse models of Alzheimer's disease[15] and also humans[37] have not found major effects of Alzheimer's pathology on both basal respiration and odor-evoked sniffing.
+
+See also
+Inhalation
+Detection dog
+Electronic nose
+History of perfume
+Machine olfaction
+Nasal administration
+Odor
+Olfactometer
+Olfactory system
+Olfactory tubercle
+Phantosmia
+Piriform cortex
+Smound
+References
+ Welker, WI (1964). "Analysis of sniffing in the albino rat". Behaviour. 22: 223–244. doi:10.1163/156853964x00030.
+ Youngentob, S.L.; Mozell, M. M.; Sheehe, P. R.; Hornung, D. E. (1987). "A quantitative analysis of sniffing strategies in rats performing odor discrimination tasks". Physiol Behav. 41 (1): 59–69. doi:10.1016/0031-9384(87)90131-4. PMID 3685154. S2CID 43798119.
+ Wesson, D. W.; Donahou, T. N.; Johnson, M. O.; Wachowiak, M (2008). "Sniffing behavior of mice during performance in odor-guided tasks". Chem Senses. 33 (7): 581–596. doi:10.1093/chemse/bjn029. PMC 2533419. PMID 18534995.
+ Verhagen, J. V.; Wesson, D. W.; Netoff, T. I.; White, J. A.; Wachowiak, M (2007). "Sniffing controls an adaptive filter of sensory input to the olfactory bulb". Nat Neurosci. 10 (5): 631–639. doi:10.1038/nn1892. PMID 17450136. S2CID 15324047.
+ Uchida, N; Mainen, Z. F (2003). "Speed and accuracy of olfactory discrimination in the rat". Nat Neurosci. 6 (11): 1224–1229. doi:10.1038/nn1142. PMID 14566341. S2CID 205430292.
+ Macrides, F; Eichenbaum, H. B.; Forbes, W. B (1982). "Temporal relationship between sniffing and the limbic theta rhythm during odor discrimination reversal learning". J Neurosci. 2 (12): 1705–1711. doi:10.1523/JNEUROSCI.02-12-01705.1982. PMC 6564372. PMID 7143047.
+ Laing, D. G. (1983). "Natural sniffing gives optimum odour perception for humans". Perception. 12 (2): 99–117. doi:10.1068/p120099. PMID 6657430. S2CID 31619356.
+ Vanderwolf, C. H. (1992). "Hippocampal activity, olfaction, and sniffing: an olfactory input to the dentate gyrus". Brain Research. 593 (2): 197–208. doi:10.1016/0006-8993(92)91308-2. PMID 1450928. S2CID 12799792.
+ Sobel, N.; V. Prabhakaran; J. E. Desmond; G. H. Glover; R. L. Goode; E. V. Sullivan; J. D. E. Gabrieli (1998). "Sniffing and smelling: separate subsystems in the human olfactory cortex". Nature. 392 (6673): 282–286. doi:10.1038/32654. PMID 9521322. S2CID 205002040.
+ Vanderwolf, C. H. (2001). "The hippocampus as an olfacto-motor mechanism: were the classical anatomists right after all?". Behav Brain Res. 127 (1–2): 25–47. doi:10.1016/s0166-4328(01)00354-0. PMID 11718883. S2CID 21832964.
+ Johnson, B. N.; Mainland, J. D.; Sobel, N. (2003). "Rapid olfactory processing implicates subcortical control of an olfactomotor system". J Neurophysiol. 90 (2): 1084–1094. doi:10.1152/jn.00115.2003. PMID 12711718.
+ Uchida, N.; Kepecs, A.; Mainen, Z. F. (2006). "Seeing at a glance, smelling in a whiff: rapid forms of perceptual decision making". Nat Rev Neurosci. 7 (6): 485–491. doi:10.1038/nrn1933. PMID 16715056. S2CID 5893980.
+ Deschenes, M.; Moore, J.; Kleinfeld, D. (2011). "Sniffing and whisking in rodents". Current Opinion in Neurobiology. 22 (2): 1–8. doi:10.1016/j.conb.2011.11.013. PMC 4934665. PMID 22177596.
+ Sobel, N; Thomason, M.E; Stappen, I.; Tanner, C. M.; Tetrud, J. W.; Bower, J. M.; Sullivan, E. V.; Gabrieli, J. D. E. (2001). "An impairment in sniffing contributes to the olfactory impairment in Parkinson's disease". Proc Natl Acad Sci U S A. 98 (7): 4154–4159. doi:10.1073/pnas.071061598. PMC 31195. PMID 11259673.
+ Wesson, D. W.; Varga-Wesson, A. G.; Borkowski, A. H.; Wilson, D. A (2011). "Respiratory and sniffing behaviors throughout adulthood and aging in mice". Behavioural Brain Research. 223 (1): 99–106. doi:10.1016/j.bbr.2011.04.016. PMC 3128824. PMID 21524667.
+ Massengale, O.N.; Glaser, H. H.; LeLievre, R. E.; Dodds, J. B.; Klogk, M. E. (1963). "Physical and Psychologic Factors in Glue Sniffing". New England Journal of Medicine. 269 (25): 1340–1344. doi:10.1056/NEJM196312192692503. PMID 14064317.
+ Teghtsoonian, R.; Teghtsoonian, M (1982). "Perceived effort in sniffing: The effects of sniff pressure and resistance". Perception & Psychophysics. 31 (4): 324–329. doi:10.3758/bf03202655. PMID 7110885.
+ Wesson, D.W.; Verhagen, J. V.; Wachowiak, M. (2009). "Why Sniff Fast? The Relationship Between Sniff Frequency, Odor Discrimination, and Receptor Neuron Activation in the Rat". J Neurophysiol. 101 (2): 1089–1102. doi:10.1152/jn.90981.2008. PMC 2657070. PMID 19052108.
+ Dethier, V.G. (1987). "Sniff, Flick, and Pulse: An Appreciation of Interruption". Proceedings of the American Philosophical Society. 131: 159–176.
+ Catania, K.C. (2006). "Olfaction: Underwater 'sniffing' by semi-aquatic mammals". Nature. 444 (7122): 1024–1025. doi:10.1038/4441024a. PMID 17183311. S2CID 4417227.
+ Karpov, A.P. (1980). Neural Mechanisms of Goal-Directed Behavior and Learning. Academic Press. pp. 273–282.
+ Clarke, S. (1971). "Sniffing and fixed-ratio behavior for sucrose and brain stimulation reward in the rat". Physiol Behav. 7 (5): 695–699. doi:10.1016/0031-9384(71)90133-8. PMID 5164362.
+ Jones, F.N. (1955). "The reliability of olfactory thresholds obtained by sniffing". Am J Psychol. 68 (2): 289–290. doi:10.2307/1418901. JSTOR 1418901. PMID 14376691.
+ Adrian, E.D. (1942). "Olfactory reactions in the brain of the hedgehog". Journal of Physiology. 100 (4): 459–473. doi:10.1113/jphysiol.1942.sp003955. PMC 1393326. PMID 16991539.
+ Mozell, M.M. (1964). "Evidence for sorption as a mechanism of the olfactory analysis of vapours". Nature. 203 (4950): 1181–1182. doi:10.1038/2031181a0. PMID 14213677. S2CID 4208991.
+ Macrides, F.; Chorover, S. L (1972). "Olfactory bulb units: activity correlated with inhalation cycles and odor quality". Science. 175 (4017): 84–87. doi:10.1126/science.175.4017.84. PMID 5008584. S2CID 33998763.
+ Gottfried, J.A.; Winston, J. S.; Dolan, R. J. (2006). "Dissociable codes of odor quality and odorant structure in human piriform cortex". Neuron. 49 (3): 467–479. doi:10.1016/j.neuron.2006.01.007. hdl:21.11116/0000-0001-A18C-B. PMID 16446149. S2CID 13906088.
+ Thesen, A.; Steen, J. B.; Doving, K. B. (1993). "Behaviour of dogs during olfactory tracking". Journal of Experimental Biology. 180: 247–251. doi:10.1242/jeb.180.1.247. PMID 8371085.
+ Wesson, D.W.; Carey, R. M.; Verhagen, J. V.; Wachowiak, M (2008). "Rapid encoding and perception of novel odors in the rat". PLOS Biol. 6 (4): e82. doi:10.1371/journal.pbio.0060082. PMC 2288628. PMID 18399719.
+ Doucette, W.; et al. (2011). "Associative Cortex Features in the First Olfactory Brain Relay Station". Neuron. 69 (6): 1176–1187. doi:10.1016/j.neuron.2011.02.024. PMC 3064824. PMID 21435561.
+ Kepecs, A.; Uchida, N.; Mainen, Z. F. (2007). "Rapid and precise control of sniffing during olfactory discrimination in rats". J Neurophysiol. 98 (1): 205–213. CiteSeerX 10.1.1.126.5190. doi:10.1152/jn.00071.2007. PMID 17460109.
+ Harrison, J.M. (1979). "The control of responding by sounds: unusual effect of reinforcement". J Exp Anal Behav. 32 (2): 167–181. doi:10.1901/jeab.1979.32-167. PMC 1332893. PMID 501270.
+ Laing, D.G. (1986). "Identification of single dissimilar odors is achieved by humans with a single sniff". Physiol Behav. 37 (1): 163–170. doi:10.1016/0031-9384(86)90400-2. PMID 3737714. S2CID 44901866.
+ Smith, J.C.; Ellenberger, H. H.; Ballanyi, K.; Richter, D. W.; Feldman, J. L. (1991). "Pre-Bötzinger complex: a brainstem region that may generate respiratory rhythm in mammals". Science. 254 (5032): 726–729. doi:10.1126/science.1683005. PMC 3209964. PMID 1683005.
+ Mainland, J.; Sobel, N. (2006). "The sniff is part of the olfactory percept". Chem Senses. 31 (2): 181–196. doi:10.1093/chemse/bjj012. PMID 16339268.
+ Weijnen, J.A. (1998). "Licking behavior in the rat: measurement and situational control of licking frequency". Neurosci Biobehav Rev. 22 (6): 751–760. doi:10.1016/s0149-7634(98)00003-7. PMID 9809310. S2CID 19717010.
+ Li, W.; Howard, J. D.; Gottfried, J. A. (2010). "Disruption of odour quality coding in piriform cortex mediates olfactory deficits in Alzheimer's disease". Brain. 133 (9): 2714–2726. doi:10.1093/brain/awq209. PMC 2948816. PMID 20724290.
+Further reading
+Books
+Lord Edgar Adrian The Basis of Sensation: The Action of the Sense Organs Hafner Publishing Co. Ltd. 1928
+David George Laing, Richard L. Doty, W. Breipohl The Human Sense of Smell Springer-Verlag, 1991
+Handbook of Olfaction and Gustation (Editor: Richard L. Doty) 2003
+Donald A. Wilson and Richard J. Stevenson Learning to Smell: Olfactory Perception from Neurobiology to Behavior Johns Hopkins Press, 2006
+The Neurobiology of Olfaction (Editor: Anna Menini) CRC Press, 2010 ISBN 978-1-4200-7197-9
+Gordon M. Shepherd Neurogastronomy: How the Brain Creates Flavor and Why It Matters New York : Columbia University Press, 2012 ISBN 978-0-231-15910-4
+Publications
+Sobel N.; Khan R.M.; Saltman A.; Sullivan E.V.; Gabrieli J.D. (1999). "The world smells different to each nostril". Nature. 402 (6757): 35. doi:10.1038/46944. PMID 10573415. S2CID 4416272.
+Goldman J.A.; Patek S.N. (2002). "Two sniffing strategies in palinurid lobsters". The Journal of Experimental Biology. 205 (Pt 24): 3891–3902. doi:10.1242/jeb.205.24.3891. PMID 12432011.
+Cheung M.C.; Carey R.M.; Wachowiak M. (2009). "A method for generating natural and user-defined sniffing patterns in anesthetized or reduced preparations". Chemical Senses. 34 (1): 63–76. doi:10.1093/chemse/bjn051. PMC 2639450. PMID 18791186.
+Wachowiak M (2011). "All in a sniff: olfaction as a model for active sensing". Neuron. 71 (6): 962–73. doi:10.1016/j.neuron.2011.08.030. PMC 3237116. PMID 21943596.
+Rojas-Líbano D.; Kay L.M. (2012). "Interplay between sniffing and odorant sorptive properties in the rat". The Journal of Neuroscience. 32 (44): 15577–15589. doi:10.1523/jneurosci.1464-12.2012. PMC 3495330. PMID 23115193.
+External links
+Association for Chemoreception Sciences
+Chemical Senses journal
+The LRI and Odor Database
+Case Western Reserve University, Wesson Lab
+The University of Utah, The Brain Institute, Wachowiak Lab
+New York University SoM., Emotional Brain Institute, Wilson Lab
+Monell Chemical Senses Center
+Olfactory-auditroy integration
+Science Daily: Olfaction and Alzheimer's disease
+Odor Space

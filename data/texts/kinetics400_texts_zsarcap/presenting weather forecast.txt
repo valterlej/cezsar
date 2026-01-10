@@ -1,0 +1,99 @@
+A weather forecast can be defined as,”A written or spoken statement describing what the weather has been like recently, what it is like at the moment or what it will be for a period in the future.“or“A daily report of meteorological observations, and of probable changes in the weather; esp. one published by government authority”.
+
+Weather Forecast Report Sample Script in English
+Table of Contents	
+Weather Forecast Report Sample Script in English
+Weather Report 1:
+Weather Report 2:
+Download and install The Weather Forecast App on Your PC or Phone
+Weather Report 3:
+Weather Report 4:
+Typical Weather Report Format
+Conclusion:
+Bottom Line:
+A weather report is a bit technical as compared to other report writing you have been practicing earlier. You need to choose words and phrases correctly and present the information gathered in the language of meteorologists.
+
+Weather report writing has its own format which is precise, to the point and delivers facts and prediction right on hand. A weather report article or analysis typically includes the statement of current weather conditions along with a weather forecast for the next 24 hours.
+
+Following are the weather forecast report sample script in English which include important information elements included in a typical weather analysis report:
+
+Also Read:
+
+Best News Casting Script for Reporters
+Newscasting Script for The Introduction
+Weather Report 1:
+
+
+Welcome to the weather forecast. Now, let’s see what the weather is like today. In the north of the country, it’s very windy and cold. There is a chance of some rain too, so don’t leave home without your umbrella! The temperature is around 10º centigrade. In the east it’s rainy all day today, I’m afraid. There may be a thunderstorm in the afternoon. The temperature is a bit higher, at around 13º.
+
+In the west and middle of the country, the weather is dry but cloudy. So no rain for you, but it is quite windy and
+the temperature is just 10º. The south of the country has the best weather today. It’s cloudy most of the time but sunny this afternoon. The temperature is around 15º.
+
+Weather Report 2:
+Hi, I’m ____________________________, your weather presenter. I will be covering your local weather in ___________________________, __________________________.The current condition is…Looking ahead, your 3-day forecast consists of…a ___________________ day for Monday. There will be a high of __________________(weather conditions) (high temp) and a low of ____________________. (low temp)Tuesday, it will be a ____________________ day. There will be a high of___________________ (weather conditions) (high temp) and a low of ____________________. (low temp)Wednesday, it will be a ____________________ day. There will be a high of________________ (weather conditions) (high temp) and a low of ____________________. (low temp) Thursday, it should be a __________________ day. There will be a high of_________________ (weather conditions) (high temp) and a low of ____________________. (low temp) Friday, we’re looking at a__________________ day. There will be a high of _______________ (weather conditions) (high temp) and a low of ____________________. (low temp)That’s your weather forecast, thanks for watching! I’m _________________________, nowback to _______________ and _________________.
+
+Download and install The Weather Forecast App on Your PC or Phone
+
+
+Weather Report 3:
+Forecast For Friday 05/18/20XX
+Maximum temperature today near 86 degrees. A partly cloudy and warm day is expected. Lowest relative humidity near 33 percent. Expect 13 hours of sunshine, which is 87 percent of possible sunshine. Average winds will be Northeast at 8 MPH during the morning and Northeast at 9 MPH during the afternoon.
+
+Forecast For Saturday 05/19/20XX
+Minimum temperature near 58 degrees. Maximum temperature near 83 degrees. Mostly sunny and dry to start the weekend. Lowest relative humidity near 30 percent. Expect 15 hours of sunshine, which is 100 percent of possible sunshine. Average winds will be Northeast at 9 MPH during the morning and Northeast at 9 MPH during the afternoon.
+
+Forecast For Sunday 05/20/20XX
+Minimum temperature near 58 degrees. Maximum temperature near 85 degrees. A dry weather pattern will continue. Lowest relative humidity near 30 percent. Expect 15 hours of sunshine, which is 100 percent of possible sunshine. Average winds will be Northeast at 7 MPH during the morning and Northeast at 6 MPH during the afternoon.
+
+Forecast For Monday 05/21/20XX
+Minimum temperature near 58 degrees. Maximum temperature near 88 degrees. Isolated showers will be possible afternoon, averaging < 0.10 inch. Lowest relative humidity near 29 percent. Expect 14 hours of sunshine, which is 93 percent of possible sunshine. Average winds will be Southwest at 3 MPH during the morning and Northwest at 4 MPH during the afternoon.
+
+Forecast For Tuesday 05/22/20XX
+Minimum temperature near 62 degrees. Maximum temperature near 86 degrees. Slightly greater coverage of showers is forecast, averaging < 0.10 inch. Lowest relative humidity near 38 percent. Expect 13 hours of sunshine which is 87 percent of possible sunshine. Average winds will be Southwest at 5 MPH during the morning and West at 7 MPH during the afternoon.
+
+Temperature and Precipitation Probability
+Forecast for XXXXXXXXX, XX
+
+ 	Fri	Sat	Sun	Mon	Tue	Wed	Thu	 
+ 	05/18/20XX	05/19/20XX	05/20/20XX	05/21/20XX	05/22/20XX	05/23/20XX	05/24/20XX	 
+Min/Max	61	86	58	83	58	85	58	88	62	86	63	88	65	89	 
+PoP	0	0	0	20	30	10	20	 
+Weather Report 4:
+Partly cloudy in the evening, becoming cloudy overnight. Low around 55 F. Winds S at 5 to 10 mph Sun may give way to rain for this evening, with a 10 percent chance of precipitation and a low of 50 degrees. Winds are expected to remain calm at 9 mph.
+
+Clear with cloudy periods; a slight chance of showers or thundershowers. Mostly clear with showers likely. Slight chance of a thunderstorm. 3 to 6 mm of rain.
+
+Typical Weather Report Format
+Following are the important information elements included in a typical weather analysis report:
+
+Stn: Station ID
+Temp: Present temperature (°C)
+MinT: Minimum temperature (°C) recorded over the last 18 hours
+MaxT: Maximum temperature (°C) recorded over the last 18 hours
+RH: Present RH (%)
+WndDir: Wind direction
+WndSpd: Wind speed (km/h)
+WndGust: Wind gust (km/h)
+Rain_mm: Rain since the last report (mm)
+Snow_cm: Snow since the last report (cm)
+Hail_mm: Hail since the last report (mm)
+FFMC – Fine Fuel Moisture Code
+ISI – Initial Spread Index
+DMC – Duff Moisture Code
+BUI – Build Up Index
+DC – Drought Code
+DSR – Daily Severity Rating
+FWI – Fire Weather Index
+Conclusion:
+The weather forecast you mention in your report must be for three or seven days. Do not forecast the weather conditions for months because long-term forecasts are less accurate, therefore, less reliable. The forecast can be made by studying the satellite map or taking the help of meteorologists.
+
+When writing a weather forecast, you need to state the general weather conditions such as sunny, cloudy, rainy, stormy, cloudy, low and high temperature and weather warnings like tornadoes, flooding, etc.
+
+I hope the above examples gave you a good idea of the weather report. Also, read the following article.
+
+Related Articles:
+
+How to Prepare a Report for News
+English Vocabularies and Phrases Related to Newscasting & Media
+Bottom Line:
+Was the article helpful? If it was helpful, you can support us on a monthly basis on Patrons from $5/month up get access to our writing Corner, a more personal writing space than our blog, or in a one-time gift through PayPal at fribad2019@gmail.com

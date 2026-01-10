@@ -1,0 +1,182 @@
+Coin flipping
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Heads or Tails (disambiguation). For the use of "Heads and Tails" in computer programming, see CAR and CDR. For coin tossing in cricket, see Toss (cricket).
+
+Tossing a coin
+Coin flipping, coin tossing, or head or tail is the practice of throwing a coin in the air and checking which side is showing when it lands, in order to choose between two alternatives, heads or tails, sometimes used to resolve a dispute between two parties. It is a form of sortition which inherently has two possible outcomes. The party who calls the side that the coin lands on wins.
+
+
+Contents
+1	History
+2	Process
+2.1	Three-way
+3	Use in dispute resolution
+4	Politics
+4.1	Australia
+4.2	Canada
+4.3	Philippines
+4.4	United Kingdom
+4.5	United States
+5	Physics
+6	Counterintuitive properties
+7	Mathematics
+7.1	Telecommunications
+8	Lotteries
+9	Clarifying feelings
+10	See also
+11	References
+11.1	Citations
+11.2	Sources
+12	External links
+History
+
+A Roman coin with the head of Pompey the Great on the obverse and a ship on the reverse
+The historical origin of coin flipping is the interpretation of a chance outcome as the expression of divine will.[citation needed]
+
+Coin flipping was known to the Romans as navia aut caput ("ship or head"), as some coins had a ship on one side and the head of the emperor on the other.[1] In England, this was referred to as cross and pile.[1][2]
+
+Process
+During a coin toss, the coin is thrown into the air such that it rotates edge-over-edge several times. Either beforehand or when the coin is in the air, an interested party calls "heads" or "tails", indicating which side of the coin that party is choosing. The other party is assigned the opposite side. Depending on custom, the coin may be caught; caught and inverted; or allowed to land on the ground. When the coin comes to rest, the toss is complete and the party who called correctly or was assigned the upper side is declared the winner.
+
+It is possible for a coin to land on its side, usually by landing up against an object (such as a shoe) or by getting stuck in the ground. However, even on a flat surface it is possible for a coin to land on its edge. A computational model suggests that the chance of a coin landing on its edge and staying there is about 1 in 6000 for an American nickel.[3] Angular momentum typically prevents most coins from landing on their edges unsupported if flipped. Such cases in which a coin does land on its edge are exceptionally rare and in most cases the coin is simply re-flipped.[4]
+
+The coin may be any type as long as it has two distinct sides; it need not be a circulating coin as such. Larger coins tend to be more popular than smaller ones. Some high-profile coin tosses, such as the Cricket World Cup and the Super Bowl, use custom-made ceremonial medallions.[5][6]
+
+Three-way
+Three-way coin flips are also possible, by a different process – this can be done either to choose two out of three, or to choose one out of three. To choose two out of three, three coins are flipped, and if two coins come up the same and one different, the different one loses (is out), leaving two players. To choose one out of three, the previous is either reversed (the odd coin out is the winner) or a regular two-way coin flip between the two remaining players can decide. Note that the three-way flip is 75% likely to work each time it is tried (if all coins are heads or all are tails, each of which occur 1/8 of the time due to the chances being 0.5 by 0.5 by 0.5, the flip is repeated until the results differ), and does not require that "heads" or "tails" be called. A well-known example of such a three-way coin flip (choose two out of three) is dramatized in Friday Night Lights (originally a book, subsequently film and TV series), wherein three Texas high school football teams use a three-way coin flip.[7][8] A legacy of that particular 1988 coin flip was to reduce the use of coin flips to break ties in Texas sports, instead using point systems to reduce the frequency of ties.
+
+Use in dispute resolution
+
+The coin toss at the start of Super Bowl XLIII
+Coin tossing is a simple and unbiased way of settling a dispute or deciding between two or more arbitrary options. In a game theoretic analysis it provides even odds to both sides involved, requiring little effort and preventing the dispute from escalating into a struggle. It is used widely in sports and other games to decide arbitrary factors such as which side of the field a team will play from, or which side will attack or defend initially; these decisions may tend to favor one side, or may be neutral. Factors such as wind direction, the position of the sun, and other conditions may affect the decision. In team sports it is often the captain who makes the call, while the umpire or referee usually oversees such proceedings. A competitive method may be used instead of a toss in some situations, for example in basketball the jump ball is employed, while the face-off plays a similar role in ice hockey.
+
+
+Navy-Notre Dame coin toss
+Coin flipping is used to decide which end of the field the teams will play to and/or which team gets first use of the ball, or similar questions in football matches, American football games, Australian rules football, volleyball, and other sports requiring such decisions. In the U.S. a specially minted coin is flipped in National Football League games; the coin is then sent to the Pro Football Hall of Fame, and other coins of the special series minted at the same time are sold to collectors. The original XFL, a short-lived American football league, attempted to avoid coin tosses by implementing a face-off style "opening scramble," in which one player from each team tried to recover a loose football; the team whose player recovered the ball got first choice. Because of the high rate of injury in these events, it has not achieved mainstream popularity in any football league (a modified version was adopted by X-League Indoor Football, in which each player pursued his own ball), and coin tossing remains the method of choice in American football. (The revived XFL, starting play in 2020, will forego the coin toss altogether and allow that decision to be made as part of a team's home field advantage.)
+
+In an association football match, the team winning the coin toss chooses which goal to attack in the first half; the opposing team kicks off for the first half. For the second half, the teams switch ends, and the team that won the coin toss kicks off. Coin tosses are also used to decide which team has the pick of going first or second in a penalty shoot-out. Before the early-1970s introduction of the penalty shootout, coin tosses were occasionally needed to decide the outcome of drawn matches where a replay was not possible. The most famous instance of this was the semifinal game of the 1968 European Championship between Italy and the Soviet Union, which finished 0–0 after extra time. Italy won, and went on to become European champions.[9]
+
+
+Tossing a coin is common in many sports, such as cricket, where it is used to decide which team gets the choice of bowling or batting first. Shown are Don Bradman and Gubby Allen tossing for innings.
+In cricket the toss is often significant, as the decision whether to bat or bowl first can influence the outcome of the game. Similarly, in tennis a coin toss is used in professional matches to determine which player serves first. The player who wins the toss decides whether to serve first or return, while the loser of the toss decides which end of the court each player plays on first.
+
+In duels a coin toss was sometimes used to determine which combatant had the sun at his back.[10] In some other sports, the result of the toss is less crucial and merely a way to fairly choose between two more or less equal options.
+
+The National Football League also has a coin toss for tie-breaking among teams for playoff berths and seeding, but the rules make the need for coin toss, which is random rather than competitive, very unlikely. A similar procedure breaks ties for the purposes of seeding in the NFL Draft; these coin tosses are more common, since the tie-breaking procedure for the draft is much less elaborate than the one used for playoff seeding.
+
+Major League Baseball once conducted a series of coin flips as a contingency on the last month of its regular season to determine home teams for any potential one-game playoff games that might need to be added to the regular season. Most of these cases did not occur. From the 2009 season, the method to determine home-field advantage was changed.[11]
+
+Fédération Internationale d'Escrime rules use a coin toss to determine the winner of some fencing matches that remain tied at the end of a "sudden death" extra minute of competition. Although in most international matches this is now done electronically by the scoring apparatus.[citation needed]
+
+In the United States Asa Lovejoy and Francis W. Pettygrove, who each owned the claim to the land that would later become Portland, Oregon, wanted to name the new town after their respective hometowns of Boston, Massachusetts and Portland, Maine; Pettygrove won the coin flip.[12]
+
+Scientists sometimes use coin flipping to determine the order in which they appear on the list of authors of scholarly papers.[13]
+
+Politics
+Australia
+In December 2006, Australian television networks Seven and Ten, which shared the broadcasting of the 2007 AFL Season, decided who would broadcast the Grand Final with the toss of a coin. Network Ten won.[14]
+
+Canada
+In some jurisdictions, a coin is flipped to decide between two candidates who poll equal number of votes in an election, or two companies tendering equal prices for a project. For example, a coin toss decided a City of Toronto tender in 2003 for painting lines on 1,605 km of city streets: the bids were $161,110.00 ($100.3800623 per km), $146,584.65 ($91.33 per km, exactly), and two equal bids of $111,242.55 ($69.31 per km, exactly).
+
+Philippines
+"Drawing of lots" is one of the methods to break ties to determine a winner in an election; the coin flip is considered an acceptable variant. Each candidate will be given five chances to flip a coin; the candidate with the most "heads" wins. The 2013 mayoral election in San Teodoro, Oriental Mindoro was decided on a coin flip, with a winner being proclaimed after the second round when both candidates remained tied in the first round.[15]
+
+United Kingdom
+In the United Kingdom, if a local or national election has resulted in a tie where candidates receive exactly the same number of votes, then the winner can be decided either by drawing straws/lots, coin flip, or drawing a high card in pack of cards.[16][17]
+
+United States
+In the United States, when a new state is added to the Union, a coin toss determines the class of the senators (i.e., the election cycle in which the term each of the new state's senators will expire) in the US Senate.[18] Also, a number of states provide for "drawing lots" in the event an election ends in a tie, and this is usually resolved by a coin toss or picking names from a hat.[citation needed] A 2017 election to the 94th District of the Virginia House of Delegates resulted in both Republican incumbent David Yancey and Democratic challenger Shelly Simmonds tied with exactly 11,608 votes. Under state law, the election was to be decided by drawing a name from a bowl, although a coin toss would also have been an acceptable option. The chair of the Board of Elections drew the film canister with Yancey's name, and he was declared the winner.[19] Additionally, the outcome of the draw determined control of the entire House, as Republicans won 50 of the other 99 seats and Democrats 49. A Yancey win extended the Republican advantage to 51–49, whereas a Simmonds win would have resulted in a 50–50 tie. As there is no provision for breaking ties in the House as a whole, this would have forced a power sharing agreement between the two parties.[20]
+
+Physics
+The outcome of coin flipping has been studied by the mathematician and former magician Persi Diaconis and his collaborators. They have demonstrated that a mechanical coin flipper which imparts the same initial conditions for every toss has a highly predictable outcome – the phase space is fairly regular. Further, in actual flipping, people exhibit slight bias – "coin tossing is fair to two decimals but not to three. That is, typical flips show biases such as .495 or .503."[21]
+
+In studying coin flipping, to observe the rotation speed of coin flips, Diaconis first used a strobe light and a coin with one side painted black, the other white, so that when the speed of the strobe flash equaled the rotation rate of the coin, it would appear to always show the same side. This proved difficult to use, and rotation rate was more accurately computed by attaching floss to a coin, such that it would wind around the coin – after a flip, one could count rotations by unwinding the floss, and then compute rotation rate as flips over air time.[21]
+
+Moreover, their theoretical analysis of the physics of coin tosses predicts a slight bias for a caught coin to be caught the same way up as it was thrown, with a probability of around 0.51,[22] though a subsequent attempt to verify this experimentally gave ambiguous results.[23] Stage magicians and gamblers, with practice, are able to greatly increase this bias, whilst still making throws which are visually indistinguishable from normal throws.[21]
+
+Since the images on the two sides of actual coins are made of raised metal, the toss is likely to slightly favor one face or the other if the coin is allowed to roll on one edge upon landing. Coin spinning is much more likely to be biased than flipping, and conjurers trim the edges of coins so that when spun they usually land on a particular face.
+
+Counterintuitive properties
+Human intuition about conditional probability is often very poor and can give rise to some seemingly surprising observations. For example, if the successive tosses of a coin are recorded as a string of "H" and "T", then for any trial of tosses, it is twice as likely that the triplet TTH will occur before THT than after it. It is three times as likely that THH will precede HHT, than that THH will follow HHT.[24] (See Penney's game)
+
+Mathematics
+The mathematical abstraction of the statistics of coin flipping is described by means of the Bernoulli process; a single flip of a coin is a Bernoulli trial. In the study of statistics, coin-flipping plays the role of being an introductory example of the complexities of statistics. A commonly treated textbook topic is that of checking if a coin is fair.
+
+Telecommunications
+Further information: Commitment scheme
+There is no reliable way to use a true coin flip to settle a dispute between two parties if they cannot both see the coin—for example, over the phone. The flipping party could easily lie about the outcome of the toss. In telecommunications and cryptography, the following algorithm can be used:
+
+Alice and Bob each choose a random string, e.g. npermangmx and qzahziynii respectively.
+Alice chooses an outcome for an imaginary coin flip, such as "tail".
+Bob sends Alice his random string qzahziynii.
+Alice immediately computes a cryptographic hash of the string "tail" salted with the two random strings, and sends it to Bob.
+Because this hash is salted with Alice's random string, Bob will not at this point be able to determine what Alice's chosen outcome is.
+Bob does the coin flip, and sends the result, heads or tails, to Alice.
+Alice sends Bob her chosen outcome and her random string.
+Both parties can determine who won by comparing Alice's chosen outcome to Bob's coin flip.
+Bob by providing his own random string guarantees that Alice wasn't able to precompute an image pair of "tail/random string" or "head/random string", for two different random strings.
+Lotteries
+The New Zealand lottery game Big Wednesday uses a coin toss. If a player matches all 6 of their numbers, the coin toss will decide whether they win a cash jackpot (minimum of NZ$25,000) or a bigger jackpot with luxury prizes (minimum of NZ$2 million cash, plus value of luxury prizes.) The coin toss is also used in determining the Second Chance winner's prize.
+
+Clarifying feelings
+A technique attributed to Sigmund Freud to help in making difficult decisions is to toss a coin not actually to determine the decision, but to clarify the decision-maker's feelings. He explained: "I did not say you should follow blindly what the coin tells you. What I want you to do is to note what the coin indicates. Then look into your own reactions. Ask yourself: Am I pleased? Am I disappointed? That will help you to recognize how you really feel about the matter, deep down inside. With that as a basis, you'll then be ready to make up your mind and come to the right decision."[25]
+
+Danish poet Piet Hein's book Grooks includes a poem on a similar theme:
+
+A Psychological Tip
+
+Whenever you're called on to make up your mind,
+And you're hampered by not having any,
+The best way to solve the dilemma, you'll find,
+Is simply by spinning a penny.
+No—not so that chance shall decide the affair
+While you're passively standing there moping;
+But the moment the penny is up in the air,
+You suddenly know what you're hoping.
+
+See also
+Bernoulli process
+Toss (cricket)
+Fair coin
+Checking whether a coin is fair
+Flipism
+Penney's game
+Gambler's fallacy
+Rock paper scissors
+Two-up
+Two-Face
+References
+Citations
+ Allenunne, Richard (December 31, 2009). "Coin tossing through the ages". The Telegraph. Retrieved 2012-12-08.
+ "Cross and Pile". Dictionary of Phrase and Fable. Bartleby.com. 1898. Retrieved 2012-12-08.
+ Murray, Daniel B.; Teare, Scott W. (1993-10-01). "Probability of a tossed coin landing on edge". Physical Review E. 48 (4): 2547–2552. Bibcode:1993PhRvE..48.2547M. doi:10.1103/PhysRevE.48.2547. PMID 9960889.
+ Hoffman, Rich (December 8, 2013). Snowy comeback is an instant classic. Philly.com. Retrieved December 9, 2013.
+ "Want to bid for piece of World Cup history? Find out how..." Rediff.com. March 22, 2015. Retrieved March 30, 2018.
+ Allen, Scott (February 5, 2012). "A Brief History of the Super Bowl Coin Toss". Mental Floss. Retrieved March 30, 2018.
+ Bissinger, H. G. Bissinger (1990). "Chapter 13: Heads or Tails". Friday Night Lights: A Town, a Team, and a Dream. Da Capo Press. ISBN 9780306809903. Retrieved 2012-12-08.
+ Lee, Mike (November 7, 2008). "SAISD athletic director looks back on 1988's famous coin-flip". San Angelo Standard-Times. Retrieved 2012-12-08.
+ "European Championship 1968". RSSSF. 1968. Retrieved 26 July 2014.
+ "French Duels" (PDF). Scribner's Monthly. 11: 546. 1876. Reprinted in "French Duels" (PDF). The New York Times. January 23, 1876.
+ "Ownership approves two major rules amendments" (Press release). Major League Baseball. January 15, 2009. Retrieved 2012-12-08.
+ Orloff, Chet. "Francis Pettygrove (1812–1887)". The Oregon Encyclopedia. Portland State University. Retrieved March 29, 2010.
+ Example: Meredith, R. W.; Janečka, J. E.; Gatesy, J.; Ryder, O. A.; Fisher, C. A.; Teeling, E. C.; Goodbla, A.; Eizirik, E.; Simão, T. L. L.; Stadler, T.; Rabosky, D. L.; Honeycutt, R. L.; Flynn, J. J.; Ingram, C. M.; Steiner, C.; Williams, T. L.; Robinson, T. J.; Burk-Herrick, A.; Westerman, M.; Ayoub, N. A.; Springer, M. S.; Murphy, W. J. (2011). "Impacts of the Cretaceous Terrestrial Revolution and KPg Extinction on Mammal Diversification". Science. 334 (6055): 521–524. Bibcode:2011Sci...334..521M. doi:10.1126/science.1211028. PMID 21940861. S2CID 38120449. "First authorship determined by coin toss. [...] Last authorship determined by coin toss."
+ "Ten wins AFL grand final coin toss". The Sydney Morning Herald. December 22, 2006. Retrieved September 22, 2019.
+ Virola, Madonna (2013-05-16). "Coin toss breaks tie in mayoral race in Oriental Mindoro town". Philippine Daily Inquirer. Retrieved 2013-03-16.
+ "Hague savours local victories". BBC News. May 5, 2000. Retrieved 2012-12-08. There are two methods to decide the outcome in the event of a draw - either a coin is flipped or the parties draw straws.
+ "The count". Vote2001. BBC News. February 17, 2001. Retrieved 2012-12-08. He or she [the returning officer] can use any random method such as tossing a coin, but the recommended way is to ask each candidate to write their name on a blank slip of paper and place it in a container.
+ "Frequently Asked Questions about a New Congress". United States Senate. Retrieved June 11, 2013.
+ Virginia Republican David Yancey Wins Tiebreaker Drawing NPR
+ Newport News House race tied after judges count outstanding ballot WTOP.com
+ Diaconis, Persi (11 December 2002). "The Problem of Thinking Too Much" (PDF). Department of Statistics, Stanford University.
+ Landhuis, Esther (June 7, 2004). "Lifelong debunker takes on arbiter of neutral choices". Stanford Report.
+ Aldous, David. "40,000 coin tosses yield ambiguous evidence for dynamical bias". Department of Statistics, University of California, Berkeley.
+ "Coin Tossing". Wolfram MathWorld.
+ Mackay, Harvey (28 May 2009). "Decision making defines the leader". Archived from the original on 24 July 2011.
+
+This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (December 2010) (Learn how and when to remove this template message)
+Sources
+Ford, Joseph (1983). "How random is a coin toss?". Physics Today. 36 (4): 40–47. Bibcode:1983PhT....36d..40F. doi:10.1063/1.2915570.
+Keller, Joseph B. (1986). "The probability of heads". American Mathematical Monthly. Mathematical Association of America. 93 (3): 191–197. doi:10.2307/2323340. JSTOR 2323340.
+Vulovic, Vladimir Z.; Prange, Richard E. (1986). "Randomness of a true coin toss". Physical Review A. 33 (1): 576–582. Bibcode:1986PhRvA..33..576V. doi:10.1103/PhysRevA.33.576. PMID 9896645.

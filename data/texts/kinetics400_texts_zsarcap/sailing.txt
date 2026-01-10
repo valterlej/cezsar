@@ -1,0 +1,444 @@
+Sailing
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Sailing (disambiguation).
+Sailing craft and their rigs
+
+Sloops racing with fore-and-aft sails
+
+Three-masted barque with square sails
+
+Sailing hydrofoil catamaran with wingsail
+
+DN class ice boat
+
+Class 3 competition land yacht
+Sailing employs the wind—acting on sails, wingsails or kites—to propel a craft on the surface of the water (sailing ship, sailboat, windsurfer, or kitesurfer), on ice (iceboat) or on land (land yacht) over a chosen course, which is often part of a larger plan of navigation.
+
+Until the middle of the 19th century, sailing ships were the primary means for marine exploration, commerce, and projection of military power; this period is known as the Age of Sail. In the 21st century, most sailing represents a form of recreation or sport. Recreational sailing or yachting can be divided into racing and cruising. Cruising can include extended offshore and ocean-crossing trips, coastal sailing within sight of land, and daysailing.
+
+Sailing relies on the physics of sails as they derive power from the wind, generating both lift and drag. On a given course, the sails are set to an angle that optimizes the development of wind power, as determined by the apparent wind, which is the wind as sensed from a moving vessel. The forces transmitted via the sails are resisted by forces from the hull, keel, and rudder of a sailing craft, by forces from skate runners of an iceboat, or by forces from wheels of a land sailing craft to allow steering the course. This combination of forces means that it is possible to sail an upwind course as well as downwind. The course with respect to the true wind direction (as would be indicated by a stationary flag) is called a point of sail. Conventional sailing craft cannot derive wind power on a course with a point of sail that is too close into the wind.
+
+
+Contents
+1	History
+1.1	Exploration and research
+1.2	Commerce
+1.3	Naval power
+2	Entertainment application
+2.1	Recreation
+2.2	Sport
+3	Navigation
+3.1	Point of sail
+3.1.1	Effect on apparent wind
+3.2	Course under sail
+3.2.1	Upwind
+3.2.1.1	Changing tack by tacking
+3.2.2	Downwind
+3.2.2.1	Changing tack by jibing
+3.3	Wind and currents
+4	Trimming
+4.1	Sails
+4.1.1	Reducing sail
+4.2	Hull
+4.2.1	Heeling
+4.2.2	Helm force
+4.2.3	Hull drag
+5	Other aspects of seamanship
+5.1	Nautical terms
+5.2	Management of lines
+6	Sail physics
+6.1	Apparent wind velocity
+6.2	Lift and drag on sails
+6.2.1	Lift predominance (wing mode)
+6.2.2	Drag predominance (parachute mode)
+6.2.3	Wind variation with height and time
+7	Hull physics
+7.1	Drag
+7.2	Lateral resistance
+7.3	Wave generation
+8	See also
+9	Notes
+10	Bibliography
+11	Further reading
+History
+Further information: Maritime history and Sailing ship § History
+
+Fijian voyaging outrigger boat with a crab claw sail
+Throughout history sailing has been a key form of propulsion that allowed greater mobility than travel over land, whether for exploration, trade, transport, or warfare, and that increased the capacity for fishing, compared to that from shore.
+
+Early square rigs generally could not sail much closer than 80° to the wind, whereas early fore-and-aft rigs could sail as close as 60–75° off the wind.[1] Later square-rigged vessels too were able to sail to windward, and became the standard for European ships through the Age of Discovery when vessels ventured around Africa to India, to the Americas and around the world.[2] Sailing ships became longer and faster over time, with ship-rigged vessels carrying taller masts with more square sails. The Age of Sail (1570–1870) reached its peak in the 18th and 19th centuries with merchant sailing ships that were able to travel at speeds that exceeded those of the newly introduced steamships.
+
+Exploration and research
+
+Replica of Christopher Columbus's carrack, Santa María under sail
+Austronesian peoples sailed from what is now Southern China and Taiwan with of Catamarans or vessels outriggers,[3] and crab claw sails,[4] which enabled the Austronesian Expansion at around 3000 to 1500 BCE into the islands of Maritime Southeast Asia, and thence to Micronesia, Island Melanesia, Polynesia, and Madagascar.[5] They traveled vast distances of open ocean in outrigger canoes using navigation methods such as stick charts.[6][7]
+
+By the time of the Age of Discovery—starting in the 15th century—square-rigged, multi-masted vessels were the norm and were guided by navigation techniques that included the magnetic compass and making sightings of the sun and stars that allowed transoceanic voyages.[2]
+
+During the Age of Discovery, sailing ships figured in European voyages around Africa to China and Japan; and across the Atlantic Ocean to North and South America. Later, sailing ships ventured into the Arctic to explore northern sea routes and assess natural resources. In the 18th and 19th centuries sailing vessels made Hydrographic surveys to develop charts for navigation and, at times, carried scientists aboard as with the voyages of James Cook and the Second voyage of HMS Beagle with naturalist Charles Darwin.
+
+Commerce
+
+A late-19th-century American clipper ship
+
+A French squadron forming a line of battle circa 1840.
+In the early 1800s, fast blockade-running schooners and brigantines—Baltimore Clippers—evolved into three-masted, typically ship-rigged sailing vessels with fine lines that enhanced speed, but lessened capacity for high-value cargo, like tea from China.[8] Masts were as high as 100 feet (30 m) and were able to achieve speeds of 19 knots (35 km/h), allowing for passages of up to 465 nautical miles (861 km) per 24 hours. Clippers yielded to bulkier, slower vessels, which became economically competitive in the mid 19th century.[9] Sail plans with just fore-and-aft sails (schooners), or a mixture of the two (brigantines, barques and barquentines) emerged.[2] Coastal top-sail schooners with a crew as small as two managing the sail handling became an efficient way to carry bulk cargo, since only the fore-sails required tending while tacking and steam-driven machinery was often available for raising the sails and the anchor.[10]
+
+Iron-hulled sailing ships represented the final evolution of sailing ships at the end of the Age of Sail. They were built to carry bulk cargo for long distances in the nineteenth and early twentieth centuries.[11] They were the largest of merchant sailing ships, with three to five masts and square sails, as well as other sail plans. They carried bulk cargoes between continents. Iron-hulled sailing ships were mainly built from the 1870s to 1900, when steamships began to outpace them economically, due to their ability to keep a schedule regardless of the wind. Steel hulls also replaced iron hulls at around the same time. Even into the twentieth century, sailing ships could hold their own on transoceanic voyages such as Australia to Europe, since they did not require bunkerage for coal nor fresh water for steam, and they were faster than the early steamers, which usually could barely make 8 knots (15 km/h).[12] Ultimately, the steamships' independence from the wind and their ability to take shorter routes, passing through the Suez and Panama Canals, made sailing ships uneconomical.[13]
+
+Naval power
+Further information: Sailing ship tactics
+Until the general adoption of carvel-built ships that relied on an internal skeleton structure to bear the weight of the ship and for gun ports to be cut in the side, sailing ships were just vehicles for delivering fighters to the enemy for engagement.[14] By 1500, Gun ports allowed sailing vessels to sail alongside alongside an enemy vessel and fire a broadside of multiple cannon.[15] This development allowed for naval fleets to array themselves into a line of battle, whereby, warships would maintain their place in the line to engage the enemy in a parallel or perpendicular line.[16]
+
+Entertainment application
+
+Cruising sailing yacht at anchor in Duck Harbor on Isle au Haut, Maine
+
+Comanche leaving Newport, Rhode Island for Plymouth, England in the 2015 Rolex Transatlantic Race
+Recreation
+Recreational sailing can be divided into two categories, day-sailing, where one gets off the boat for the night, and cruising, where one stays aboard.
+
+Day-sailing primarily affords experiencing the pleasure of sailing a boat. No destination is required. It is an opportunity to share the experience with others.[17] A variety of boats with no overnight accommodations, ranging in size from 10 feet (3.0 m) to over 30 feet (9.1 m), may be regarded as day sailors.[18]
+
+Cruising on a sailing yacht may be either near-shore or passage-making out of sight of land and entails the use of sailboats that support sustained overnight use.[19] Coastal cruising grounds include areas of the Mediterranean and Black Seas, Northern Europe, Western Europe and islands of the North Atlantic, West Africa and the islands of the South Atlantic, the Caribbean, and regions of North and Central America.[20] Passage-making under sail occurs on routes through oceans all over the world. Circular routes exist between the Americas and Europe, and between South Africa and South America. There are many routes from the Americas, Australia, New Zealand, and Asia to island destinations in the South Pacific. Some cruisers circumnavigate the globe.[21]
+
+Sport
+Main article: Sailing (sport)
+Sailing as a sport is organized on a hierarchical basis, starting at the yacht club level and reaching up into national and international federations; it may entail racing yachts, sailing dinghies, or other small, open sailing craft, including iceboats and land yachts. Sailboat racing is governed by World Sailing with most racing formats using the Racing Rules of Sailing.[22] It entails a variety of different disciplines, including:
+
+Oceanic racing, held over long distances and in open water, often last multiple days and include world circumnavigation, such as the Vendée Globe and The Ocean Race.[23]
+Fleet racing, featuring multiple boats in a regatta that comprises multiple races or heats.[24]
+Match racing comprises two boats competing against each other, as is done with the America's Cup, vying to cross a finish line, first.[25]
+Team racing between two teams of three boats each in a format analogous to match racing.[26]
+Speed sailing to set new records for different categories of craft with oversight by the World Sailing Speed Record Council.[22][27]
+Sail boarding has a variety of disciplines particular to that sport.[28]
+Navigation
+
+Points of sail (and predominant sail force component for a displacement sailboat).
+A. Luffing (no propulsive force) — 0-30°
+B. Close-hauled (lift)— 30–50°
+C. Beam reach (lift)— 90°
+D. Broad reach (lift–drag)— ~135°
+E. Running (drag)— 180°
+True wind (VT) is the same everywhere in the diagram, whereas boat velocity (VB) and apparent wind (VA) vary with point of sail.
+Point of sail
+Further information: Point of sail
+A sailing craft's ability to derive power from the wind depends on the point of sail it is on—the direction of travel under sail in relation to the true wind direction over the surface. The principal points of sail roughly correspond to 45° segments of a circle, starting with 0° directly into the wind. For many sailing craft, the arc spanning 45° on either side of the wind is a "no-go" zone,[29] where a sail is unable to mobilize power from the wind.[30] Sailing on a course as close to the wind as possible—approximately 45°—is termed "close-hauled". At 90° off the wind, a craft is on a "beam reach". At 135° off the wind, a craft is on a "broad reach". At 180° off the wind (sailing in the same direction as the wind), a craft is "running downwind".
+
+In points of sail that range from close-hauled to a broad reach, sails act substantially like a wing, with lift predominantly propelling the craft. In points of sail from a broad reach to down wind, sails act substantially like a parachute, with drag predominantly propelling the craft. For craft with little forward resistance ice boats and land yachts, this transition occurs further off the wind than for sailboats and sailing ships.[30]
+
+Wind direction for points of sail always refers to the true wind—the wind felt by a stationary observer. The apparent wind—the wind felt by an observer on a moving sailing craft—determines the motive power for sailing craft.
+
+A sailboat on three points of sail
+The waves give an indication of the true wind direction. The flag gives an indication of apparent wind direction.
+
+
+Close-hauled: the flag is streaming backwards, the sails are sheeted in tightly.
+
+ 
+
+Reaching: the flag is streaming slightly to the side as the sails are sheeted to align with the apparent wind.
+
+ 
+
+Running: the wind is coming from behind the vessel; the sails are "wing on wing" to be at right angles to the apparent wind.
+
+Effect on apparent wind
+Further information: Forces on sails § Effect of points of sail on forces
+True wind velocity (VT) combines with the sailing craft's velocity (VB) to be the apparent wind velocity (VA), the air velocity experienced by instrumentation or crew on a moving sailing craft. Apparent wind velocity provides the motive power for the sails on any given point of sail. It varies from being the true wind velocity of a stopped craft in irons in the no-go zone to being faster than the true wind speed as the sailing craft's velocity adds to the true windspeed on a reach, to diminishing towards zero, as a sailing craft sails dead downwind.[31]
+
+Effect of apparent wind on sailing craft at three points of sail
+Sailing craft A is close-hauled. Sailing craft B is on a beam reach. Sailing craft C is on a broad reach.
+Boat velocity (in black) generates an equal and opposite apparent wind component (not shown), which adds to the true wind to become apparent wind.
+
+
+Apparent wind and forces on a sailboat.
+As the boat sails further from the wind, the apparent wind becomes smaller and the lateral component becomes less; boat speed is highest on the beam reach.
+
+ 
+
+Apparent wind on an iceboat.
+As the iceboat sails further from the wind, the apparent wind increases slightly and the boat speed is highest on the broad reach. The sail is sheeted in for all three points of sail.[30]
+
+The speed of sailboats through the water is limited by the resistance that results from hull drag in the water. Ice boats typically have the least resistance to forward motion of any sailing craft.[30] Consequently, a sailboat experiences a wider range of apparent wind angles than does an ice boat, whose speed is typically great enough to have the apparent wind coming from a few degrees to one side of its course, necessitating sailing with the sail sheeted in for most points of sail. On conventional sailboats, the sails are set to create lift for those points of sail where it's possible to align the leading edge of the sail with the apparent wind.[31]
+
+For a sailboat, point of sail affects lateral force significantly. The higher the boat points to the wind under sail, the stronger the lateral force, which requires resistance from a keel or other underwater foils, including daggerboard, centerboard, skeg and rudder. Lateral force also induces heeling in a sailboat, which requires resistance by weight of ballast from the crew or the boat itself and by the shape of the boat, especially with a catamaran. As the boat points off the wind, lateral force and the forces required to resist it become less important.[32] On ice boats, lateral forces are countered by the lateral resistance of the blades on ice and their distance apart, which generally prevents heeling.[33]
+
+Course under sail
+
+Atmospheric circulation, showing wind direction at various latitudes
+
+Wind circulation around an occluded front in the Northern Hemisphere
+Wind and currents are important factors to plan on for both offshore and inshore sailing. Predicting the availability, strength and direction of the wind is key to using its power along the desired course. Ocean currents, tides and river currents may deflect a sailing vessel from its desired course.[34]
+
+If the desired course is within the no-go zone, then the sailing craft must follow a zig-zag route into the wind to reach its waypoint or destination. Downwind, certain high-performance sailing craft can reach the destination more quickly by following a zig-zag route on a series of broad reaches.
+
+Negotiating obstructions or a channel may also require a change direction of with respect to the wind, necessitating changing of tack with the wind on the opposite side of the craft, from before.
+
+Changing tack is called tacking when the wind crosses over the bow of the craft as it turns and jibing (or gybing) if the wind passes over the stern.
+
+Upwind
+A sailing craft can sail on a course anywhere outside of its no-go zone.[35] If the next waypoint or destination is within the arc defined by the no-go zone from the craft's current position, then it must perform a series of tacking maneuvers to get there on a dog-legged route, called beating to windward.[36] The progress along that route is called the course made good; the speed between the starting and ending points of the route is called the speed made good and is calculated by the distance between the two points, divided by the travel time.[37] The limiting line to the waypoint that allows the sailing vessel to leave it to leeward is called the layline.[38] Whereas some Bermuda-rigged sailing yachts can sail as close as 30° to the wind,[37] most 20th-Century square riggers are limited to 60° off the wind.[39] Fore-and-aft rigs are designed to operate with the wind on either side, whereas square rigs and kites are designed to have the wind come from one side of the sail only.
+
+Because the lateral wind forces are highest on a sailing vessel, close-hauled and beating to windward, the resisting water forces around the vessel's keel, centerboard, rudder and other foils is also highest to mitigate leeway—the vessel sliding to leeward of its course. Ice boats and land yachts minimize lateral motion with sidewise resistance from their blades or wheels.[40]
+
+Changing tack by tacking
+Further information: Tacking (sailing) § For various sailing craft
+
+Two sailing yachts on opposite tacks
+Tacking or coming about is a maneuver by which a sailing craft turns its bow into and through the wind (called the "eye of the wind") so that the apparent wind changes from one side to the other, allowing progress on the opposite tack.[41] The type of sailing rig dictates the procedures and constraints on achieving a tacking maneuver. Fore-and-aft rigs allow their sails to hang limp as they tack; square rigs must present the full frontal area of the sail to the wind, when changing from side to side; and windsurfers have flexibly pivoting and fully rotating masts that get flipped from side to side.
+
+
+Tacking from the port tack (bottom) to the starboard (top) tack
+
+ 
+
+Beating to windward on short (P1), medium (P2), and long (P3) tacks
+
+Downwind
+
+18ft Skiff, flying a sprit-mounted asymmetrical spinnaker on a broad reach
+A sailing craft can travel directly downwind only at a speed that is less than the wind speed. However, a variety of sailing craft can achieve a higher downwind velocity made good by traveling on a series of broad reaches, punctuated by jibes in between. This is true of ice boats and sand yachts. On the water it was explored by sailing vessels, starting in 1975, and now extends to high-performance skiffs, catamarans and foiling sailboats.[42]
+
+Navigating a channel or a downwind course among obstructions may necessitate changes in direction that require a change of tack, accomplished with a jibe.
+
+Changing tack by jibing
+Further information: Jibe § For various sailing craft
+Jibing or gybing is a sailing maneuver by which a sailing craft turns its stern past the eye of the wind so that the apparent wind changes from one side to the other, allowing progress on the opposite tack. This maneuver can be done on smaller boats by pulling the tiller towards yourself (the opposite side of the sail).[41] As with tacking, the type of sailing rig dictates the procedures and constraints for jibing. Fore-and-aft sails with booms, gaffs or sprits are unstable when the free end points into the eye of the wind and must be controlled to avoid a violent change to the other side; square rigs as they present the full area of the sail to the wind from the rear experience little change of operation from one tack to the other; and windsurfers again have flexibly pivoting and fully rotating masts that get flipped from side to side.
+
+Wind and currents
+
+The ocean currents
+Winds and oceanic currents are both the result of the sun powering their respective fluid media. Wind powers the sailing craft and the ocean bears the craft on its course, as currents may alter the course of a sailing vessel on the ocean or a river.
+
+Wind – On a global scale, vessels making long voyages must take atmospheric circulation into account, which causes zones of westerlies, easterlies, trade winds and high-pressure zones with light winds, sometimes called horse latitudes, in between.[43] Sailors predict wind direction and strength with knowledge of high- and low-pressure areas, and the weather fronts that accompany them. Along coastal areas, sailors contend with diurnal changes in wind direction—flowing off the shore at night and onto the shore during the day.[44] Local temporary wind shifts are called lifts, when they improve the sailing craft's ability travel along its rhumb line in the direction of the next waypoint. Unfavorable wind shifts are called headers.[45]:97
+Currents – On a global scale, vessels making long voyages must take major ocean current circulation into account.[46] Major oceanic currents, like the Gulf Stream in the Atlantic Ocean and the Kuroshio Current in the Pacific Ocean require planning for the effect that they will have on a transiting vessel's track. Likewise, tides affect a vessel's track, especially in areas with large tidal ranges,[36] like the Bay of Fundy or along Southeast Alaska, or where the tide flows through straits, like Deception Pass in Puget Sound.[47] Mariners use tide and current tables to inform their navigation.[34] Before the advent of motors, it was advantageous for sailing vessels to enter or leave port or to pass through a strait with the tide.[39]
+Trimming
+
+A Contender dinghy trimmed for a reach with the sail aligned with the apparent wind and the crew providing moveable ballast to promote planing
+Trimming refers to adjusting the lines that control sails, including the sheets that control angle of the sails with respect to the wind, the halyards that raise and tighten the tighten the sail, and to adjusting the hull's resistance to heeling, yawing or progress through the water.
+
+Sails
+
+Spinnakers are adapted for sailing off the wind.
+Square sails are controlled by two each of: sheets, braces, clewlines, and reef tackles, plus four buntlines, each of which may be controlled by a crew member as the sail is adjusted.[48] Towards the end of the Age of Sail, steam-powered machinery reduced the number of crew required to trim sail.[49]
+
+Adjustment of the angle of a fore-and-aft sail with respect to the apparent wind is controlled with a line, called a "sheet". On points of sail between close-hauled and a broad reach, the goal is typically to create flow along the sail to maximize power through lift. Streamers placed on the surface of the sail, called tell-tales, indicate whether that flow is smooth or turbulent. Smooth flow on both sides indicates proper trim. A jib and mainsail are typically configured to be adjusted to create a smooth laminar flow, leading from one to the other in what is called the "slot effect".[50]
+
+On downwind points of sail, power is achieved primarily with the wind pushing on the sail, as indicated by drooping tell-tales. Spinnakers are light-weight, large-area, highly curved sails that are adapted to sailing off the wind.[50]
+
+In addition to using the sheets to adjust the angle with respect to the apparent wind, other lines control the shape of the sail, notably the outhaul, halyard, boom vang and backstay. These control the curvature that is appropriate to the windspeed, the higher the wind, the flatter the sail. When the wind strength is greater than these adjustments can accommodate to prevent overpowering the sailing craft, then reducing sail area through reefing, substituting a smaller sail or by other means.[51][52]
+
+Reducing sail
+Reducing sail on square-rigged ships could be accomplished by exposing less of each sail, by tying it off higher up with reefing points.[49] Additionally, as winds get stronger, sails can be furled or removed from the spars, entirely until the vessel is surviving hurricane-force winds under "bare poles".[45]:137
+
+On fore-and-aft rigged vessels, reducing sail may furling the jib and by reefing or partially lowering the mainsail, that is reducing the area of a sail without actually changing it for a smaller sail. This results both in a reduced sail area but also in a lower centre of effort from the sails, reducing the heeling moment and keeping the boat more upright.
+
+There are three common methods of reefing the mainsail:[51][52]
+
+Slab reefing, which involves lowering the sail by about one-quarter to one-third of its full length and tightening the lower part of the sail using an outhaul or a pre-loaded reef line through a cringle at the new clew, and hook through a cringle at the new tack.
+In-boom roller-reefing, with a horizontal foil inside the boom. This method allows for standard- or full-length horizontal battens.
+In-mast (or on-mast) roller-reefing. This method rolls the sail up around a vertical foil either inside a slot in the mast, or affixed to the outside of the mast. It requires a mainsail with either no battens, or newly developed vertical battens.[53]
+Hull
+Hull trim has three aspects, each tied to an axis of rotation, they are controlling:[45]:131–5
+
+Heeling (roll about the longitudinal axis)
+Helm force (rotation about the vertical axis)
+Hull drag (rotation about the horizontal axis amidships)
+Each is a reaction to forces on sails and is achieved either by weight distribution or by management of the center of force of the underwater foils (keel, daggerboard, etc.), compared with the center of force on the sails.
+
+Heeling
+
+Boats heeling in front of Britannia Bridge in a round-Anglesey race 1998
+A sailing vessel's form stability (the resistance of hull shape to rolling) is the starting point for resisting heeling. Catamarans and iceboats have a wide stance that makes them resistant to heeling. Additional measures for trimming a sailing craft to control heeling include:[45]:131–5
+
+Ballast in the keel, which counteracts heeling as the boat rolls.
+Shifting of weight, which might be crew on a trapeze or moveable ballast across the boat.
+Reducing sail
+Adjusting the depth of underwater foils to control their lateral resistance force and center of resistance
+Helm force
+The alignment of center of force of the sails with center of resistance of the hull and its appendices controls whether the craft will track straight with little steering input, or whether correction needs to be made to hold it away from turning into the wind (a weather helm) or turning away from the wind (a lee helm). A center of force behind the center of resistance causes a weather helm. The center of force ahead of the center of resistance causes a lee helm. When the two are closely aligned, the helm is neutral and requires little input to maintain course.[45]:131–5
+
+Hull drag
+Fore-and-aft weight distribution changes the cross-section of a vessel in the water. Small sailing craft are sensitive to crew placement. They are usually designed to have the crew stationed midships to minimize hull drag in the water.[45]:131–5
+
+Other aspects of seamanship
+
+1 – mainsail Edit this on Wikidata 2 – staysail Edit this on Wikidata 3 – spinnaker Edit this on Wikidata
+4 – hull Edit this on Wikidata 5 – keel Edit this on Wikidata 6 – rudder Edit this on Wikidata 7 – skeg Edit this on Wikidata
+8 – mast Edit this on Wikidata 9 – Spreader Edit this on Wikidata 10 – shroud Edit this on Wikidata
+11 – sheet Edit this on Wikidata 12 – boom Edit this on Wikidata 13 - mast Edit this on Wikidata
+14 – spinnaker pole Edit this on Wikidata 15 – backstay Edit this on Wikidata
+16 – forestay Edit this on Wikidata 17 – boom vang Edit this on Wikidata
+Seamanship encompasses all aspects of taking a sailing vessel in and out of port, navigating it to its destination, and securing it at anchor or alongside a dock. Important aspects of seamanship include employing a common language aboard a sailing craft and the management of lines that control the sails and rigging.[54]
+
+Nautical terms
+Further information: Glossary of nautical terms
+Nautical terms for elements of a vessel: starboard (right-hand side), port or larboard (left-hand side), forward or fore (frontward), aft or abaft (rearward), bow (forward part of the hull), stern (aft part of the hull), beam (the widest part). Spars, supporting sails, include masts, booms, yards, gaffs and poles. Moveable lines that control sails or other equipment are known collectively as a vessel's running rigging. Lines that raise sails are called halyards while those that strike them are called downhauls. Lines that adjust (trim) the sails are called sheets. These are often referred to using the name of the sail they control (such as main sheet or jib sheet). Guys are used to control the ends of other spars such as spinnaker poles. Lines used to tie a boat up when alongside are called docklines, docking cables or mooring warps. A rode is what attaches an anchored boat to its anchor.[55]
+
+Management of lines
+The following knots are regarded as integral to handling ropes and lines, while sailing:[56][57]
+
+Bowline – forms a loop at the end of a rope or line
+Cleat hitch – affixes a line to a cleat
+Clove hitch – two half hitches around a post or other object
+Figure-eight – a stopper knot
+Half hitch − a basic overhand knot around a line or object
+Reef knot − (or square knot) joins two rope ends of equal diameter
+Rolling hitch – a friction hitch to affix a line to itself or another object
+Sheet bend – joins to rope ends of unequal diameter
+Lines and halyards are typically coiled neatly for stowage and reuse.[58]
+
+Sail physics
+Main article: Forces on sails
+
+Aerodynamic force components for two points of sail.
+Left-hand boat: Down wind with detached airflow like a parachute— predominant drag component propels the boat with little heeling moment.
+Right-hand boat: Up wind (close-hauled) with attached airflow like a wing—predominant lift component both propels the boat and contributes to heel.
+The physics of sailing arises from a balance of forces between the wind powering the sailing craft as it passes over its sails and the resistance by the sailing craft against being blown off course, which is provided in the water by the keel, rudder, underwater foils and other elements of the underbody of a sailboat, on ice by the runners of an iceboat, or on land by the wheels of a sail-powered land vehicle.
+
+Forces on sails depend on wind speed and direction and the speed and direction of the craft. The speed of the craft at a given point of sail contributes to the "apparent wind"—the wind speed and direction as measured on the moving craft. The apparent wind on the sail creates a total aerodynamic force, which may be resolved into drag—the force component in the direction of the apparent wind—and lift—the force component normal (90°) to the apparent wind. Depending on the alignment of the sail with the apparent wind (angle of attack), lift or drag may be the predominant propulsive component. Depending on the angle of attack of a set of sails with respect to the apparent wind, each sail is providing motive force to the sailing craft either from lift-dominant attached flow or drag-dominant separated flow. Additionally, sails may interact with one another to create forces that are different from the sum of the individual contributions of each sail, when used alone.
+
+Apparent wind velocity
+The term "velocity" refers both to speed and direction. As applied to wind, apparent wind velocity (VA) is the air velocity acting upon the leading edge of the most forward sail or as experienced by instrumentation or crew on a moving sailing craft. In nautical terminology, wind speeds are normally expressed in knots and wind angles in degrees. All sailing craft reach a constant forward velocity (VB) for a given true wind velocity (VT) and point of sail. The craft's point of sail affects its velocity for a given true wind velocity. Conventional sailing craft cannot derive power from the wind in a "no-go" zone that is approximately 40° to 50° away from the true wind, depending on the craft. Likewise, the directly downwind speed of all conventional sailing craft is limited to the true wind speed. As a sailboat sails further from the wind, the apparent wind becomes smaller and the lateral component becomes less; boat speed is highest on the beam reach. To act like an airfoil, the sail on a sailboat is sheeted further out as the course is further off the wind.[31] As an iceboat sails further from the wind, the apparent wind increases slightly and the boat speed is highest on the broad reach. In order to act like an airfoil, the sail on an iceboat is sheeted in for all three points of sail.[30]
+
+Lift and drag on sails
+Main articles: Lift (force) and Lift-induced drag
+
+Sail angles of attack (α) and resulting (idealized) flow patterns for attached flow, maximum lift, and stalled for a hypothetical sail. The stagnation streamlines (red) delineate air passing to the leeward side (top) from that passing to the windward (bottom) side of the sail.
+Lift on a sail, acting as an airfoil, occurs in a direction perpendicular to the incident airstream (the apparent wind velocity for the headsail) and is a result of pressure differences between the windward and leeward surfaces and depends on the angle of attack, sail shape, air density, and speed of the apparent wind. The lift force results from the average pressure on the windward surface of the sail being higher than the average pressure on the leeward side.[59] These pressure differences arise in conjunction with the curved airflow. As air follows a curved path along the windward side of a sail, there is a pressure gradient perpendicular to the flow direction with higher pressure on the outside of the curve and lower pressure on the inside. To generate lift, a sail must present an "angle of attack" between the chord line of the sail and the apparent wind velocity. The angle of attack is a function of both the craft's point of sail and how the sail is adjusted with respect to the apparent wind.[60]
+
+As the lift generated by a sail increases, so does lift-induced drag, which together with parasitic drag constitute total drag, which acts in a direction parallel to the incident airstream. This occurs as the angle of attack increases with sail trim or change of course and causes the lift coefficient to increase up to the point of aerodynamic stall along with the lift-induced drag coefficient. At the onset of stall, lift is abruptly decreased, as is lift-induced drag. Sails with the apparent wind behind them (especially going downwind) operate in a stalled condition.[61]
+
+Lift and drag are components of the total aerodynamic force on sail, which are resisted by forces in the water (for a boat) or on the traveled surface (for an iceboat or land sailing craft). Sails act in two basic modes; under the lift-predominant mode, the sail behaves in a manner analogous to a wing with airflow attached to both surfaces; under the drag-predominant mode, the sail acts in a manner analogous to a parachute with airflow in detached flow, eddying around the sail.
+
+Lift predominance (wing mode)
+Sails allow progress of a sailing craft to windward, thanks to their ability to generate lift (and the craft's ability to resist the lateral forces that result). Each sail configuration has a characteristic coefficient of lift and attendant coefficient of drag, which can be determined experimentally and calculated theoretically. Sailing craft orient their sails with a favorable angle of attack between the entry point of the sail and the apparent wind even as their course changes. The ability to generate lift is limited by sailing too close to the wind when no effective angle of attack is available to generate lift (causing luffing) and sailing sufficiently off the wind that the sail cannot be oriented at a favorable angle of attack to prevent the sail from stalling with flow separation.
+
+Drag predominance (parachute mode)
+When sailing craft are on a course where the angle between the sail and the apparent wind (the angle of attack) exceeds the point of maximum lift, separation of flow occurs.[62] Drag increases and lift decreases with increasing angle of attack as the separation becomes progressively pronounced until the sail is perpendicular to the apparent wind, when lift becomes negligible and drag predominates. In addition to the sails used upwind, spinnakers provide area and curvature appropriate for sailing with separated flow on downwind points of sail, analogous to parachutes, which provide both lift and drag.[63]
+
+Downwind sailing with a spinnaker
+
+Spinnaker set for a broad reach, generating both lift, with separated flow, and drag.
+
+ 
+
+Spinnaker cross-section trimmed for a broad reach showing transition from boundary layer to separated flow where vortex shedding commences.
+
+ 
+
+Symmetric spinnaker while running downwind, primarily generating drag.
+
+ 
+
+Symmetric spinnaker cross-section with following apparent wind, showing vortex shedding.
+
+Wind variation with height and time
+Further information: Wind gradient § Sailing
+Wind speed increases with height above the surface; at the same time, wind speed may vary over short periods of time as gusts.
+
+Wind shear affects sailing craft in motion by presenting a different wind speed and direction at different heights along the mast. Wind shear occurs because of friction above a water surface slowing the flow of air.[64] The ratio of wind at the surface to wind at a height above the surface varies by a power law with an exponent of 0.11-0.13 over the ocean. This means that a 5 m/s (9.7 kn) wind at 3 m above the water would be approximately 6 m/s (12 kn) at 15 m (50 ft) above the water. In hurricane-force winds with 40 m/s (78 kn) at the surface the speed at 15 m (50 ft) would be 49 m/s (95 kn)[65] This suggests that sails that reach higher above the surface can be subject to stronger wind forces that move the centre of effort on them higher above the surface and increase the heeling moment. Additionally, apparent wind direction moves aft with height above water, which may necessitate a corresponding twist in the shape of the sail to achieve attached flow with height.[66]
+
+Gusts may be predicted by the same value that serves as an exponent for wind shear, serving as a gust factor. So, one can expect gusts to be about 1.5 times stronger than the prevailing wind speed (a 10-knot wind might gust up to 15 knots). This, combined with changes in wind direction suggest the degree to which a sailing craft must adjust sail angle to wind gusts on a given course.[67]
+
+Hull physics
+See also: High-performance sailing
+Waterborne sailing craft rely on the design of the hull and keel to provide minimal forward drag in opposition to the sails' propulsive power and maximum resistance to the sails' lateral forces. In modern sailboats, drag is minimized by control of the hull's shape (blunt or fine), appendages, and slipperiness. The keel or other underwater foils provide the lateral resistance to forces on the sails. Heeling increases both drag and the ability of the boat to track along its desired course. Wave generation for a displacement hull is another important limitation on boat speed.[68]
+
+Drag
+Drag due to its form is described by a prismatic coefficient, Cp = displaced volume of the vessel divided by waterline length times maximum displaced section area—the maximum value of Cp = 1.0 being for a constant displace cross section area, as would be found on a barge. For modern sailboats, values of 0.53 ≤ Cp ≤ 0.6 are likely because of the tapered shape of the submerged hull towards both ends. Reducing interior volume allows creating a finer hull with less drag. Because a keel or other underwater foil produces lift, it also produces drag, which increases as the boat heels. Wetted area of the hull affects total the amount of friction between the water and the hull's surface, creating another component of drag.[68]
+
+Lateral resistance
+Sailboats use some sort of underwater foil to generate lift that maintains the forward direction of the boat under sail. Whereas sails operate at angles of attack between 10° to 90° incident to the wind, underwater foils operate at angles of attack between 0° to 10° incident to the water passing by. Neither their angle of attack nor surface is adjustable (except for moveable foils) and they are never intentionally stalled. Heeling the vessel away from perpendicular into the water significantly degrades the boat's ability to point into the wind.[68]
+
+Wave generation
+For displacement hulls have are limited in speed at a level defined by the square root of the boat's water line, the boat's hull speed. The addition of more power from sails or other source does not allow the vessel to go faster, it merely generates a wake with higher waves.[68] Planing and foiling sailboats transcend this limitation, whereby speed becomes a linear function of power.[69] Sailing craft on ice runners or wheels encounter forward resistance that depends on friction with their respective bearing surfaces.[69]
+
+See also
+	Sports portal
+Main article: Outline of sailing
+Dinghy racing
+High-performance sailing
+Land sailing
+Racing Rules of Sailing
+Sailing at the Summer Olympics
+Single-handed sailing
+Notes
+ Jett, Stephen C. (2017). Ancient Ocean Crossings: Reconsidering the Case for Contacts with the Pre-Columbian Americas. University of Alabama Press. p. 177. ISBN 978-0-8173-1939-7.
+ Anderson, Romola; Anderson, R. C. (1 September 2003). A Short History of the Sailing Ship. Courier Corporation. ISBN 9780486429885.
+ Doran, Edwin, Jr. (1974). "Outrigger Ages". The Journal of the Polynesian Society. 83 (2): 130–140.
+ Mahdi, Waruno (1999). "The Dispersal of Austronesian boat forms in the Indian Ocean". In Blench, Roger; Spriggs, Matthew (eds.). Archaeology and Language III: Artefacts languages, and texts. One World Archaeology. 34. Routledge. pp. 144–179. ISBN 978-0415100540.
+ Meacham, Steve (11 December 2008). "Austronesians were first to sail the seas". The Sydney Morning Herald. Retrieved 28 April 2019.
+ O'Connor, Tom (September–October 2004). "Polynesians in the Southern Ocean: Occupation of the Aukland in Islands in Prehistory". New Zealand Geographic. 69 (6–8).
+ Doran, Edwin Jr. (1981). Wangka: Austronesian canoe origins. Texas A&M University Press. ISBN 9781585440863.
+ Villiers, Alan (1973). Men, ships, and the sea. National Geographic Society (U.S.) (New ed.). Washington: National Geographic Society. ISBN 0870440187. OCLC 533537.
+ Baker, Kevin (2016). America the Ingenious: How a Nation of Dreamers, Immigrants, and Tinkerers Changed the World. Artisan Books. pp. 13–5. ISBN 9781579657291.
+ Chatterton, Edward Keble (1915). Sailing Ships and Their Story :the Story of Their Development from the Earliest Times to the Present Day. Lippincott. pp. 298.
+ Schäuffelen, Otmar (2005). Chapman Great Sailing Ships of the World. Hearst Books. ISBN 9781588163844.
+ Randier, Jean (1968). Men and Ships Around Cape Horn, 1616–1939. Barker. p. 338.
+ Pacific American Steamship Association; Shipowners Association of the Pacific Coast (1920). "Safe Passage (Poem and photo of four masted John Ena in Canal)". Pacific Marine Review. San Francisco: J.S. Hines. 17 (October 1920). Retrieved 24 December 2014.
+ Marsden, Peter (2003). Sealed by time : the loss and recovery of the Mary Rose. 1. Collins, K. J. Portsmouth: Mary Rose Trust. pp. 137–142. ISBN 0-9544029-0-1. OCLC 52143546.
+ Rodger, N. A. M. (1998). The safeguard of the sea : a naval history of Britain, 660–1649 (1 ed.). New York: W.W. Norton. pp. 312, 316. ISBN 0-393-04579-X. OCLC 38199493.
+ Glete, Jan (1993). Navies and nations : warships, navies, and state building in Europe and America, 1500–1860. Stockholm: Almqvist & Wiksell International. p. 176. ISBN 91-22-01565-5. OCLC 28542975.
+ Jobson, Gary (31 October 2017). "The Joy of a Day Sail". Cruising World. Retrieved 18 August 2020.
+ Pillsbury, Mark (18 April 2019). "18 Small Sailboats for the Weekender". Cruising World. Retrieved 18 August 2020.
+ Staff (1 January 2010). Coastal Cruising Made Easy: The Official Manual For The ASA Basic Coastal Cruising Course (ASA 103). American Sailing Association. ISBN 978-0-9821025-1-0.
+ Cornell, Jimmy (13 July 2010). World Cruising Destinations: An Inspirational Guide to All Sailing Destinations. A&C Black. ISBN 978-1-4081-1401-8.
+ Cornell, Jimmy (16 August 2012). World Voyage Planner: Planning a Voyage from Anywhere in the World to Anywhere in the World. A&C Black. ISBN 978-1-4081-5631-5.
+ Elvstrom, Paul (30 January 2009). Paul Elvstrom Explains the Racing Rules of Sailing: 2009–2012 Rules. A&C Black. ISBN 978-1-4081-0949-6.
+ Jeffery, Timothy (27 October 2016). Sail: A tribute to the world's greatest races, sailors and their boats. Aurum Press. ISBN 978-1-78131-658-0.
+ Cort, Adam; Stearns, Richard (14 June 2013). Getting Started in Sailboat Racing, 2nd Edition. McGraw Hill Professional. ISBN 978-0-07-180827-9.
+ Simpson, Richard V. (24 April 2012). The Quest for the America's Cup: Sailing to Victory. Arcadia Publishing. ISBN 978-1-61423-446-3.
+ Tylecote, Steve (8 May 2002). Team Racing for Sailboats. Wiley. ISBN 978-1-898660-85-9.
+ Bethwaite, Frank (4 August 2013). Higher Performance Sailing: Faster Handling Techniques. A&C Black. ISBN 978-1-4729-0131-6.
+ Hart, Peter (30 November 2014). Windsurfing. Crowood. ISBN 978-1-84797-963-6.
+ Cunliffe, Tom (2016). The Complete Day Skipper: Skippering with Confidence Right From the Start (5 ed.). Bloomsbury Publishing. p. 46. ISBN 978-1-4729-2418-6.
+ Kimball, John (2009). Physics of Sailing. CRC Press. p. 296. ISBN 978-1466502666.
+ Jobson, Gary (1990). Championship Tactics: How Anyone Can Sail Faster, Smarter, and Win Races. New York: St. Martin's Press. pp. 323. ISBN 978-0-312-04278-3.
+ Marchaj, C. A. (2002), Sail Performance: Techniques to Maximize Sail Power (2 ed.), International Marine/Ragged Mountain Press, p. 416, ISBN 978-0071413107
+ Bethwaite, Frank (2007). High Performance Sailing. Adlard Coles Nautical. ISBN 978-0-7136-6704-2.
+ Howard, Jim; Doane, Charles J. (2000). Handbook of Offshore Cruising: The Dream and Reality of Modern Ocean Cruising. p. 214. ISBN 9781574090932.
+ Cunliffe, Tom (2016). The Complete Day Skipper: Skippering with Confidence Right From the Start (5 ed.). Bloomsbury Publishing. p. 46. ISBN 978-1-4729-2418-6.
+ Cunliffe, Tom (January 1988). "The shortest route to windward". Cruising World. 14 (1): 58–64. ISSN 0098-3519.
+ Jobson, Gary (2008). Sailing Fundamentals (Revised ed.). Simon and Schuster. p. 224. ISBN 978-1-4391-3678-2.
+ Walker, Stuart H.; Price, Thomas C. (1991). Positioning: The Logic of Sailboat Racing. W. W. Norton & Company. p. 192. ISBN 978-0-393-03339-7.
+ Findlay, Gordon D. (2005). My Hand on the Tiller. AuthorHouse. p. 138. ISBN 9781456793500.
+ Fossati, Fabio (1 November 2009). Aero-hydrodynamics and the Performance of Sailing Yachts: The Science Behind Sailing Yachts and Their Design. Adlard Coles Nautical. p. 352. ISBN 978-1408113387.
+ Keegan, John (1989). The Price of Admiralty. New York: Viking. p. 281. ISBN 978-0-670-81416-9.
+ Bethwaite, Frank (2007). High Performance Sailing. Adlard Coles Nautical. ISBN 978-0-7136-6704-2.
+ Yochanan Kushnir (2000). "The Climate System: General Circulation and Climate Zones". Retrieved 13 March 2012.
+ Ahrens, C. Donald; Henson, Robert (1 January 2015). Meteorology Today (11 ed.). Cengage Learning. p. 656. ISBN 9781305480629.
+ Royce, Patrick M. (2015). Royce's Sailing Illustrated. 2 (11 ed.). ProStar Publications. ISBN 978-0-911284-07-2.
+ National Ocean Service (25 March 2008). "Surface Ocean Currents". noaa.gov. National Oceanic and Atmospheric Administration.
+ "2.5 Tides and Currents" (PDF). North Central Puget Sound Geographic Response Plan. Washington Department of Ecology. December 2012. pp. 2–4. Retrieved 23 March 2016.
+ Queeny, Tim (25 April 2014). "Square sail handling". Ocean Navigator. Retrieved 30 April 2021.
+ deNoble, Paul (17 January 2020). "Square-Rigged Sailing Ship Innovations – by Paul deNoble". EcoClipper. Retrieved 30 April 2021.
+ Schweer, Peter (2006). How to Trim Sails. Sheridan House, Inc. ISBN 978-1-57409-220-2.
+ Holmes, Rupert (11 June 2020). "How-to: Mainsail Trim 101". Sail Magazine. Retrieved 30 April 2021.
+ Mason, Charles (July 2007). The Best of Sail Trim. Sheridan House, Inc. ISBN 978-1-57409-119-9.
+ Snook, Graham. "How to: A Trouble-free Furling Main". Sail Magazine. Retrieved 30 April 2021.
+ Rousmaniere, John (7 January 2014). The Annapolis Book of Seamanship: Fourth Edition. Simon and Schuster. ISBN 978-1-4516-5024-2.
+ Rousmaniere, John (June 1998). The Illustrated Dictionary of Boating Terms: 2000 Essential Terms for Sailors and Powerboaters (Paperback). W. W. Norton & Company. p. 174. ISBN 978-0-393-33918-5.
+ Snyder, Paul. (2002). Nautical knots illustrated. Snyder, Arthur. (Rev. ed.). Camden, Me.: International Marine. ISBN 978-0-07-170890-6. OCLC 1124534665.
+ Moreau, Patrick; Heron, Jean-Benoit (2018). Marine Knots : How to Tie 40 Essential Knots. New York: Harper Design. ISBN 978-0-06-279776-6. OCLC 1030579528.
+ Competent Crew: Practical Course Notes. Eastleigh, Hampshire: Royal Yachting Association. 1990. pp. 32–43. ISBN 978-0-901501-35-6.
+ Batchelor, G.K. (1967), An Introduction to Fluid Dynamics, Cambridge University Press, pp. 14–15, ISBN 978-0-521-66396-0
+ Klaus Weltner A comparison of explanations of the aerodynamic lifting force Am. J. Phys. 55(1), January 1987 pg 52
+ Clancy, L.J. (1975), Aerodynamics, London: Pitman Publishing Limited, p. 638, ISBN 978-0-273-01120-0
+ Collie, S. J.; Jackson, P. S.; Jackson, M.; Gerritsen; Fallow, J.B. (2006), "Two-dimensional CFD-based parametric analysis of down-wind sail designs" (PDF), The University of Auckland, retrieved 4 April 2015
+ Textor, Ken (1995). The New Book of Sail Trim. Sheridan House, Inc. p. 50. ISBN 978-0-924486-81-4.
+ Deacon, E. L.; Sheppard, P. A.; Webb, E. K. (December 1956), "Wind Profiles over the Sea and the Drag at the Sea Surface", Australian Journal of Physics, 9 (4): 511, Bibcode:1956AuJPh...9..511D, doi:10.1071/PH560511
+ Hsu, S. A. (January 2006). "Measurements of Overwater Gust Factor From NDBC Buoys During Hurricanes" (PDF). Louisiana State University. Archived from the original (PDF) on 4 March 2016. Retrieved 19 March 2015.
+ Zasso, A.; Fossati, F.; Viola, I. (2005), Twisted flow wind tunnel design for yacht aerodynamic studies (PDF), 4th European and African Conference on Wind Engineering, Prague, pp. 350–351
+ Hsu, S. A. (April 2008). "An Overwater Relationship Between the Gust Factor and the Exponent of Power-Law Wind Profile". Mariners Weather Log. National Oceanic and Atmospheric Administration. Retrieved 19 March 2015.
+ Garrett, Ross (1996). The Symmetry of Sailing: The Physics of Sailing for Yachtsmen. Sheridan House, Inc. ISBN 978-1-57409-000-0.
+ Bethwaite, Frank (4 August 2013). Higher Performance Sailing: Faster Handling Techniques. A&C Black. ISBN 978-1-4729-0130-9.
+Bibliography
+"Transportation and Maps" in Virtual Vault, an online exhibition of Canadian historical art at Library and Archives Canada
+Rousmaniere, John, The Annapolis Book of Seamanship, Simon & Schuster, 1999
+Chapman Book of Piloting (various contributors), Hearst Corporation, 1999
+Herreshoff, Halsey (consulting editor), The Sailor's Handbook, Little Brown and Company, 1983
+Seidman, David, The Complete Sailor, International Marine, 1995
+Jobson, Gary (2008). Sailing Fundamentals (Revised ed.). Simon and Schuster. p. 224. ISBN 9781439136782.

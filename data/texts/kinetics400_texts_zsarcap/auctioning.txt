@@ -1,0 +1,69 @@
+What is an Auction?
+An auction is a system of buying and selling goods or services by offering them for bidding—allowing people to bid and selling to the highest bidder. The bidders compete against each other, with each subsequent bid being higher than the previous bid. Once an item is placed for sale, the auctioneer will start at a relatively low price to attract a large number of bidders. The price increases each time someone makes a new, higher bid until finally, no other bidders are willing to offer more than the most recent bid, and the highest bidder takes the item. An auction is considered complete when the vendor accepts the highest bid offered and the buyer pays for the goods or services and takes possession of them.
+
+ 
+
+Auction
+
+ 
+
+Although auctions are often considered synonymous with the sale of antiques, rare collectibles, and paintings, they are also used in investment banking. Investment bankers use auctions to attract the highest possible price when selling a company. The process starts by inviting multiple buyers to the auction. More prospective buyers usually translates to competitive bidding that pushes the price higher, enabling the bank to maximize its profit from the sale. In contrast, most buyers prefer proprietary sales over an auction because they can usually exercise more control over the purchase price.
+
+ 
+
+History of Auctions
+The origin of auctions can be traced back to approximately 500 B.C. in ancient Greece when women were auctioned off for marriage. During this period, it was illegal for women to get married without going through the auction process. The auctioneer started the sale with the woman who was considered to be the most beautiful among all the women being auctioned that day. The auction followed a descending pricing method, beginning with the highest price and going lower until the lowest bid was found, as long the bid price was more than, or equal to, the reserve price set by the seller. If the buyers could not get along with their new wives, they were allowed to recover their money.
+
+In the United States, early auctions were used to sell farm produce, estates, and slaves. In the American Civil War, soldiers returning from war frequently sold their war plunder through auctions. However, the only soldiers who were allowed to sell the spoils of war were those holding a rank of colonel or higher. The business of auctioneering grew rapidly during the Great Depression when many people became bankrupt and, therefore, were forced to liquidate their assets. Auctions helped the individuals and businesses affected by the crisis to sell their assets quickly.
+
+The need for qualified auctioneers prompted auctioneer Carey Jones to establish the first auctioneering school in early 1900. The school, located in Davenport, Iowa, was known as the Jones’ National School of Auctioneering and Oratory.
+
+With the growth of technology in the 1990s, auctioneers started using computers, cell phones, and fax machines to increase the efficiency of their trade. Some auctioneers would take photographs of their items and project them onto big screens so that potential buyers could get a clear view of the items on sale. In 1995, eBay, the first online bidding site, opened in the United States, setting a new stage for the auctioneering business. Online auctions are popular with sellers because the huge number of potential bidders makes it easier for them to get a good price for virtually any item they have to sell. Buyers like having a wide range of products to choose from and being able to find just about anything they’re searching for to buy.
+
+ 
+
+The Auction Process
+Before the start of an auction, potential buyers are usually allowed a preview period to check the items on sale and examine their condition. The preview period may be announced as being on the evening before the day of the auction or a few hours before it starts. Once potential buyers are done viewing all the items and are interested in placing their bids, they must register with the auctioneer. The registration process requires the buyer’s details like phone number, address, and identification such as a passport or driver’s license number. Each registered bidder is given a bidder card with a number that is used to identify all participants.
+
+The sound of a bell traditionally marks the beginning of an auction. The auctioneer gives a brief description of the item for sale and starts the bidding with a price that he/she considers a reasonable opening price. Alternatively, the seller may have set a minimum bid price that they will accept, and the bidding starts there. The bidders then call out their bids, with each bid being higher than the subsequent bid. The bidders lift up their bidder card to announce their bid price so the auctioneer can identify who is making the bid. The process ends when there are no more bids, and the buyer making the highest bid gets the item. The highest bidder takes ownership of the item immediately after paying their bid price.
+
+ 
+
+Types
+William Vickrey modeled the first four types of single-unit auctions. They include:
+
+English Auction
+The English auction is also known as an open outcry auction and is the most commonly used type today. It is an open ascending price auction where participants bid against each other, with each subsequent bid being higher than the previous bid. The auctioneer announces the prices, and the bidders call out their bids until no participant is willing to bid higher. The process ends when the auctioneer accepts the highest final bid. This type of auction is commonly used for selling wine, antiques, tobacco, and art.
+
+ 
+
+Dutch Auction
+This is an open descending price auction where the auctioneer starts with a high asking price and lowers the bid until one of the bidders is willing to accept the auctioneer’s price, or when the seller’s reserve price is achieved. The goods for sale are allocated based on the bid order, where the first highest bidder picks their items, followed by the second-highest bidder, and so on until the order has been exhausted. Dutch auctions are used for perishable commodities such as flowers, fish, tobacco, and occasionally for investment securities.
+
+Alphabet (Google) had a famous example of a Dutch Auction IPO.  Read about Google’s Dutch Auction.
+
+ 
+
+First-price Sealed-bid Auction
+In the first-price sealed-bid auction, also known as a blind auction, all bidders submit sealed bids simultaneously so that no bidder gets to know the bid of their competitors. Each bidder can only submit a single bid and does not get an opportunity to change their bid price. In a buyer-bid auction, the highest bidder takes ownership of the item at their bid price, whereas in a seller-bid auction, the lowest “bidder” wins the right to sell their goods for the highest bid price accepted by a buyer. The first-price sealed-bid type of auction is often used in government contract tendering, mining leases, military procurement, refinancing credit, and foreign exchange.
+
+ 
+
+Second-price Sealed-bid Auction
+The second-price sealed-bid auction is similar to the first-price sealed-bid, except the highest bidder gets the item at the price of the second-highest bidder. For example, if the highest bidder won an auction with a bid of $500, and the previous high bid was $480, then the winning bidder only has to pay $480 for the item being sold.
+In a seller-bid auction of this type, the lowest bidder sells the item at the second-lowest bid. This kind of auction is used in automated contexts such as real-time bidding for online advertising.
+
+ 
+
+Related Readings
+Want to learn more about markets and the financial industry? Check out the following CFI information resources:
+
+Capital Raising Markets
+Key Players in the Capital Markets
+Liquidation Value
+Monetary Assets
+Financial Analyst Training
+Get world-class financial training with CFI’s online certified financial analyst training program!
+
+Gain the confidence you need to move up the ladder in a high powered corporate finance career path.
+

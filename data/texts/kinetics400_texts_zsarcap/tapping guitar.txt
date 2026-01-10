@@ -1,0 +1,104 @@
+Tapping
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Tapping (disambiguation) and Tap (disambiguation).
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. (August 2010)
+This article possibly contains original research. (August 2010)
+This article may require cleanup to meet Wikipedia's quality standards. (August 2010)
+
+The tapping technique being performed.
+Tapping, also called tap style (tapstyle), touch-style, and two-handed tapping, is a guitar playing technique where a string is fretted and set into vibration as part of a single motion of being tapped onto the fretboard, with either hand, as opposed to the standard technique of fretting with one hand and picking with the other. Tapping is the primary technique intended for some instruments such as the Chapman Stick, and is the alternative method for the Warr Guitar and others. Tapped passages incorporate the techniques of hammer-on and pull-off, but with both hands freed to produce notes. Some players (such as Stanley Jordan) rely extensively or exclusively on tapping.
+
+
+Contents
+1	Description
+2	History
+3	Techniques
+3.1	Two-handed tapping
+3.2	One-handed tapping
+3.3	Tapped harmonics
+4	See also
+5	References
+6	External links
+Description
+Tapping is an extended technique, executed by using either hand to 'tap' the strings against the fingerboard, thus producing legato notes. Tapping generally incorporates pull-offs or hammer-ons. For example, a right-handed guitarist might press down abruptly ("hammer") onto fret twelve with the index finger of the right hand and, in the motion of removing that finger, pluck ("pull") the same string already fretted at the eighth fret by the little finger of their left hand. This finger would be removed in the same way, pulling off to the fifth fret. Thus the three notes (E, C and A) are played in quick succession at relative ease to the player.
+
+While tapping is most commonly observed on electric guitar, it may apply to almost any string instrument, and several instruments have been created specifically to use the method. The Bunker Touch-Guitar (developed by Dave Bunker in 1958) is designed for the technique, but with an elbow rest to hold the right arm in the conventional guitar position. The Chapman Stick (developed in the early 1970s by Emmett Chapman) is an instrument designed primarily for tapping, and is based on the Free Hands two-handed tapping method invented by Chapman in 1969 where each hand approaches the fretboard with the fingers aligned parallel to the frets. The Hamatar, Mobius Megatar, Box Guitar, and Solene instruments were designed for the same method. The NS/Stick and Warr Guitar are also built for tapping, though not exclusively. The harpejji is a tapping instrument which is played on a stand, like a keyboard, with fingers typically parallel to the strings rather than perpendicular. All of these instruments use string tensions less than a standard guitar, and low action to increase the strings' sensitivity to lighter tapping.
+
+Some guitarists may choose to tap using the sharp edge of their pick instead of fingers to produce a faster, more rigid flurry of notes closer to that of trilling, with a technique known as pick tapping. Guitarist John "5" Lowery has been known to use it, and has nicknamed it a "Spider-Tap".
+
+History
+
+Niccolò Paganini, the 19th century violin master, one of the first innovators of musical instrument tapping.
+
+Jazz guitarist Roy Smeck, seen here in the 1926 short film His Pastimes, was an early popularizer of tap playing.
+Tapping has existed in some form or another for centuries. Niccolò Paganini (1782-1840) used similar techniques on the violin, striking the string with a bouncing bow articulated by left-hand pizzicato. Paganini considered himself a better guitarist than violinist,[citation needed] and in fact wrote several compositions for guitar, most famously the "Grand Sonata for Violin and Guitar." His guitar compositions are rarely performed in modern times, though his violin compositions enjoy multiple performances. Some musicologists believe he wrote his 37 violin sonatas on guitar and then transcribed them for violin. Well known to frequent taverns, Paganini was likely exposed to gypsy guitar techniques from Romani, "gypsies." He preferred playing his guitar for tavern customers instead of concert hall audiences.[1]
+
+Similar to two-hand tapping, selpe technique is used in Turkish folk music on the instrument called the bağlama.[2]
+
+Tapping techniques and solos on various stringed acoustic instruments such as the banjo have been documented in film, records, and performances throughout the early 20th century. Various musicians have been suggested as the originators of modern two-hand tapping. While one of the earliest players known to use the technique was Roy Smeck (who used a tapping style on a ukulele in the 1932 film Club House Party), electric pickup designer Harry DeArmond developed a two-handed method as a way of demonstrating the sensitivity of his pickups. His friend Jimmie Webster, a designer and demonstrator for Gretsch guitars, made recordings in the 1950s using DeArmond's technique, which he described in the instructional book Touch Method for Electric and Amplified Spanish Guitar, published in 1952.
+
+
+Enver Izmailov, a strictly tapping Russian folk and jazz guitar player in 2009.
+
+Stanley Jordan, a jazz guitarist, in 2017 relies extensively on tapping.
+Vittorio Camardese developed his own two-handed tapping in the early 1960s, and demonstrated it in 1965 during an Italian television show.[3]
+
+Tapping was occasionally employed by many 1950s and 1960s jazz guitarists such as Barney Kessel, who was an early supporter of Emmett Chapman.
+
+In August 1969, Chapman developed a new way of two-handed tapping with both hands held perpendicular to the neck from opposite sides, thus enabling equal counterpoint capabilities for each hand. To maximize the technique, Chapman designed a 9-string long-scale electric guitar which he called "the Electric Stick" (and later refined as the Chapman Stick), the most popular dedicated tapping instrument. Chapman's style aligns the right-hand fingers parallel to the frets, as on the left hand, but from the opposite side of the neck. His discovery led to complete counterpoint capability, and a new instrument, the Chapman Stick, and to his "Free Hands" method. Chapman influenced several tapping guitarists, including Steve Lynch of the band Autograph, and Jennifer Batten.
+
+The tapping technique began to be taken up by rock and blues guitarists in the late 1960s. One of the earliest such players was Canned Heat guitarist Harvey Mandel, whom Ritchie Blackmore claims to have seen using tapping onstage as early as 1968 at the Whisky a Go Go.[4] George Lynch has corroborated this, mentioning that both he and Eddie Van Halen saw Mandel employ "a neo-classic tapping thing" at the Starwood in West Hollywood during the 1970s.[5] Mandel would use extensive two-handed tapping techniques on his 1973 album Shangrenade. Another early example of the tapping technique can be heard in Terry Kath's "Free Form Guitar" from Chicago's debut album in 1969.
+
+Randy Resnick (of the band Pure Food and Drug Act, which at one time also featured Mandel) used two-handed tapping techniques extensively in his performances and recordings between 1969 and 1974. Resnick was mentioned in the Eddie Van Halen biography[6] for his contribution to the two-handed tapping technique. In reference to Resnick's playing with Richard Greene And Zone at the Whisky a Go-Go in 1974, Lee Ritenour mentioned in Guitar Player magazine January 1980 that
+
+
+One of the most accomplished and technically adept electric guitarists, Steve Vai uses tapping to perform precise and complex arpeggiations.
+"Randy was the first guitarist I ever saw who based his whole style on tapping."[citation needed] Resnick also recorded using the technique in 1974 on the John Mayall & the Bluesbreakers album Latest Edition and has said that he was attempting to duplicate the legato of John Coltrane's "Sheets of Sound".
+
+Steve Hackett of Genesis also claims to be an inventor of tapping as early as 1971.[7][8]
+
+Some players such as Stanley Jordan, Paul Gilbert, Buckethead, and Steve Vai were notably skilled in the use of both hands in an almost piano-like attack on the fretboard.
+
+In the mid 1970s two-handed tapping started to break into the mainstream, when Frank Zappa started incorporating it into his songs, and performing them to large TV audiences. Eddie Van Halen went on to popularize the two-handed tapping technique in the late 1970s. Van Halen claims that his own inspiration came from Jimmy Page: "I think I got the idea of tapping watching (Page) do his "Heartbreaker" solo back in 1971… He was doing a pull-off to an open string and I thought… I can do that, but what if I use my finger as the nut and move it around?"[9]
+
+Techniques
+Two-handed tapping
+
+Emmett Chapman, jazz guitarist and inventor of the Chapman Stick guitar, using the Free Hands tapping method in 1969.
+Tapping can be used to play polyphonic and counterpoint music on a guitar, making available eight (and even nine) fingers as stops. For example, the right hand may fret the treble melody while the left hand plays an accompaniment. Therefore, it is possible to produce music written for a keyboard instrument, such as J.S. Bach's Two-part Inventions.
+
+The main disadvantage to tapping is reduced range of timbre, and in fact it is common to use a compressor effect to make notes more similar in volume. As tapping produces a "clean tone" effect, and since the first note usually sounds the loudest (unwanted in some music like jazz), dynamics are a main concern with this technique, though Stanley Jordan and many Stick players are successful in this genre.
+
+Depending on the orientation of the player's right hand, this method can produce varying degrees of success at shaping dynamics. Early experimenters with this idea, like Harry DeArmond, his student Jimmie Webster, and Dave Bunker, held their right hand in a conventional orientation, with the fingers parallel with the strings. This limits the kind of musical lines the right hand can play. The Chapman method puts the fingers parallel to the frets.
+
+One-handed tapping
+One-handed tapping, performed in conjunction with normal fingering by the fretting hand, facilitates the construction of note intervals that would otherwise be impossible using one hand alone. It is often used as a special effect during a shredding solo. With the electric guitar, in this situation the output tone itself is usually overdriven — although it is possible to tap acoustically — with drive serving as a boost to further amplify the non-picked (and thus naturally weaker) legato notes being played.
+
+The overall aim is to maintain fluidity and synchronization between all the notes, especially when played at speed, which can take extensive practice to master.
+
+Tapped harmonics
+Tapped harmonics are produced by holding a note with a player's fretting hand, and tapping twelve frets down from that note with the player's tapping hand (i.e. the note on the 4th fret of the A string is tapped on the 16th fret of the A string). Rather than hammering-on and pulling-off with the right hand, harmonics are produced by hitting the fret with a finger. This method of tapping can be heard in Van Halen's songs "Women In Love" and "Dance the Night Away". Early Metallica bassist Cliff Burton also utilized tapped harmonics on bass guitar on his noted instrumental piece "(Anesthesia) Pulling Teeth".
+
+See also
+Steve Hackett
+Megatar
+Niccolò Paganini
+Billy McLaughlin
+Jorge Pescara
+Enver İzmaylov
+Eddie Van Halen
+References
+ P.J. Bone: The Guitar and Mandolin. Schotts, UK 1954; Encyclopædia Britannica (1911), Vol. XX, p. 459, "Paganini, Nicolo".; J. J. Sugden: Paganini, his Life and Work, p.17. UK 1980; by Stephen S. Stratton, London: "THE STRAD" Office, 3, Green Terrace, Rosebery Avenue, E.C. J. LENG & CO., 186, Fleet Street, E.C..
+ subutayarikan (2006-09-15), Erdal Erzincan & Erol Parlak -- KAYTAGI, retrieved 2018-08-11
+ Roberto Angelini Official Page (2013-07-02), Vittorio Camardese ospite a "Chitarra Amore Mio" (RAI-1965) LA NASCITA DEL TAPPING, retrieved 2018-08-11
+ "Ritchie Blackmore, Interviews". www.thehighwaystar.com. Retrieved 2018-08-11.
+ Cody, Randy (15 March 2009). "ROCKET Interviews George Lynch". The Metal Den. Retrieved 2018-08-11.
+ Sanchez, Abel. Van Halen 101.
+ https://www.musicradar.com/news/guitars/steve-hackett-how-i-invented-finger-tapping-542029
+ https://www.guitarworld.com/artists/15-prog-rocks-best-guitarists-through-years
+ Eddie Van Halen quoted from Bosso, Joe. “VH1.” In Guitar World Presents Van Halen, ed. Jeff Kitts, Brad Tolinski, and Chris Scapelliti, 14-25. New York: Backbeat Books, 2010. Originally published in Guitar World, April 2008.
+External links
+Basic info about Tapping Instruments in Spanish & English

@@ -1,0 +1,150 @@
+Spray painting
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+LVLP system
+Spray painting is a painting technique in which a device sprays coating material (paint, ink, varnish, etc.) through the air onto a surface. The most common types employ compressed gas—usually air—to atomize and direct the paint particles.
+
+Spray guns evolved from airbrushes, and the two are usually distinguished by their size and the size of the spray pattern they produce. Airbrushes are hand-held and used instead of a brush for detailed work such as photo retouching, painting nails, or fine art. Air gun spraying uses generally larger equipment. It is typically used for covering large surfaces with an even coating of liquid. Spray guns can be either automated or hand-held and have interchangeable heads to allow for different spray patterns.
+
+Single color aerosol paint cans are portable and easy to store.
+
+
+Contents
+1	History
+2	Types
+2.1	Air gun spraying
+2.1.1	High volume low pressure
+2.1.2	Low volume low pressure
+2.2	Electrostatic spray painting
+2.2.1	Rotational bell
+2.3	Electric fan
+2.3.1	Hot spray
+2.3.2	Air assisted airless spray guns
+2.4	Airless spray guns
+2.5	Automated linear spray systems
+2.6	Automated flatline spray systems
+2.7	Spray booth
+3	Safety
+4	Defects
+5	Other applications
+6	See also
+7	References
+8	More spray painting resources
+History
+Spraying paint with compressed air can be traced back to its use on the Southern Pacific Railway in the early 1880s[1] In 1887 Joseph Binks, the maintenance supervisor at Chicago's Marshall Field's Wholesale Store developed a hand-pumped cold-water paint spraying machine to apply whitewash to the subbasement walls of the store.[2][3] Francis Davis Millet, the decorations director for the World's Columbian Exposition in Chicago in 1893, used Binks and his spray painting system to apply whitewash consisting of a mix of oil and white lead to the buildings at the Exposition, taking considerably less time than traditional brush painting and turning it into what has been called the White City.[4][1][3] In 1949, Edward Seymour developed a type of spray painting, aerosol paint, that could be delivered via a compressed aerosol in a can.
+
+Types
+Air gun spraying
+This process occurs when the paint is applied to an object through the use of an air-pressurized spray gun. The air gun has a nozzle, paint basin, and air compressor. When the trigger is pressed the paint mixes with the compressed air stream and is released in a fine spray.[5]
+
+
+Types of nozzles and sprays
+Due to a wide range of nozzle shapes and sizes, the consistency of the paint can be varied. The shape of the workpiece and the desired paint consistency and pattern are important factors when choosing a nozzle. The three most common nozzles are the full cone, hollow cone, and flat stream.[6] There are two types of air-gun spraying processes. In a manual operation method the air-gun sprayer is held by a skilled operator, about 6 to 10 inches (15–25 cm) from the object, and moved back and forth over the surface, each stroke overlapping the previous to ensure a continuous coat.[7] In an automatic process the gun head is attached to a mounting block and delivers the stream of paint from that position. The object being painted is usually placed on rollers or a turntable to ensure overall equal coverage of all sides.
+
+High volume low pressure
+High volume low pressure (HVLP) is similar to a conventional spray gun using a compressor to supply the air, but the spray gun itself requires a lower pressure (LP). A higher volume (HV) of air is used to aerosolize and propel the paint at lower air pressure. The result is a higher proportion of paint reaching the target surface with reduced overspray, materials consumption, and air pollution. A regulator is often required so that the air pressure from a conventional compressor can be lowered for the HVLP spray gun. Alternatively, a turbine unit (commonly containing a vacuum cleaner derived motor) can be used to propel the air without the need for an airline running to the compressor.
+
+A rule of thumb puts two-thirds of the coating on the substrate and one third in the air. True HVLP guns use 8–20 cfm (13.6–34 m3/h), and an industrial compressor with a minimum of 5 horsepower (3.7 kW) output is required. HVLP spray systems are used in the automotive, decorative, marine, architectural coating, furniture finishing, scenic painting, and cosmetic industries.
+
+Low volume low pressure
+Like HVLP, low volume low pressure (LVLP) spray guns also operate at a lower pressure (LP), but they use a low volume (LV) of air when compared to conventional and HVLP equipment. This is a further effort at increasing the transfer efficiency (amount of coating that ends up on the target surface) of spray guns while decreasing the amount of compressed air consumption.
+
+Electrostatic spray painting
+The electrostatic painting was first patented in the U.S. by Harold Ransburg in the late 1940s. Harold Ransburg founded Ransburg Electrostatic Equipment and discovered that electrostatic spray painting was an immediate success as manufacturers quickly perceived the substantial materials savings that could be achieved. In electrostatic spray painting or powder coating, the atomized particles are made to be electrically charged, thereby repelling each other and spreading themselves evenly as they exit the spray nozzle. The object being painted is charged oppositely or grounded. The paint is then attracted to the object giving a more even coat than wet spray painting, and also greatly increasing the percentage of paint that sticks to the object. This method also means that paint covers hard to reach areas. The whole may then be baked to properly attach the paint: the powder turns into a type of plastic. Car body panels and bike frames are two examples where electrostatic spray painting is often used.
+
+There are three main technologies for charging the fluid (liquid or powders):
+
+Direct charging: An electrode is immersed in the paint supply reservoir or the paint supply conduit.
+Tribo charging: This uses the friction of the fluid which is forced through the barrel of the paint gun. It rubs against the side of the barrel and builds up an electrostatic charge.
+Post-atomization charging: The atomized fluid comes into contact with an electrostatic field downstream of the outlet nozzle. The electrostatic field may be created by electrostatic induction or corona, or by one or more electrodes (electrode ring, mesh, or grid).
+Rotational bell
+Main article: Rotational bell painting
+With this method the paint is flung into the air by a spinning metal disc ("bell"). The metal disc also imparts an electrical charge to the coating particle.[8]
+
+Electric fan
+There are a variety of hand-held paint sprayers that either combine the paint with air or convert the paint to tiny droplets and accelerate these out of a nozzle.
+
+Hot spray
+By heating the full-bodied paint to 60-80 °C, it is possible to apply a thicker coat. Originally the paint was recirculated, but as this caused bodying up, the system was changed to direct heating on line. Hot spraying was also used with Airless and Electrostatic Airless to decrease bounce-back. Two-pack materials usually had premix before tip systems using dual pumps.
+
+Air assisted airless spray guns
+These use air pressure and fluid pressure 300 to 3,000 pounds per square inch (2,100–20,700 kPa) to achieve atomization of the coating. This equipment provides high transfer and increased application speed and is most often used with flat-line applications in factory finish shops.
+
+The fluid pressure is provided by an airless pump, which allows much heavier materials to be sprayed than is possible with an air spray gun. Compressed air is introduced into the spray via an air nozzle (sometimes called air cap) similar to a standard conventional spray gun. The addition of compressed air improves the fineness of atomization. Additionally, unlike a pure airless spray gun, an AA gun has some control over fan spray to round spray. Some electric airless sprayers (Wagner and Graco) are fitted with a compressor to allow the use of an air-assisted airless gun in situations where portability is important.
+
+Airless spray guns
+These operate connected to a high-pressure pump commonly found using 300 to 7,500 pounds per square inch (2,100–51,700 kPa) pressure to atomize the coating, using different tip sizes to achieve the desired atomization and spray pattern size. This type of system is used by contract painters to paint heavy duty industrial, chemical, and marine coatings and linings.
+
+Advantages of airless spray are:
+
+The coating penetrates better into pits and crevices.
+A uniform thick coating is produced, reducing the number of coats required.
+A very "wet" coating is applied, ensuring good adhesion and flow-out.
+Most coatings can be sprayed with very little thinner added, thereby reducing drying time and decreasing the release of solvent into the environment.
+
+Care must be used when operating, as airless spray guns can cause serious injury,[9] such as injection injuries, due to the paint ejecting from the nozzle at high pressure.
+
+Airless pumps can be powered by different types of motor: electric, compressed air (pneumatic), or hydraulic. Most have a paint pump (also called a lower) that is a double-acting piston, in which the piston pumps the paint in both the down and the upstroke. Some airless pumps have a diaphragm instead of a piston, but both types have inlet and outlet valves.
+
+Most electric-powered airless pumps have an electric motor connected through a gear train to the paint piston pump. The pressure is achieved by stopping and starting the motor via a pressure sensor (also called a transducer); in more advanced units, this is done by digital control in which the speed of the motor varies with the demand and the difference from the pressure set-point, resulting in very good pressure control. Some direct drive piston pumps are driven by a gasoline engine with pressure control via an electric clutch. In electric diaphragm pumps, the motor drives a hydraulic piston pump that transmits the oil displaced by the piston, to move the diaphragm.
+
+Hydraulic and air-powered airless pumps have linear motors that require a hydraulic pump or an air compressor, which can be electric or gasoline-powered, although an air compressor is usually diesel-powered for mobile use or electric for fixed installations. Some airless units have the hydraulic pump and its motor, built onto the same chassis as the paint pump.
+
+Hydraulic or air-powered airless provide a more uniform pressure control since the paint piston moves at a constant speed except when it changes direction. In most direct drive piston pumps, the piston is crankshaft driven in which the piston will be constantly changing speed. The linear motors of hydraulic or compressed air drive pumps are more efficient in converting engine power to material power, than crankshaft-driven units. All types of paint can be painted using an airless method.
+
+Automated linear spray systems
+See also: Vacuum coating
+Manufacturers who mass-produce wood products use automated spray systems, allowing them to paint materials at a very high rate with a minimum of personnel. Automated spray systems usually incorporate a paint-saving system that recovers paint not applied to the products. Commonly, linear spray systems are for products which are lying flat on a conveyor belt and then fed into a linear spray system, where automated spray guns are stationed above. When the material is directly below the guns, the guns begin to paint the material. Materials consist of lineal parts usually less than 12 inches (30 cm) wide, such as window frames, wood molding, baseboard, casing, trim stock, and any other material that is simple in design. These machines are commonly used to apply the stain, sealer, and lacquer. They can apply water- or solvent-based coatings. In recent years ultraviolet-cured coatings have become commonplace in profile finishing, and there are machines particularly suited to this type of coating.
+
+Automated flatline spray systems
+See also: Wood finishing
+Mass-produced material is loaded on a conveyor belt where it is fed into one of these flatline machines. Flatline machines are designed to specifically paint material that is less than 4 inches (10 cm) thick and complex in shape, for example, a kitchen cabinet door or drawer front. Spray guns are aligned above the material and the guns are in motion to hit all the grooves of the material. The guns can be moved in a cycle, circle, or can be moved back and forth to apply the paint evenly across the material. Flatline systems are typically large and can paint doors, kitchen cabinets, and other plastic or wooden products.
+
+Spray booth
+A spray booth is a pressure-controlled closed environment, originally used to paint vehicles in a body shop. To ensure the ideal working conditions (temperature, airflow, and humidity), these environments are equipped with ventilation, consisting of mechanical fans driven by electric motors, and optionally burners to heat the air to speed paint drying. Toxic solvents and paint particles are exhausted outside, possibly after filtering and treatment to reduce air pollution. Prevention of fires and dust explosions is also a high priority. To assist in the removal of the over sprayed paint from the air and to provide efficient operation of the down-draft, water-washed paint spray booths utilize paint detackifying chemical agents.
+
+Artists may also make use of spray booth facilities to enable them to use spray paints (including automotive finishes) efficiently and safely. They may rent space and time in auto body shops or set up their facilities in association with schools or artist cooperatives.
+
+Safety
+Spray painting poses health hazards that affect the respiratory, nervous, and circulatory systems. Similarly, using solvents to clean one's hands of paint marks and residue may cause skin irritation or even more serious issues since many are carcinogenic or neurotoxic. There are risks involved in working with substances such as paint and thinner, which contain compounds that are potentially harmful to health, or even fatal.[10]
+
+Appropriate training for personnel who are responsible for conducting the painting procedures is important, which may be from a professional training provider or the product supplier. There are also hazards related to the disposal of wastes and materials that are contaminated with potentially harmful chemicals. Decontamination procedures and Material Safety Data Sheets for various products are important. Safety is improved through:
+
+Personal protective equipment (PPE) use: PPE must be used when handling spray paint materials, particularly PPE that offers protection to the skin. Some of the essential personal protective equipment are overalls with a hood, protective goggles for the eyes, half-mask respirators, and single-use nitrile gloves. One of the most essential types of PPE is respiratory protective equipment (RPE). Nevertheless, basic RPE does not offer ample protection from the negative effects of isocyanates in human tissue. Paint products containing isocyanates must be handled while donning an air-fed RPE that has a 20 or higher APF (assigned protection factor). Air-fed respiratory protective equipment needs extra attention since they provide breathable air to the user. When in use, measures must be implemented to prevent contamination of the air supply since there is a risk of harmful substances entering the intake valve if it is not positioned outside of the spray area.
+Health monitoring: To avoid the development of illnesses associated with exposure to isocyanates, health authorities recommend that people who use spray paint products that contain the substance provide a urine sample after a work shift at least once a year, with high frequencies in first few months on the job. A urine sample with ascertain levels of exposure, not the presence of disease associated with harmful chemicals.
+Proper storage: Since paints and thinners are fire hazards, extra care must be taken not only while they are in use. Fire safety should also be considered when storing paint supplies.[11] In the United States, the Occupational Safety and Health Administration (OSHA) provides guidelines for the proper storage of flammable materials.[12] Many products used in spray paint are flammable such that fire risk is likely within a distance of 15 cm from the nozzle. As such, ignition sources must be placed at a safe distance. Also, there is a risk of dust explosions when finely-divided paint particles become airborne.
+Proper recordkeeping: One of the basic tenets of risk control is the maintenance of updated health records of personnel handling spray paint products. Confidential data on biological monitoring[13] results must be appropriately kept.[14] Records of the schedule and result of testing procedures should also be kept. Some of the most important tests to be conducted regularly are air quality testing, testing of pressure systems and electrical systems, and testing of compressor reservoir air filters.
+Defects
+Orange peel, an undesirable rippled texture
+Fisheye, blemishes caused by contamination such as oil or water
+Other applications
+One application of spray painting is graffiti. The introduction of inexpensive and portable aerosol paint has been a boon to this art form, which has spread all over the world. Spray painting has also been used in fine art. Jules Olitski, Dan Christensen, Peter Reginato, Sir Anthony Caro, and Jean-Michel Basquiat have used airbrushes, for both painting and sculpture.
+
+See also
+	Wikimedia Commons has media related to Spray painting.
+Aerosol paint
+Airbrush – Small, air-operated tool that atomizes and sprays various media
+Frederick William Lawrence – Canadian airbrush painter
+Huffing
+Inhalant – Chemical breathed in to cause intoxication
+Primer (paint)
+Spray paint art, also known as graffiti
+References
+ "The Contentious Historical Origins of Spray Paint".
+ finishingacademy.com, 1.1.1 The History of the Spray Booth
+ "The History of Sprayguns - Body Shop Business". 1 September 2000.
+ "The Devil in the White City" by Erik Larson, Vintage, 2004
+ "Using a Compressed Air Paint Spray Gun" (PDF). 1 May 2008.
+ Todd, Robert H., Dell K. Allen, Leo Alting. Manufacturing Processes Reference Guide. New York City 1994. Industrial Press Inc.
+ "paint spraying, air compressors, paint spray gun, power tools, pro tools".
+ Poozesh, Sadegh; Akafuah, Nelson; Saito, Kozo (1 February 2018). "Effects of automotive paint spray technology on the paint transfer efficiency – a review". Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering. 232 (2): 282–301. doi:10.1177/0954407017695159. ISSN 0954-4070.
+ medscape.com
+ Safety in isocyanate paint...
+ SMART paint spraying
+ "Flammable and Combustible Liquids - 29 CFR 1910.106". OSHA. Retrieved 18 November 2015.
+ "What is biological monitoring?" (PDF). UK Government Health & Safety Laboratory. Retrieved 19 November 2015.
+ Health surveillance records
+More spray painting resources
+"How to Buy a Paint Sprayer and Make it Pay." Popular Science, September 1966, pp. 160–163, article on house paint sprayers.
+Health Hazards and Safety Precautions Associated with Spray Paints - How To Paint A Car Info

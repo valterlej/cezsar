@@ -1,0 +1,97 @@
+12 Steps to Recording a Song
+AUDIOHOW TODecember 21, 2018
+female singing into microphone and pop filter
+It’s common for today’s aspiring music producers, singers, and musicians to kickstart and later add leverage to their careers by creating music that will showcase their respective skills and talents. All they need to do is set up their own home recording studio, which has become very doable with all the available information that we have at our fingertips (and over at the Adorama Learning Center).
+
+While the recording process does sound complicated because of the involved technical and creative aspects, it’s quite easy once you get to know the basic steps by heart. Let’s get to them below.
+
+How to Record Songs
+female guitarist and vocalist recording a song
+Image via Shutterstock
+1. Create a home recording setup
+Setting up your own home recording studio is super easy. Contrary to popular belief, you don’t always need the loudest speakers, the most expensive microphone, or even the biggest mixer with millions of sliders and knobs—although you do need to worry about soundproofing your room.
+
+You’ll only need a few basic things for your studio and, with a lot of patience and research, you will be able to find the right pieces of equipment to suit your needs and preferences. Here’s the short list of sound recording equipment:
+
+Desktop Computer or Laptop
+Headphones
+Microphones
+Pop Filters
+Musical Instruments
+Amplifiers
+Control Surface
+Studio Monitors
+Digital Audio Workstation (DAW)
+Virtual Instruments
+Recording Mixer
+Audio Interface
+Studio Rack Mount
+Power Conditioner
+Uninterruptible Power Supply
+The list might look like a handful, but you’ll realize that these can usually be set up in just one corner of the room. You can read our article about building your own home recording studio for more details, product recommendations, and specific instructions on how you can create your main workstation for song recording.
+
+2. Run a digital audio workstation
+After gathering your equipment, including a fast computer with enough RAM memory, run your chosen DAW. If you’re using a Mac, it should already have the preinstalled GarageBand. Alternatively, you can use the easily downloadable Audacity or the more professional ProTools.
+
+The key is to find the ideal software that you can get used to, as opposed to getting a complicated one that you won’t be able to make the best use of. You can check out our list of the best recording software to learn more about the most popular DAWs that podcasters and music producers use in their home and commercial studios.
+
+3. Organize what to record
+Once your hardware and software (and song!) are all ready, the next step involves planning exactly what you need to record from start to finish. Note that song recording typically takes longer than a day as it includes recording multiple tracks before merging them into a single audio file that has your music, effects, and vocals.
+
+Many artists and music producers record their songs with individual elements ordered as such:
+
+Base Track
+Rhythm
+Harmony
+Melody/Vocals
+Background Vocals/Fills
+The first few elements serve as a guide for the next ones, which is why the vocals get recorded last. Of course, the list varies depending on your song and how you want it to turn out. Some songs consist of just one instrument (like a guitar) and vocals while others feature everything from a full set of drums to a second voice. The goal is to break them up during recording so you end up with clear audio elements that keep pace with each other and are in tune.
+
+4. Set Up Your Equipment
+Come recording day, ensure that you have all the instruments you need, as well as the necessary cables and supporting equipment (like amps) that you need to connect them to your recorder. For higher quality audio, you’ll want to connect them to a professional audio interface and mixer instead of to your computer directly.
+
+Test them out, modulate the volumes coming from each audio channel, and create a brief recording to make sure that your sound sources sound just the way you want them to. This way, you lessen the editing work that you need to do during post-production.
+
+5. Create Your Base Track or Guide
+Now that you’re ready to record, the first goal is to set the foundation of your song: your beat. But for your beat or rhythmic instruments to be very precise, you’ll need to follow a base track, which will serve as the guide that your drums and other instruments will follow along with.
+
+You can record (or even download) a simple metronome yourself or use a pre-recorded drum loop for your base track—as long as it follows your desired tempo.
+
+6. Record the Rhythm Section
+Finally, the real recording can begin! With your choice of rhythmic instrument (drums, bass, or even just an acoustic guitar), hit record and start playing while listening to the base track using headphones. In this case, you’ll want to use a pair of headphones that don’t block out noise completely so you can still hear yourself playing.
+
+Record as many separate rhythm tracks as you need and remember not to record over anything. Should there be any errors, you can cut them out and replace them with subsequent recordings later on during post-production. Then again, it’s always better to have a clean recording, so always do your best!
+
+7. Record the Harmonies
+Again, depending on your song, your harmony can consist of one or many instruments. They’re typically recorded separately—using different types of microphones and as individual tracks— but, together, they should form your background music.
+
+You should have already determined the instruments as well as the chord progression for each so you can save on recording time and costs (in case you’re just renting out the recording studio), but you can always make minor alterations during recording depending on your or your composer’s artistic judgment.
+
+8. Record the Melodies
+Once your harmony or background music is recorded, you can move on to recording your melody. The melody serves as the principal or dominant part of harmonized music, so this part of the recording will consist mainly of lead guitars and lead vocals.
+
+Once the leads are done, you can choose to fill the gaps with supporting melodies. But of course, what you add should still depend on your vision for the song. The beauty of recording separate tracks for each rhythm, harmony, and melody is that you can simply exclude them in the final mix if they don’t work.
+
+9. Add Color and Effects
+Your song should already sound pretty good at this point but you may still want to add a few finishing touches, such as background vocals, piano and percussion fills, or even sound effects. Take the time to record whatever you think your song still needs right before you move on to the next exciting step: mixing.
+
+10. Clean Your Tracks
+The great thing about recording a song, compared to live performances, is that you can take your time in choosing the best tracks that you want to use and later adjust their volumes so not one track will end up overpowering the other.
+
+But before you start loading your tracks for mixing, it would be very helpful to organize and finalize them beforehand. Create folders that will keep your rhythm, harmony, melody, and effects tracks separate. You can even name each track with numbers and automatically delete tracks that don’t work or add value to your song. In the case of duplicates, you can compare each track and keep the best one.
+
+Also, take the time to remove any unnecessary noises and sounds like amp hisses, breaths, or even dead air. The goal is to minimize confusion and difficulty when it’s time for mixing.
+
+11. Mixing
+During mixing, organization is also important. Assign each line on your production software to specific kinds of tracks, like vocals, lead guitars, rhythm guitars, drums, and background vocals. This way, you can easily track errors when you hear them.
+
+Common tasks that you should be doing during mixing include balancing channel levels, panning, equalization, compression, reverb, and automation. Without these steps, there’s almost no way that you will end up with a cohesive sound.
+
+12. Export Your Song
+When your tracks finally sound great together, it’s time to export your song. But if you’re going to be exporting them to a CD, there’s a step called mastering.
+
+Mastering, in itself, is difficult without the help of a mastering engineer so unless you have gained enough knowledge on how to execute mastering techniques like maximizing loudness, balancing frequencies, and stereo widening using software tools like Izotope Ozone and IK Multimedia T-Racks, it may be best to outsource the work.
+
+Check out the Adorama Learning Center for more information about high-quality sound recording and tips on music production.
+
+

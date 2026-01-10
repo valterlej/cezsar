@@ -1,0 +1,1 @@
+Rock paper scissors is a hand game played between two people.
